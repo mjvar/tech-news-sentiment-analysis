@@ -1,0 +1,1318 @@
+As Apple Inc.  moves ahead with long-promised plans to make it harder to target certain iPhone users with ads, advertising companies and software developers are preparing for major disruptions to the $400 billion digital advertising industry.
+
+Facebook Inc., gaming companies and ad-tech providers are weighing a variety of responses, including updated payment models, new advertising techniques and notifications for users. In China, social-media apps have tested a potential workaround that would continue tracking users’ digital footprints.
+
+The changes to Apple’s iPhone software—part of what the company describes as an app-tracking transparency initiative meant to protect user privacy—will let users decide whether to allow apps to track them for targeted ads. The iPhone maker first announced the plan in June and intended to roll it out in September, before delaying that timeline until 2021 to give partners more time to prepare.
+
+Many of those affected have voiced opposition to the plan for months. But with the change expected in the coming weeks, they are now preparing for it and weighing the potential impacts.
+
+“Most people are resigned to the reality of this,” said Eric Seufert, a strategist and consultant who has held several workshops on the matter for developers and ad tech firms. “I don’t think anyone thinks that they have any sort of agency here to change things or to institute a workaround.”
+
+Once the software is installed, Apple will ask users in a pop-up if they want to allow a given app to track their activity across apps and websites from other companies. If users choose to “ask app not to track,” the apps will no longer be able to collect a user’s advertising identifier without permission. That ad ID is widely used by digital-ad and data brokers, but many expect users to reject tracking amid concerns about privacy.
+
+Facebook cautioned investors in January that the coming changes to Apple’s operating system posed a risk to its business. The social-media giant has said it would launch its own in-app, pop-up message to tell users that tracking helps personalize ads and supports businesses that rely on ads to reach consumers. The approach of dueling pop-ups might befuddle or annoy users as the changes are rolled out and implemented.
+
+Facebook Chief Executive Mark Zuckerberg, during an appearance on the Clubhouse app last week, struck a slightly more positive tone while remaining critical of Apple’s change. He said the move could strengthen his company’s own in-app retail channel “by making it harder for [advertisers] to basically use their data in order to find the customer that would want to use their products outside of our platforms.”
+
+Alphabet Inc.’s Google has said it plans to comply with Apple’s new rules. Christophe Combette, group product manager for Google Ads, cautioned in a blog post that the changes would reduce visibility into metrics showing how ads drive app installations and sales, and how advertisers value and bid on ad impressions. Google plans to expand use of a tool that infers whether an ad interaction led to online spending or subscription without identifying individual users.
+
+Companies in China tested a possible workaround that would involve creating an alternate advertising identifier to track users without letting them opt out of the data collection, according to people familiar with the matter. The testing was part of an initiative developed by the state-backed China Advertising Association to create a national standard for Chinese technology companies, the people said.
+
+The identifier, called CAID, uses a technique known as “device fingerprinting” that Apple has banned. This method logs data passed between phones and apps, such as their internet protocol addresses, and uses them as clues to keep track of that user. The Financial Times earlier reported the effort.
+
+Tencent Holdings Ltd. and ByteDance Ltd. were among the companies that participated in the testing, the people said. Tencent hasn’t implemented the technology, a person familiar with the initiative said. A Tencent executive told investors Wednesday that Apple’s ad-tracking changes were causing uncertainty globally.
+
+Video-sharing platform TikTok, which is owned by ByteDance, doesn’t intend to use CAID, said a person familiar with the matter.
+
+Apple would reject such apps that violated its rules, which have banned device fingerprinting for over a decade, a spokesman said. “We believe strongly that users should be asked for their permission before being tracked,” he said.
+
+Apple’s plans to enforce its new policy are likely to lead some apps to change their business models. “Some smaller apps, which used to be free until now, might switch to being paid,” said Barak Witkowski, vice president of product at mobile-ad measurement company AppsFlyer.
+
+Nii Ahene, chief strategy officer at digital-ad consulting firm Tinuiti, predicted an initial pullback in advertising, especially if bought through Facebook, while advertisers gauge its effectiveness under the new rules. In time, advertisers might shift from finding new customers toward communicating with existing ones to boost loyalty, he predicted.
+
+This could be especially painful for the videogame industry, which has long used targeted ads to find the rare customer willing to spend big on in-app purchases.
+
+“They spend most of their dollars trying to find the 1% or 2% of their audience that spends $100, $200 a month,” Mr. Ahene said. “It’s going to be significantly diminished by the fact that you don’t have a unique identifier to attract those individuals.”
+
+Videogame maker Unity Software Inc., which makes money selling software to other gaming apps, said last month that it expected a $30 million hit to revenue this year, or about 3% of the year’s expected sales, as advertisers adjust to Apple’s changes.
+
+Julie Shumaker, Unity’s senior vice president of revenue, said she believes it likely that spending would eventually rebound as advertisers target their ads based on the apps or webpages where they appear, rather than on individual consumers’ behavior.
+
+Some game makers will likely be motivated to change their games in ways that better identify users who spend more money. Under the new rules, if a user downloads an app from an ad and spends money in the new game, the advertiser would be able to find out whether they make a purchase within the first day.
+
+“They will optimize their game to encourage the user to purchase in the first 24 hours, or create some other signal that gives you an idea of whether they’ll be a valuable player,” Ionut Ciobotaru, chief product officer at Verve Group, said. “This is important so that they’ll know if they acquired real customers or not from a given ad campaign.”
+
+--
+
+Many people believe wearing a hearing aid is an advertisement for being old.
+
+No one should have to feel self-conscious about needing hearing assistance, but the stigma is real: After first experiencing hearing loss, people take an average of five to seven years to seek help, according to the Hearing Industries Association.
+
+There’s good news. Hearing aids no longer resemble the chunky, screeching devices of the last century. Some are super-expensive, super-tiny in-ear devices you’d never notice, others are “hearables” that look like regular wireless earphones, and there are iPhone apps that work with regular earbuds—no specialized equipment necessary.
+
+A new law is set to make over-the-counter hearing aids available to people without a visit to the audiologist, opening the door for a wider variety of inexpensive products marketed to people with only mild-to-moderate hearing loss.
+
+There have never been more options for people who need hearing help. Yet all the innovation can’t make the traditional frustrations go away—and it can create tech-support headaches, especially for people who aren’t very smartphone-savvy. The result is that many people still might not get a hearing aid, and that can be a strain on families.
+
+
+Rebecca Woan said she initially met resistance when she tried to get her 90-year-old mother to get a hearing aid. “She wouldn’t acknowledge when she couldn’t hear someone. She would just have a parallel conversation,” Ms. Woan, chief executive of a Chicago insurance company, said.
+
+When her mother, Joan Korach, finally got hearing aids a few years ago, they didn’t fit her ears properly, and she continued having trouble hearing.
+
+“I was trying to encourage her to get better hearing aids and she responded that she had been to the hearing specialist, and I suggested she get a second opinion. I had to nearly scream, ‘Maybe you need a second opinion!’ before she could hear me,” Ms. Woan said.N
+Hearing loss has been linked to increased depression, cognitive decline and greater risk of falls. That’s why experts such as Britta Swedenborg, senior audiologist at teaching hospital Massachusetts Eye and Ear, recommends getting screened before there’s a significant problem. But people have to feel motivated to get a hearing aid, Dr. Swedenborg said. “If a family member is making you get a device and you’re just putting it in a drawer, it’s not a good use of money,” she said. “Whatever device the patient will wear is the best recommendation.”
+
+What used to be a binary thing—hearing aid or no hearing aid—is now far more nuanced.
+
+“If you only have trouble hearing the TV, and people are telling you to turn it down, a TV headset streamer might be the most efficient option for you,” Dr. Swedenborg said. “If you only have trouble hearing in very specific environments and you wouldn’t wear a device all day, a hearable or amplifier might be better for you. Hearing aids are meant to be worn all day.”
+
+Even Apple’s AirPods Pro can now amplify the quiet sounds without making loud sounds any louder so that people running iOS 14 on their iPhones can enjoy music, podcasts, audio books and phone calls more comfortably. Further sound customization is available for people who enter a personal audiogram—a graph showing how loud sounds need to be at various frequencies in order to be heard—into the Apple Health app. Third-party apps such as Mimi can test your hearing and generate an audiogram.
+
+There also are apps that work with people’s existing devices—whether hearing aids, earbuds or headphones—to separate speech from noise.
+
+“If an individual owns a smartphone, and the majority of adults do, they have a non-custom hearing aid right in their hand,” said Catherine Palmer, director of audiology and hearing aids at the University of Pittsburgh Medical Center.
+
+There should be more clarity around how some of these products are defined soon, when the Over the Counter Hearing Aid Act of 2017 goes into effect. The law requires the Food and Drug Administration to create a category of hearing aids intended for adults with mild-to-moderate hearing loss. The FDA hasn’t yet issued regulations on which devices can be sold over the counter and marketed as hearing aids, but they could come later this year.
+
+Currently, only certain FDA-regulated medical devices can be marketed as hearing aids, and even those don’t look or function the way they used to. The latest hearing aids are designed to look like sleek music-streaming earbuds. And like some other app-based hearing devices, many hearing aids now use smartphones’ processing power to utilize machine learning, enabling the wearer to adjust their hearing to different settings. Older hearing aids simply amplified all sounds.
+
+“The real value of machine learning and neural networks is that it allows people more automation and the ability to make personalized adjustments through their hearing-aid apps at any time,” said Brian Taylor, director of clinical content development at hearing-aid company Signia. Signia Active Pro hearing aids look more like earbuds than a hearing aid and range from $3,000 to $7,000 a pair, depending on level of service and hearing loss.
+
+Upstart hearing-health company Nuheara sells its “hearing buds” directly to consumers online and hopes to start selling through retailers when the over-the-counter regulations are finalized. The company said there haven’t been many options for people with mild hearing loss until recently, when technology advances have enabled consumers to customize their own hearing.
+
+Nuheara, based in Perth, Australia, licenses an algorithm from the Australian government’s National Acoustic Laboratories that many audiologists use to calibrate high-end hearing aids. People can use the data to personalize their settings for Nuheara’s $319 IQbuds²MAX.
+
+Nuheara doesn’t bill itself as a hearing-aid alternative for people with severe hearing loss. “A lot of people fit into the mild-to-moderate hearing-loss category, and they’ve been underserved for a long time,” the company’s marketing chief, David Cannington, said. Nuheara customers’ average age is 54, versus around 70 for hearing-aid customers, he said.
+
+
+Once a loved one settles on a device, the tech issues have only just begun. To use all the features provided in a hearing app, people have to have a smartphone, updated with the latest mobile operating system.
+
+“We’re always asking patients what kind of phone they have, whether it’s compatible with our hearing aids and whether they will even use the app,” Dr. Swedenborg said. “It feels like a hurdle in some ways.”
+
+Ms. Korach, the nonagenarian, got a pair of Bluetooth-enabled hearing aids that are paired with her iPhone. “I have a basement in my home and if I’m downstairs, my chances of hearing the phone would not be great,” she said. “But because of my hearing aids’ connection with the iPhone, it’s wonderful because I hear when a call comes in.”
+
+Still, she won’t use the app to adjust the volume or other settings.
+
+“It’s a very straightforward app but she’s just not comfortable with it and she’s not going to get comfortable with it,” her daughter, Ms. Woan, said. “It’s not the fault of the app, but her ability to use the app.”
+
+Hearing-aid makers acknowledge the tech hurdle to getting some older people to use their apps. The latest hearing-aid models can still work without apps, but people won’t derive the full benefits of sound customization without them.
+
+“We created an app that is as friendly and simple as possible,” said Soren Nielsen, president of hearing-aid maker Widex USA. The Widex Moment hearing aids range from $3,000 to $7,000 a pair, and are so tiny it’s hard to notice someone is wearing them. “We want all users to benefit from the app, but it’s fair to say it’s not going to be for everyone,” he said.
+
+--
+
+Some tech companies are pushing for more information on what investors are willing to pay for shares, using a new technique to price an initial public offering to avoid leaving money on the table.
+
+ACV Auctions Inc., a Buffalo, N.Y.-based marketplace for used cars, which listed on Nasdaq on Wednesday, is one of them. Its underwriters relied on a digital platform to collect information from institutional investors about what they wanted to pay and how many shares they were looking to acquire. The company and the underwriters then set a price per share, and picked investors that submitted bids at or above this price. They also considered other factors, such as how long investors held shares following previous IPOs, according to ACV executives.
+
+That is different from a traditional IPO, where investors don’t submit bids and underwriters largely determine share allocations, giving companies less of a say in the process. It is also somewhatdifferent from an auction IPO, where investors receive shares if they bid above the offering price, but allocation is determined using a formula. In ACV’s IPO, the company and its underwriters chose its final list of investors and didn’t use a formula. “It’s…a modification that gives you a little more visibility into investor appetite at different levels of [the] valuation,” said finance chief Bill Zerella. ACV priced its offering of 16.55 million shares at $25 a piece after it earlier this week raised the expected price range to between $20 and $22, up from an earlier estimate of $18 to $20. Shares closed at $30.27 Friday.
+
+Three other companies—Airbnb Inc., DoorDash Inc. and Unity Software Inc. —used similar pricing methods to ACV in 2020, becoming the first companies in severalyears to use some form of auction-style pricing, according to Jay Ritter, a professor at the University of Florida who researches IPOs. The market for IPOs, particularly of large technology companies, has boomed in recent months. Shares of big companies such as Airbnb and DoorDash, which went public late last year, surged following their first day of trading.Auction-style offerings can help ensure companies achieve as close to the maximum price that is possible for their IPO, Mr. Ritterhe said.
+
+These types of IPOs are designed to reduce volatility in a company’s shares once they start trading, according to Brian Hirsch, co-founder and managing partner at Tribeca Venture Partners, one of ACV’s initial investors. One advantage is that the listing company can choose its final roster of IPO investors, said Mr. Hirsch, who is also a member of ACV’s board. Tribeca, which invests in early-stage companies, didn’t buy shares in ACV’s IPO, he said. Tribeca invested a total of $18 million in ACV across its early and growth-stage funds, and didn’t sell its stake in the IPO, according to Mr. Hirsch.ACV executives said they considered other routes to the public market, including merging with a special-purpose acquisition company. But the company wanted to determine the valuation of the company based on pricinginformation from a range of investors. By contrast, ACV in a SPAC deal would have negotiated its valuation with a single acquirer.
+
+ACV’s listing comes months after the company hired Mr. Zerella, an executive known for his experience in preparing companies for a listing. He served as CFO during the IPOs of Fitbit Inc. in 2015 and Vocera Communications Inc. in 2012. Before joining ACV in September, Mr. Zerella worked as CFO at Luminar Technologies Inc. He left that role before Luminar in August agreed to be acquired by a SPAC.
+
+ACV, which was founded in 2015, raised a total of $350.5 million before its IPO from investors including Bessemer Venture Partners and Bain Capital Ventures, according to data provider PitchBook. Bessemer said it didn’t buy shares in the IPO, while Bain declined to comment.
+
+ACV generates revenue primarily by charging fees on its digital marketplace, where used-car dealers can sell their vehicles in 20-minute online auctions. The company doesn’t have a marketplace for individual buyers. It also generates revenue from providing other services such as vehicle transportation and short-term financing.
+
+Revenue for the fiscal year ended Dec. 31 was $208.4 million, compared with $106.8 million a year earlier. ACV in 2020 reported a net loss of $41 million, compared with a loss of $77.2 million a year earlier. It declined to provide a timeline for when it will be profitable.
+
+ACV plans to use the proceeds from its public offering to expand into new regions and increase hiring, particularly in research and development, executives said. The company operates in 47 U.S. states. It has about 1,600 employees, including about 100 in R&D, product and technology.
+
+Acquisitions are also on the table, George Chamoun, ACV’s chief executive, said.
+
+Auction-style IPOs make sense for companies that can generate strong demand from investors, according to Jeff Cohen, a partner in the capital markets practice at Linklaters LLP, a law firm. But the format can involve risks, especially for smaller companies, if institutional investors ultimately refuse to participate. That could happen if investors think there might be less of a chance for shares to jump following the offering, he said.
+
+“I think everything is up for grabs in the IPO market,” Mr. Cohen said.
+
+--
+
+China has pushed hard to be self-sufficient in semiconductors, and state-backed chip firms
+have raised huge sums. But Beijing’s ambitions will ultimately depend on the country’s
+vibrant private sector, too.
+Chinese leaders have listed advanced semiconductors among the core technologies they
+view as choke points vulnerable to foreign pressure, a problem clearly demonstrated by
+the Huawei saga. China isn’t able to produce the highest-performing chips, and it can’t do
+so without American technologies, in particular in chip-making equipment and design
+software.
+The government has poured billions into the sector, set up national chip funds and
+provided tax credits for semiconductor companies. Over 50,000 new Chinese companies
+related to semiconductors were registered in 2020, more than triple the 2015 number.
+China’s leading chip maker, Semiconductor Manufacturing International Corp.
+, said this month that it would spend $2.35 billion to build a foundry in Shenzhen with the
+city’s government.
+One consequence is plenty of wasted capital. A recent case in point: Hongxin, a rising star
+in Wuhan with backing from the local government, has run out of money. Many Chinese
+companies will suffer similar fates, but a handful may end up achieving some
+breakthroughs, as they did in solar panels and electric vehicles. It will likely take much
+longer to catch up in chips, though, given that key technologies are firmly held outside the
+country.
+
+--
+
+Spotify Technology is making its move into live audio by acquiring the sports-talk app Locker Room and its maker Betty Labs.
+
+The deal values the company, initially backed by Lightspeed Venture Partners, and more recently by Google Ventures and Precursor Ventures, at around $50 million, according to a person familiar with the transaction. If certain targets are met the value could climb closer to $80 million, this person said.
+
+Locker Room has quickly become the spot for fan chatter around games and sports news, with the likes of Miami Heat forward Andre Iguodala and Philadelphia 76ers guard Seth Curry to podcaster Ant Wright and ESPN’s Jeff Darlington dropping in for conversations as well. It filled a real-time, interactive void for sports fans left by the inability to gather in arenas, stadiums and bars during the Covid-19 lockdowns.
+
+
+The purchase follows an explosion in demand for live audio apps amid the pandemic. Voice-based social networks, such as Clubhouse, Twitter Spaces, Water Cooler and Locker Room, allow users to converse spontaneously. They are an alternative to podcasts, but they are also a curated amalgamation of podcasts, live streams, conferences and radio. Comedians, artists and business leaders have flocked to these apps’ virtual rooms to perform, chat, debate and network across topics and industries.
+
+For Spotify, which has expanded into podcasting to position itself as the world’s largest audio company—not just a music-streaming giant—the deal is a bet that live audio will last well beyond the pandemic.
+
+“Our creators have been asking for a long time to be able to be more interactive with fans,” Gustav Söderström, Spotify’s research and development chief, said in an interview. “The most effective way is to actually speak to them live.”
+
+The Locker Room app is less than a year old. It launched in October of last year and has seen about 19,000 installs since then, according to app research firm Sensor Tower Inc. So far in March, it has seen about 8,000 installs, already representing 60% month-over-month growth from all of February.
+
+Spotify plans to rebrand and relaunch the app with a broader focus across sports, music and pop culture. The company plans to keep it a stand-alone product, but users will be able to record live sessions and upload them to Spotify or podcasting platform Anchor and distribute them broadly. The streaming giant plans to tap its music and podcasting stars and users to facilitate programming with artists hosting album-listening parties or DJs spinning live sets before uploading them as playlists. Sportscasters and fans can weigh in around games, and podcasters could host live “ask me anything” sessions, or AMAs.
+
+“How do you talk to many people at once has been a challenge, and this format has turned out to be very scalable,” Mr. Söderström said. “You can have a few people on stage, you can raise your hand in the audience and be unmuted and ask a question, unlike on Twitter where you have everyone screaming all at once.”
+
+For now, the app and its content will remain free for all to access, though Spotify has been working on ways for creators to monetize their content, such as a la carte payments for podcasts.
+
+“Maybe live is a revenue model, maybe it isn’t,” said Mr. Söderström, adding that while China has shown aptitude to pay for this kind of service, Western markets haven’t. “It has potential, and it’s our job to explore.”
+
+--
+
+Google said staff may start returning to some of its U.S. offices over the next month, another indication of how companies are preparing for a more normalized environment as Covid-19 vaccinations pick up.
+
+The search-engine giant owned by Alphabet Inc. said Wednesday the initial return period will be voluntary as offices begin to reopen but with capacity limits, according to an email from Google’s top people executive Fionna Cicconi.
+
+“Conditions vary significantly from state to state, so you’ll hear directly from your local leaders when your office is eligible to reopen,” Ms. Cicconi said in the email, which was viewed by The Wall Street Journal. The company is advising workers to get vaccinated against Covid 19, but isn’t making it mandatory for returning to the workplace.
+
+Returning to the office remains optional at Google until September, according to Ms. Cicconi’s email to employees.
+
+Corporations that scattered their staff to work remotely have been gaming out when—if ever—employees should start reoccupying sites that have largely been empty since the pandemic broke out about a year ago.
+
+A number of big companies have said they will test so-called hybrid work arrangements, where employees split their time between home and office.
+
+Alphabet and Google Chief Executive Sundar Pichai has said working together in person is a core part of Google’s culture.
+
+The company, which is based in Mountain View, Calif., has said it plans to spend $7 billion this year to expand its footprint of offices and data centers in the U.S. It is creating new office sites in Minnesota, Texas and North Carolina, and plans to add roles at existing locations in cities like Chicago and Atlanta.
+
+Amazon.com Inc. said this week that it believes most of its U.S. staff will be back in the office by the early fall, according to a blog post. Twitter Inc., however, has said it will allow most employees to work from home permanently. Some companies, including JPMorgan Chase & Co. and Salesforce. com Inc., have moved to get rid of chunks of their office space.
+
+--
+
+ Taiwan Semiconductor Manufacturing Co., a major chip supplier to Apple Inc., said it would invest $100 billion over the next three years to increase production capacity as demand surges.
+
+The planned investment is a record for the world’s largest contract chip maker as well as the broader industry, analysts said, at a time when chips are in short supply around the world. In a statement, the company said it expects strong demand over the next several years, a trend driven by growth in 5G and high computing capabilities and accelerated by the Covid-19 pandemic.
+
+“TSMC is working closely with our customers to address their needs in a sustainable manner,” the company said Thursday.
+
+In a letter to clients seen by The Wall Street Journal, Chief Executive C.C. Wei said that the company hadn’t been able to keep up with demand over the past year despite running its fabrication plants at over 100% utilization. Mr. Wei wrote that TSMC had started hiring thousands of new employees, and planned to both build new fabs and expand existing ones.
+
+The $100 billion allocation for the next three years would be more than double what the company spent in the previous three years, according to New Street Research analyst Pierre Ferragu.
+
+In January, TSMC announced a record capital-expenditure budget for 2021 of $25 billion to $28 billion to develop advanced chips and building plant capacity.
+
+Other chip makers are also pouring money into increasing capacity, though none as heavily and quickly as TSMC. Intel Corp. recently said it would spend $20 billion on two new chip factories in the U.S., starting in 2024. The semiconductor giant had lagged behind competitors such as TSMC and Samsung Electronics Co. in market share and technology capabilities, leading to the ouster of Bob Swan as chief executive.
+
+Samsung plans to invest about $116 billion by 2030 to further diversify its semiconductor production. Globalfoundries Inc., a major U.S.-based contract chip maker, has said it is doubling its capital investment this year to boost capacity.
+
+Semiconductors are an important component in many consumer goods from phones to cars, and the pandemic created new demand for electronics such as work-from-home equipment and gaming consoles. As a result of the supply constraints, auto manufacturers such as Ford Motor Co. and Volkswagen AG VOW -2.05% have halted production of vehicles that use chips for functions such as engine management, automatic braking and assisted driving.
+
+The shortage has also highlighted the supply chain’s dependence on TSMC and Taiwan’s semiconductor industry. President Biden’s $2.3 trillion infrastructure plan included $50 billion for the U.S. semiconductor industry in an effort to mitigate reliance on overseas suppliers.
+
+TSMC said last year, in a decision praised by the Trump administration, that it would invest $12 billion to build a chip factory in Arizona with the support of the federal and state governments. The two factories that Intel announced in March will also be built in Arizona.
+
+--
+
+Waymo LLC Chief Executive John Krafcik said he is stepping down from his role, bringing
+an end to the former auto executive’s more than five-year tenure leading Google parent
+Alphabet Inc.’s autonomous-vehicle unit.
+The company said Friday that it is promoting its chief technology and operating officers,
+Dmitri Dolgov and Tekedra Mawakana, to lead a decade-old effort to make self-driving
+cars a reality. They will share the title of co-chief executive.
+After a long career working at companies including Ford Motor Co. and Hyundai Motor
+Co. , Mr. Krafcik was brought into Google’s project in 2015 at a time when the tech
+company was facing skepticism from car makers over its objectives and the possibility of
+a new rival. He spent time wooing industry leaders at auto shows around the world,
+trying to frame Waymo’s effort as one to develop a car’s driver and not one intending to
+build its own car. He did deals to work with Chrysler, Jaguar and the Renault-Nissan
+alliance.
+Under his leadership, Waymo launched a limited ride-hailing service in suburban Phoenix
+where some customers are shuttled around in minivans without a person behind the
+wheel. The challenge of scale has remained, however, as deploying the technology has
+proven harder than many technologists expected.
+The 59-year-old also led Waymo’s conversion into an independent subsidiary of Alphabet
+and the raising of $3.25 billion of external funding, bringing on investors such as privateequity firm Silver Lake and Abu Dhabi’s Mubadala Investment Co. “It’s a long road getting
+this technology out to the world,” Mr. Krafcik said during an interview with The Wall
+Street Journal last year.
+In a blog post Friday, Mr. Krafcik said he would serve as an adviser to Waymo, adding that
+“Dmitri and Tekedra have my full confidence and support.” He said that he will be going
+on a sabbatical with his wife and relocating to Austin, Texas, from Silicon Valley.
+“He essentially turned Waymo into a real company,” said Mike Ramsey, a Gartner
+automotive analyst. “They didn’t hit some of their development targets, but nobody did.
+He turned what was a R&D effort into a commercial operation.”
+
+While Mr. Krafcik may have helped soothe some in the auto industry, his arrival in
+Mountain View, Calif.—the city where Google is based—ruffled feathers among some of
+the program’s longtime engineers. Two of the highest-profile members of the team
+departed in the months after his arrival.
+Engineer Anthony Levandowski left in early 2016 and the project’s leader Chris Urmson,
+who had been chief technology officer, left in August 2016. Both would go on to found rival
+autonomous vehicle startups. Mr. Levandowski would later plead guilty to stealing trade
+secrets, while Mr. Urmson co-founded Aurora, which has emerged as one of Waymo’s
+most formidable driverless vehicle rivals.
+In their absence, Mr. Dolgov’s profile grew as he assumed the role of CTO. He joined
+Google’s self-driving car project when it began in 2009 and led the development of
+Waymo’s autonomous system, known as Waymo Driver. He studied physics and math at
+the Moscow Institute of Physics and Technology before earning a doctorate in computer
+science from the University of Michigan.
+Ms. Mawakana, a former senior public policy executive at Yahoo and eBay Inc., joined in
+2017 to help navigate Waymo through the thicket of policy and regulatory issues that
+arise when trying to deploy robot cars. Her role continued to grow over the years with her
+becoming chief operating officer in 2019.
+
+--
+
+Parents often worry about their kids being bullied online, but lately some parents have become the bullies.
+
+Numerous parents are taping themselves disciplining their children, then posting the videos on TikTok to teach them a lesson. One mom filmed her kids scrubbing floors as a punishment for fighting. “So my kids want to be dicks, this is what I make them do,” she said in the video. A father filmed three kids squatting with their backs against the wall and their arms stretched out, saying it was punishment for acting up. Two of the children in the video were sobbing and one hit the camera when it got close to her face.
+
+In a TikTok video that went viral, a father swears at his daughter and smashes her laptop because she had it in bed with her when she was supposed to be sleeping. The girl appears to be suppressing laughter, and the father, responding to criticism in the comments section, stated that it was fake. He couldn’t be reached for comment.
+
+In another viral video, a 27-year-old father in Williamson, W.Va., Derek Hensley, uses a guitar to smash his partner’s daughter’s TV screen, supposedly because she was playing videogames instead of cleaning her room. He too later said it was staged.
+
+Real or not, such videos can have serious consequences.
+
+After viewing the video, someone reported Mr. Hensley to his local child protective services, and he and his family had to go in for a visit. “I’m upset that I had to put my kids through that,” said Mr. Hensley, a drug screener for the county and a part-time graphic designer who made T-shirts of the guitar-smashing clip. Still, he said, he isn’t sorry about making this video or others of a similar nature.
+
+Why are parents doing this? Some, it appears, are actually trying to use the technique, however flawed, to correct their kids’ behavior. Some are poking fun at aspects of child-rearing—at their children’s expense. (A recent TikTok challenge: “Tell me your child is pooping without telling me.”)
+
+Others like Mr. Hensley are riding a wave of popularity in this strange new genre.
+
+Free Hess, a pediatrician and child-safety expert, said that while there are kid-shaming posts on other social-media networks, including Instagram and Facebook, she has recently noticed a particular increase in them on TikTok.
+
+“While we can’t begin to comment on the individual discipline choices parents make for their families, our policies for TikTok focus on our commitment to the safety of minors,” a TikTok spokeswoman said, explaining that, per the app’s community guidelines, TikTok removes content that depicts or promotes physical abuse or psychological disparagement of minors. “We have not observed a notable volume of videos depicting parents or caregivers disciplining children and violating our community guidelines,” she said.
+
+Even staged videos can be harmful, Dr. Hess said, in part because they could inspire the production of real shaming videos.
+
+In videos that depict actual punishment, the harm to children is unlike discipline that happens off screen. “Even if their friends don’t follow their parents on social media, for so many kids today, social media is their world,” said Dr. Hess. “Adults have no idea what it’s like to be a child in public in front of the world.”
+
+Research has shown that shaming children—publicly or privately—isn’t an effective method of discipline, Dr. Hess added. “Shaming doesn’t change behavior,” she said. “All it does is decrease self-esteem. When kids are shamed, they often feel like they have to hate someone, so they hate their parent for making them feel that way, or they hate themselves.”
+
+Mr. Hensley said it was the children’s idea for him to create a TikTok account. They told him he’s funny and that his videos could do well. But he said he didn’t set out to make videos that appeared to embarrass them. He said he was fixing a door one day, having removed it from its hinges, when the Cardi B song “WAP” popped into his head. He started singing his own version: “Ain’t no doors in this house… We ain’t raising brats.” He decided it could be the basis of a video.
+
+The video, which he first posted on Nov. 8, got 5.7 million views.
+
+
+Comments rolled in, such as, “Now that’s parenting done the right way” and “Right on dad! Good job.” The video generated so many views that Mr. Hensley qualified for a creator account. He decided to make more, to see if he could profit from the appetite for such videos.
+
+He made another video of himself taking away the kids’ phones, also to the tune of “WAP,” in which he sang, “Ain’t no phones in this house.” He tagged the kids in some of his videos to help them get more followers on their own TikTok accounts.
+
+Not all the comments on his door-removal video, and subsequent videos, have been supportive. And not everyone views them as a joke. Many people have accused Mr. Hensley of abuse. He said he has received death threats. Viewers have even reached out to 11-year-old Kiarra, featured in the TV-smashing video. “Some people put our address in the comments on her TikTok and said, ‘Do you live here? Wear all black in your next video if you need help,’” he said.
+
+“My kids aren’t actually being punished in my videos,” Mr. Hensley said. “If my kids are being disciplined, it’s not on camera, but they’re rarely in trouble anyway.”
+
+The TV-smashing video was an even bigger hit, with nearly 12 million views. Mr. Hensley said Kiarra’s TV was already on the fritz and he had a new one for her. “We had to start and stop that video so many times. I told her to back-talk me, and she’d laugh and we had to start over,” he said. “I said, ‘Look, once I hit this TV, we’re out of TVs.’”
+
+Mr. Hensley, who now has nearly 800,000 TikTok followers, said he has made about $4,000 off his videos so far. His theory on the popularity of kid-shaming videos is that it’s human nature to watch—and judge—how others are parenting.
+
+“I think people enjoy getting in other people’s business,” he said. “It’s what social media is.”
+
+And he said he isn’t worried about influencing other parents to create videos that depict real child discipline. “We’re all adults,” Mr. Hensley said. “I don’t take responsibility if someone sees my video and decides to discipline their child.”
+
+The criticism he has received for some of the videos won’t make him stop. He said the only thing that would cause him to put down the camera is if his children asked him to.
+
+When I spoke to Kiarra, she told me she’s in on the joke and likes being in the videos. “They’re fun to make,” she said.
+
+-- 
+
+Amy McGovern is one of those rare people who moved to Oklahoma for the weather.
+Which isn’t to say she personally enjoys the tornadoes that regularly tear through the
+state or the routine pummeling with golf-ball-size hail. “I’m on roof number three in 15
+years,” she laughs.
+But that severe weather is her reason for coming: A computer scientist who formerly
+worked in robotics, she was recruited by the University of Oklahoma’s school of
+meteorology. And last fall, with $20 million from the National Science Foundation, she
+launched one of the country’s foremost institutes applying artificial intelligence to
+weather and climate. As new techniques in machine learning become ubiquitous and yield
+startling applications, such as recognizing faces or mimicking human writing, her center
+is part of a new push to see if they can read the clouds.
+Dr. McGovern’s institute, which also includes six other universities and a variety of
+private partners, is part of that effort. In addition to developing artificial-intelligence
+methods to improve prediction of extreme weather and coastal oceanography, they are
+working to ensure the tools they develop are viewed as trustworthy by the human
+forecasters who will ultimately use them. “We’re testing the whole cycle,” she says. “We
+will actually save lives and save property.”
+AI is already making existing prediction methods more efficient and contributing to
+increases in the speed and accuracy of forecasting, and it shows promise for tracking the
+paths of severe weather like tornadoes and hail with greater precision. The technology
+isn’t going to replace traditional weather forecasting but rather augment and strengthen
+existing methods.
+Boosting efficiency
+There is enormous opportunity in more accurately forecasting and better preparing for
+severe weather. According to the National Oceanic and Atmospheric Administration, in
+2020 there were a record-setting 22 weather and climate disasters that each did more
+than $1 billion in damage. Modelers estimate the recent freeze in Texas destroyed
+infrastructure and disrupted supply chains worth $90 billion. And for all the
+improvements in forecasting over the years, there is still a lot we don’t know. According
+to Dr. McGovern, the government is fairly comprehensive in giving advanced warnings of
+tornadoes, anticipating 80% of them, but prone to false positives, with 80% of warnings
+turning out to be mistaken.
+Since the beginning of modern weather forecasting in the 1950s, meteorologists have
+primarily relied on “numerical weather prediction”—mathematical models that simulate
+the world and atmosphere in accordance with the physics of water, wind, earth and
+sunlight, and the infinite ways they interact. In the pursuit of an ever more detailed
+rendering, today’s models incorporate about 100 million pieces of data each day, a level of
+complexity comparable to simulations of the human brain or the birth of the universe.
+For decades, this has produced steady improvements in forecast accuracy. But in recent
+years, the proliferation of Earth-observation satellites as well as new sensors, like the air-
+pressure monitors in billions of mobile phones, have outstripped scientists’ ability to
+integrate them into weather models. And even crunching a fraction of these data has
+demanded exponential increases in computing power to make timely predictions.
+The latest artificial-intelligence techniques work in a fundamentally different way from
+older techniques by training neural networks on this deluge of data rather than on the
+laws of physics. Instead of using brute-force computation to forecast weather based on
+present conditions, these networks review data on weather from the past and develop
+their own understanding of how conditions evolve. Rudimentary AI techniques have been
+applied to weather and climate for decades—the National Oceanic and Atmospheric
+Administration sponsored its first conference on AI way back in 1986—but recent
+advances in deep learning and greater access to computers capable of running them have
+enabled a swift uptick in research.
+AI techniques aren’t being used to generate forecasts on their own, at least not yet. That is
+partly because traditional methods are quite good: Two weeks ahead of the winter storm
+that clobbered Texas in mid-February, the Fort Worth office of the National Weather
+Service began advising that unusually cold weather was on the way, and by a week out
+many models were estimating its intensity within a few degrees. Ted Ryan, a
+meteorologist there, says they sometimes run forecasts through a sophisticated machinelearning algorithm to see if it delivers substantially different results from their own, but
+don’t routinely integrate it into their forecast and messaging operations. “It’s somewhere
+between a curiosity and a novelty.”
+Another challenge for AI is that it is best at predicting patterns that are common among
+the data it has trained on—but weather matters most when it is outside the ordinary, such
+as the Texas storm, which tied for the coldest temperature since 1899.
+Just because AI hasn’t replaced traditional forecasting methods doesn’t mean it won’t
+quickly alter them, however. Current weather prediction is already so intensive in terms
+of computing power that it can run only on the world’s fastest supercomputers, and
+scientists continually try to push the limits. Machine-learning techniques can reduce
+power usage by emulating parts of global weather models but with simpler computations
+and less power—and little change in accuracy.
+Sid Boukabara, principal scientist at the National Oceanic and Atmospheric
+Administration’s Center for Satellite Applications and Research, thinks those gains will be
+significant. “For certain components, it could be 10 times more efficient to 1,000 times
+more efficient.” But it is too early to know how much this will enhance the accuracy of
+numerical weather prediction as a whole.
+For instance, the European Center for Medium-Range Weather Forecasts currently
+simulates the globe as a grid of squares that are 9 kilometers on a side (roughly 5 miles)
+and stacked 137 layers up into the atmosphere. Deputy Director Peter Bauer says each
+step up in detail requires an exponential increase in electricity: The center’s newest
+supercomputer in Bologna, Italy, will consume as much power as 6,000 households. He
+and his colleagues are quickly approaching the limits of what they can afford or justify, he
+says.
+This year—relying on AI methods to boost efficiency—the center will begin developing a
+new global model at a 1-kilometer resolution that will bring storms and oceanic eddies
+into better focus, says Dr. Bauer. “Bigger and faster machines give us ever greater
+computing power, but we need to radically change the code we run on them to be able to
+use them effectively.”
+Closer to home
+Researchers see promise for AI in narrower applications, for example in using machine
+learning to create hyperlocal forecasts that are more relevant for the people receiving
+them. Even the best global models of weather are simulated at a spatial resolution of
+several kilometers, so they may accurately predict rain in your county but don’t do as well
+predicting rain on your block. Researchers say deep learning may allow us to downscale
+from that coarser geography to finer-detail forecasts, similar to how it has been used to
+sharpen low-resolution photographs. In this case, it does this by supplementing weather
+forecasts from conventional methods with details such as topography in order to
+interpolate how broader weather patterns will be realized at specific locations.
+Machine learning may also prove crucial for accurate “nowcasting”—short-term
+forecasts computed at a rapid speed that isn’t feasible for traditional methods. Last
+spring, a pair of scientists at Google Research showed that, without any physical laws
+explicitly encoded into them, deep neural networks could predict rainfall in the next eight
+hours better than other state-of-the-art models. Nal Kalchbrenner, one of the researchers,
+says they were actively working to increase the quality and time range of the forecasts.
+“This idea paves the way for AI to make broad and substantial inlays in the field of
+weather and climate science.”
+Even advancing an accurate weather forecast by an hour or two could have big
+implications for businesses, which are exposed to different risks than the typical
+household. “If I tell you it’s about to hail, you can put your car in the garage,” says Dr.
+McGovern. “If you’re a car manufacturer or car dealer, and you have 1,000 cars on the lot,
+you can’t move 1,000 cars in that amount of time.” Last year, she co-wrote a study that
+showed machine learning improved short-term hail forecasts, and overcame limited
+amounts of global weather data by isolating and analyzing thousands of reports of
+individual hail storms. She is now working with NOAA on developing the techniques into
+an operational product.
+Governments and big businesses have noticed the potential of AI. Last October, the NOAA
+and Alphabet Inc.’s Google announced a partnership to explore how machine learning
+could help the agency more effectively use satellite and environmental data. This January,
+the federal National Center for Atmospheric Research invested $35 million in a new
+supercomputer with architecture more suitable for the latest AI techniques. And both
+NOAA and its counterpart the European Center have recently published strategies for
+incorporating artificial intelligence into their work.
+But, wary of the hype that envelopes all things AI, some leading researchers are cautious
+about overpromising. Stephan Rasp is no naysayer; he co-wrote one of the earliest studies
+showing that AI could efficiently emulate certain aspects of forecasting, and “artificial
+intelligence” is even in the name of the startup where he now works as a senior data
+scientist, Climate.ai. But as he sees it, much of the continuing research is still in the proofof-concept stage, having successfully applied AI to simplified data sets but with few
+examples yet of actually improving weather and climate forecasts.
+He thinks it may take a decade for the field to determine where AI can be useful and where
+it cannot. “If you have a hammer, everything looks like a nail. And I feel like that’s what we
+are doing at the moment.”
+
+--
+
+Mobility data from smartphones has helped government and healthcare officials across
+the country make decisions in battling the Covid pandemic, like whether to reduce
+capacity at public places or where to place testing and vaccination centers.
+But the data may be flawed in many cases. A new study from researchers at Stanford
+University and Carnegie Mellon University suggests that smartphone location data often
+leaves out some people who could be most at risk from Covid-19: those who are over 65
+years of age and those who are nonwhite.
+
+“Big data is not always representative data,” says Daniel Ho, a law professor at Stanford
+and one of the authors of the study.
+The researchers suggest that older people and people of color may be less likely to carry
+smartphones or use apps that show their location. They compared smartphone mobility
+data for election day in 2018 from geolocation firm SafeGraph Inc., which includes no
+information on personal identities, with voter data for that day from North Carolina,
+which includes information about voters’ race and age. The comparison showed that
+polling locations where more elderly and nonwhite people voted were significantly more
+likely to be underrepresented in the mobility data than locations where more younger and
+predominantly white people voted.
+That discrepancy “has pretty significant implications in the ways in which this data and
+artificial-intelligence systems trained on top of it are used to inform pandemic response,”
+says Dr. Ho. “You may, for instance, miss certain nursing homes, to the extent that our
+study shows that older populations are far less likely to be represented in this data.”
+SafeGraph’s data is used by more than 1,000 organizations—including government
+organizations like the Centers for Disease Control and Prevention, academics and
+nonprofits—in efforts to monitor foot traffic as part of Covid-19 research efforts. The Wall
+Street Journal has previously licensed data from SafeGraph for use in its reporting. A
+SafeGraph spokesperson says the company provides tools to help researchers make
+adjustments for bias, as well as a platform for people to exchange observations with each
+other and with SafeGraph on “these and other potential research challenges.”
+Eli Fenichel, a professor of natural-resource economics at Yale University, says it’s
+important to acknowledge the limitations of smartphone mobility data. “From the reports
+that the data providers have given us in our use of the data in research at the national
+level, there don’t appear to be huge red flags,” he says. However, when looking at regionallevel data, variations could occur, he says, depending on factors that could include which
+apps are contributing to the data, among others.
+
+“With any data set, wherever we’re trying to get information about human behavior and
+what people are doing, we find issues particularly the finer you drill down,” he says.
+Dr. Ho notes that mobility data is just one of several tools used by public health
+authorities, including testing, hospitalization and fatality rates and contact tracing. And
+while smartphone mobility information isn’t perfect, the solution isn’t to ignore the data,
+but to make adjustments for bias where warranted, he says. “Our study points toward
+ways in which we can understand the sources of bias, and as a result, think about
+adjusting inferences to account for these blind spots.”
+
+--
+
+The U.K. launched a new regulatory body aimed at policing allegations of anticompetitive behavior among the world’s largest technology companies, adding another agency to a growing list of watchdogs scrutinizing how tech giants use their market heft.
+
+Britain’s new Digital Markets Unit will be tasked with making sure tech giants like Facebook Inc. and Alphabet Inc.’s Google don’t exploit any market dominance to crowd out competition, officials here said. The new unit was unveiled last year but launched officially—with limited powers at first—late Tuesday.
+
+It won’t be able to levy fines until Parliament approves legislation governing its oversight power, a legal framework that is expected to be in place by next year. Meanwhile, the agency is hiring staff and will begin drawing up what would become a legally binding code of conduct for companies once that legislation passes.
+
+The new U.K. unit comes amid Europe’s biggest expansion of global tech regulation in years. The continent has often led the world in regulating technology companies, but Washington and Beijing have both begun to increase their own scrutiny recently. The U.S. filed two major antitrust lawsuits against Google and Facebook in December. The two companies have argued that they don’t abuse their market power.
+
+U.S. merchant groups are forming a national coalition to campaign for stricter antitrust laws, including measures they hope could force Amazon.com Inc. to spin off some of its business lines, The Wall Street Journal reported earlier Tuesday. An Amazon spokesperson said the company’s critics “are suggesting misguided interventions in the free market.”
+
+In November, China unveiled its first draft guidelines overseeing competitive behavior by digital giants. The U.K., which has left the European Union, is also planning to introduce one-of-a-kind online safety legislation later this year.
+
+Britain’s new watchdog will be housed inside the country’s main antitrust regulator, the Competition and Markets Authority, or CMA. That agency is already pursuing probes and enforcement issues with a handful of tech giants, but in the past it has sometimes deferred investigations to EU regulators.
+
+The new Digital Markets Unit will have a staff of around 60 people and plans to spend its first year of operation gathering evidence from businesses, government and academics. Once legislation is passed fully standing the new body up, the regulator is envisioned to have the power to levy fines, reverse corporate mergers and force companies to comply with its new code of conduct.
+
+Britain is creating the watchdog as it steps onto the global stage post-Brexit and during its presidency of the G-7 group of rich nations. Later this month, the U.K. government will host a meeting of digital ministers to discuss joining up regulatory and policy approaches.
+
+The Digital Markets Unit will be led by Will Hayter, a former regulatory director who spent much of the past year working on the U.K.’s transition out of the EU.
+
+“Today is a major milestone in the path to creating the world’s most competitive online markets, with consumers, entrepreneurs and content publishers at their heart,” U.K. Digital Secretary Oliver Dowden said in a statement.
+
+--
+
+The global semiconductor shortage, snarling the availability of everything from cars to refrigerators, hasn’t crimped big tech’s profits.
+
+Churning out products around the clock, semiconductor giants can’t keep pace with demand, as vaccines roll out, economies reopen and people keep spending.
+
+An early barometer of the tech industry’s ongoing financial strength came Wednesday, as Samsung Electronics Co. forecast a 44% rise in operating profit despite its U.S. chip production getting wiped out for weeks due to severe weather in Texas. If not for that, Samsung’s semiconductor operating profit would have matched, if not topped, last year’s first-quarter performance, industry analysts said.
+
+But the surprise driver of Samsung’s expected bottom line was a resurgence in sales of its smartphones and home appliances.
+
+The company’s mobile-business operating profit, aided by a weakened Huawei Technologies Co. hit by sanctions, rose roughly 50% from the prior year, while it doubled in its consumer electronics division, which includes appliances, according to estimates by CW Chung, a Seoul-based analyst at Nomura Securities.
+
+
+“Basically the consumer spending and sentiment appears to be very strong,” Mr. Chung said. “People can’t travel, so they’re spending money on durable goods, smartphones, TVs, home appliances.”
+
+Global smartphone shipments of all brands slid 8% in 2020 over the prior year, according to market researcher Strategy Analytics, as consumers rode out the pandemic as with prior downturns by curbing spending on flashy gadgets. But this year, as people feel more confident about an economic rebound, smartphone sales should rise about 7%, the firm projects.
+
+In the opening months of this year, Samsung’s mobile phone business prospered by moving up the launch of its flagship Galaxy S21 model by roughly a month from its usual timetable. It also benefited from a weakened Huawei Technologies plus LG Electronics Inc.’s signaling in January that it would exit the mobile-phone industry, which the South Korean company made official on Monday.
+
+Samsung likely avoided the worst effects of any component shortages because of its standing as the world’s biggest smartphone maker and the fact it makes many of the key parts itself, from memory chips to flexible displays, said Neil Mawston, executive director at Strategy Analytics.
+
+“There’s a post-Covid recovery going on,” Mr. Mawston added, “and when people get more spare cash they want more gadgets.”
+
+As a supplier, Samsung is likely to reap even greater benefits in the months ahead, as the full effects of the chip shortage materialize—and that hands manufacturers like itself greater pricing power. After boom years in 2017 and 2018, major semiconductor makers ended up with a glut of excess supply and responded by pulling back on multibillion-dollar investments that boost capacity.
+
+Only in recent months have chip makers aggressively ramped back up their capital expenditure plans. Taiwan Semiconductor Manufacturing Co. last week said it would invest $100 billion over the next three years to boost production capacity, following Intel Corp.’s planned $20 billion on two new chip factories. Samsung previously earmarked about $116 billion by 2030 to further diversify its chip production, and is considering an investment of up to $17 billion to build a new facility in the U.S.
+
+But those moves will take months, if not years, to resolve the widespread shortages. In the U.S., companies ranging from auto makers to home appliance makers have urged the Biden administration to craft measures to boost domestic chip production. Roughly $50 billion of President Biden’s $2.3 trillion infrastructure plan will go toward the American semiconductor industry, offering production incentives among other moves.
+
+The Biden administration is expected to meet later this month with chip makers and other manufacturers, with Samsung a likely participant.
+
+In the first three months of the year, prices actually slid for NAND flash memory, which gives devices their storage capacity, while prices for DRAM chips used in computers and servers rose in the modest single digits, said Sanjeev Rana, a senior analyst at CLSA, a Seoul-based brokerage. But in the coming months, NAND prices will rise and DRAM prices should grow 15% to 20%, he added. Samsung is the largest maker of both types of chips.
+
+“About the chip shortage, why should it be terrible for semiconductor companies? It’ll be terrible for the customers, but not necessarily for the producers,” Mr. Rana said. “It’s actually positive for them.”
+
+Supply crunch or not, chips are becoming more ubiquitous. Total semiconductor unit shipments are expected to increase 13% this year to a record 1.13 trillion devices, according to IC Insights Inc., a semiconductor-market researcher. Shipments grew just 3% in 2020.
+
+The PHLX Semiconductor stock-price index, which includes large chip makers and suppliers, is up 17% this year.
+
+The chip shortages may not be resolved for another two to three years, with virtually no shot of showing improvement through 2021, said Hui He, the principal analyst of semiconductors at market-research firm Omdia. The backlog is exacerbated by newer demand for chips, such as the shift to remote working, plus existing customers stockpiling extra inventory over fears of price increases or product unavailability, she added.
+
+The heavy investments into new manufacturing sites will also take years to become operational: “Building up new foundries will not be easy,” Ms. He said. “It’s not a short amount of time.”
+
+--
+
+The S&P 500 closed at another record Thursday, propelled by a resurgence in big technology stocks.
+
+Stocks have started the second quarter on strong footing, with the broad stock market index rising 3.1%. The largest tech companies have surged ahead as the bond market calmed, easing concerns about the high valuations of growth stocks.
+
+“Rates going up was part of the reason why you had this broadening of the market and a bit of a rotation towards value stocks, especially financials and energy,” said Ed Keon, chief investment officer at QMA. “Now rates have eased off their highs, you’re seeing those sectors underperform and technology come back into the lead.”
+
+The S&P 500 edged up 17.22 points, or 0.4%, to 4097.17, its 19th record close of 2021. The tech-laden Nasdaq Composite rose 140.47 points, or 1%, to 13829.31. The Dow Jones Industrial Average added 57.31 points, or 0.1%, to 33503.57.
+
+Federal Reserve officials have reiterated this week that they intend to continue with easy monetary policies until the economy has recovered more. And Chairman Jerome Powell expressed concern Thursday over long-term “labor market scarring” and assured continued support for those out of work due to the pandemic and subsequent recession.
+
+”It’s important to remember we’re not going back to the same economy,” he said. “This will be a different economy.”
+
+The latest data on jobless claims showed that layoffs rose for a second week, highlighting the unevenness of the recovery. Worker filings for initial unemployment benefits rose to 744,000 last week, from a revised total of 728,000 the prior week. Economists surveyed by The Wall Street Journal were expecting a decline to 694,000.
+
+“The dynamic remains supportive for stocks,” said Adrien Pichoud, a portfolio manager and chief economist at SYZ Private Banking. “The Fed and central banks in general are perceived to be in no rush to raise rates.”
+
+In bond markets, the yield on the 10-year U.S. Treasury note declined to 1.632%, down from 1.653% on Wednesday. It had climbed as high as 1.749% at the end of last month. Yields rise when bond prices fall.
+
+The cooling off in bond yields has led to a revival in the largest technology stocks’ rally. Apple, Microsoft, Amazon.com and Google’s parent Alphabet—which are the biggest companies by market value in the S&P 500—have each climbed more than 6% this month after stumbling in March.
+
+Jason Pride, chief investment officer of private wealth at Glenmede, described this rally as “a bit of a giveback” after the dip last month.
+
+“We went from everybody throwing value stocks out the window to everyone piling into them,” Mr. Pride said. “And OK, so things change a lot, but did the market deserve to react that quickly that fast?”
+
+In Thursday’s session, software companies logged big gains, with ServiceNow adding $13.31, or 2.6%, to $524.04 and Autodesk jumping $7.31, or 2.6%, to $293.43. Other stocks that rallied during lockdown, like Etsy and PayPal Holdings, climbed as well. Etsy rose $11.37, or 5.6%, to $215.39, and PayPal added $8.90, or 3.5%, to $264.50.
+
+“If there ever was going to be a test for tech, it would be this environment, with rising bond yields and the work-from-home trade starting to fade, but tech has remained really resilient in the face of that,” said Seema Shah, chief strategist at Principal Global Investors.
+
+Energy stocks underperformed Thursday after a big run-up to start 2021. Cabot Oil & Gas dropped 63 cents, or 3.4%, to $17.85, and Pioneer Natural Resources slipped $4.04, or 2.6%, to $149.49.
+
+Overseas, the pan-continental Stoxx Europe 600 ticked up 0.6% to a record close. In Asia, most major benchmarks climbed. The Shanghai Composite Index added less than 0.1%, and Hong Kong’s Hang Seng Index rose 1.2%.
+
+--
+
+Amazon.com Inc. employees in Alabama voted not to unionize, handing the tech giant a victory in its biggest battle yet against labor-organizing efforts that fueled national debate over working conditions at one of the nation’s largest employers.
+
+Workers at the Bessemer warehouse overwhelmingly rejected unionization, with 71% casting ballots not to join the Retail, Wholesale and Department Store Union, according to the National Labor Relations Board. Some who voted no said they didn’t see how a union would substantially improve their pay and benefits.
+
+“Amazon didn’t win—our employees made the choice to vote against joining a union,” the company said Friday.
+
+The rejection is a blow to efforts to increase union membership in the private sector nationally, which has experienced a decades-long decline. The Amazon facility represented an opportunity to organize workers at the second-largest U.S. employer, in a fast-growing industry and in an environment where labor unions have thrived in the past—a large blue-collar site where many employees do similar jobs. Amazon workers have no union representation in the U.S.
+
+“It’s much harder to organize big groups. Large employers like Amazon and Walmart have been the holy grail,” said Jonathan Spitz, co-leader of the labor-relations practice at Jackson Lewis, a management-side law firm. Union officials had hoped that it they won the organizing vote in a state not known to be union-friendly, it could have provided momentum for similar efforts elsewhere.
+
+President Biden had endorsed the union movement, and he has pledged to create more union jobs. The White House said Friday that it would wait until the NLRB completes its analysis of the results before making a comment. “We know it’s very difficult for workers to make the choice to form a union,” White House Press Secretary Jen Psaki said.
+
+In a news conference organized by Amazon, workers from the Bessemer facility who sided against organizing said the union ultimately didn’t offer a convincing argument. The workers called for changes at the facility, such as added training for managers, but said they could resolve issues with the company without a third party.
+
+“A lot of us are in agreement that we don’t need anybody there to speak for us and take our money,” said Cori Jennings, 40 years old, who works there and voted against unionizing. Ms. Jennings, who talked to The Wall Street Journal before the results were final, said she and many of her colleagues were also eager for the national attention to fade: “We want our lives to go back to normal.”
+
+The outcome underscores unions’ difficulties in boosting their ranks in the U.S. private sector, where they represent just 6.3% of workers, down from 24.2% in 1973, according to the earliest available data from Georgia State University’s union stats database. Of total U.S. workers, 10.8% were union members last year, according to the Labor Department.
+
+Unions are a larger presence in the public sector, where they represent 34.8% of government workers, according to the Labor Department.
+
+Shares of Amazon rose 2.2% Friday to $3,372.20, closing at its highest level in two months. If the union vote had been a success, researchers of labor said Amazon could have been forced to change policies related to employee compensation, worker breaks or how it handles grievances. Last year, Amazon hired 500,000 workers globally and extended its reach further into healthcare, grocery and other markets.
+
+The NLRB on Friday finished counting all the votes that weren’t challenged. The federal agency has yet to certify the results, which could happen in about a week, but it has noted that the challenged ballots aren’t enough to exceed the vote margin against unionization. The Bessemer facility employs fewer than 1% of the roughly 950,000 Amazon employees in the U.S.
+
+The union said it would appeal the vote, accusing Amazon of violating legal restrictions governing unionization campaigns. Amazon has said it followed the law in communicating with employees before and during the election.
+
+The appeal would seek to overturn results of the election or have it held again. The union is expected to take issue with meetings Amazon held with Bessemer employees and a mailbox the company pushed to install outside the facility.
+
+“We won’t rest until workers’ voices are heard fairly under the law. When they are, we believe they will be victorious in this historic and critical fight to unionize the first Amazon warehouse in the United States,” RWDSU President Stuart Appelbaum said.
+
+Amazon, in a blog post, said, “It’s easy to predict the union will say that Amazon won this election because we intimidated employees, but that’s not true. Our employees heard far more anti-Amazon messages from the union, policymakers, and media outlets than they heard from us.”
+
+Fewer than 16% of the employees at the fulfillment center voted to join the union, the company said. Amazon said it has “worked hard to listen to them, take their feedback, make continuous improvements” and would keep working “to get better every day.”
+
+Previous unionization efforts at Amazon also failed. In 2018, an effort by Whole Foods Market employees to unionize failed to gain traction, and four years earlier a small group of Amazon workers in Middletown, Del., rejected a union push.
+
+Politicians in both parties and celebrities had rallied for pro-union employees. Supporters painted the election as a battle that transcended traditional workplace disputes over pay and benefits. They contrasted Amazon’s reputation for growth, profit and innovation with the working conditions for rank-and-file employees.
+
+Some employees in Bessemer had said they wanted to unionize to negotiate over issues including their compensation, the pace of their work and the amount of break time they have per shift. One worker in Bessemer said he is expected to take roughly 300 items from shelves per hour and at times doesn’t have enough time to take a bathroom break without potentially getting in trouble. Amazon has said employees can take bathroom breaks when needed.
+
+Amazon told its workers in Alabama that unionizing isn’t necessary, saying it pays double the state’s minimum wage of $7.25 an hour, which is also the federal minimum. The company warned of the cost of union dues and highlighted what it says are the generous healthcare benefits it offers employees.
+
+The tech giant has grown rapidly in the past year as consumers and companies leaned on its services during the pandemic. Amazon had $386.1 billion in sales in 2020 and saw its share price rise about 76%.
+
+Guru Hariharan, a former Amazon manager who runs the e-commerce analytics company CommerceIQ, said the company would continue to grow no matter how its labor battles play out. Amazon’s advantage “is based on its technology, and that will continue to be the case regardless of incremental productivity-level shifts in fulfillment center workers.”
+
+--
+
+
+Amazon. com Inc. employees in Alabama who sided against unionization said they had broad concerns about job security and grew convinced that their pay and benefits might not markedly increase with the help of a union.
+
+The resounding victory for Amazon, the nation’s second-largest private employer, came after it organized what proved to be a successful local campaign, highlighting the company’s strengths and questioning the union’s benefits. Nationally, Amazon grew vocal in pushing back against criticism about its workplace conditions, including when a top executive engaged in disputes with members of Congress on Twitter.
+
+
+Analysts say the defeat of unionization will strengthen Amazon after what has already been a year of tremendous growth and success fueled by the pandemic. The tech giant’s revenue last year soared 38% to $386 billion, and its profit nearly doubled, as it added 500,000 people to its global workforce.
+
+Some workers said Amazon helped steer their vote against unionization. Other employees said they didn’t need convincing by Amazon and were against unionizing from the start.
+
+Amazon pointed to its minimum wage of $15 an hour, double the state’s minimum wage of $7.25 an hour, which is also the federal minimum. The company also highlighted its healthcare and retirement benefits.
+
+Workers said they were wary of the cost of union dues and not persuaded that the union would be able to add significantly to their pay or improve benefits. In the end, less than 16% of the facility’s total workforce voted to join the Retail, Wholesale and Department Store Union.
+
+
+Union member organizers in Bessemer in January. Pro-union workers said they wanted more say over break times and how they are monitored by Amazon.
+PHOTO: BOB MILLER FOR THE WALL STREET JOURNAL
+“I work hard for my money, and I don’t want any of it going to a union that maybe can get us more pay, or maybe can get us longer breaks,” said Melissa Charlton Myers, a 41-year-old employee at the Bessemer, Ala., facility that voted on unionization. “It’s not worth the risk.”
+
+In company meetings, which some employees described as mandatory, Amazon gave them details about other contracts the RWDSU had negotiated on behalf of employees in other industries. The bargaining agreements that Amazon showed employees didn’t seem to indicate that there would be a substantial difference, said Cori Jennings, 40, another worker who voted against unionization.
+
+The union has cited U.S. Bureau of Labor Statistics data that show union members on average earning more than nonunion members.
+
+In a news conference Amazon organized Friday, some workers who sided against unionizing said they still sought changes at the facility, such as added training for managers. However, the workers said, they believed they could resolve issues with the company without a third party.
+
+Also playing a role were fears about possible repercussions of forming a union, including the possibility that Amazon would shut down the facility if they decided to unionize, some employees said. Others worried the company would nix plans for two other facilities it had announced last year that it plans to open in a nearby area.
+
+Amazon declined to comment.
+
+Pro-union workers said they wanted more say over break times, how they are monitored by the company and the rate at which they are expected to sort and move packages. The union is expected to appeal the vote.
+
+Iwan Barankay, a labor economist at the University of Pennsylvania, said while unionizing efforts can be popular among employees at the start of drives, the messages from companies over time can wear on employees—especially if it threatens their livelihood.
+
+“The location of this plant plays a role,” Mr. Barankay said. Alabama has many low-income residents, “and other opportunities are not so readily available. These people might really feel the difficulty of living through a pandemic.”
+
+The union vote removes one major challenge for Amazon, though others loom.
+
+Late last year, a congressional panel asserted that Amazon has amassed “monopoly power” over sellers on its site, bullied retail partners and improperly used seller data to compete with rivals. Amazon said at the time that “large companies are not dominant by definition, and the presumption that success can only be the result of anti-competitive behavior is simply wrong.”
+
+Congress is now considering the most significant changes to antitrust law in decades, including proposals that would make it easier for the government to challenge anticompetitive behavior or force tech giants to separate lines of business.
+
+This week, meanwhile, merchant groups announced a national coalition to campaign for stricter antitrust laws. The effort adds to state and federal investigations and lawsuits Amazon has faced over its power and workplace conditions. Amazon has said its business model has benefited both consumers and the millions of independent sellers that sell on its site.
+
+Amazon isn’t finished confronting labor battles. As ballot-processing took place in the Bessemer election, a small number of employees held a protest at a Chicago facility over working conditions. Workers in Europe recently went on strike over similar issues, and the National Labor Relations Board during the past year has found the company at fault on multiple occasions of retaliating against workers who have spoken out on different issues. Amazon has said disciplinary measures with workers are due to violations of workplace policies. The company has said the Chicago protest didn’t disrupt its operations.
+
+Still, Amazon’s victory in the election gives the company flexibility in running its warehouse, said Sucharita Kodali, an e-commerce analyst at Forrester Research Inc. “They want to be able to make changes quickly and as they see fit” without disruption, she said.
+
+As voting wrapped up in Bessemer, Amazon and its executives became more vocal. Dave Clark, chief executive of Worldwide Consumer, published tweets taking aim at Independent Sen. Bernie Sanders of Vermont, a frequent Amazon critic who supported unionization in Bessemer and called CEO Jeff Bezos greedy.
+
+“I often say we are the Bernie Sanders of employers, but that’s not quite right because we actually deliver a progressive workplace,” Mr. Clark tweeted on March 24, referring to Amazon’s $15 minimum wage being higher than Vermont’s $11.75 per-hour wage. President Biden and celebrities such as the actor Danny Glover had joined Mr. Sanders in supporting the Alabama workers.
+
+“All I want to know is why the richest man in the world, Jeff Bezos, is spending millions trying to prevent workers from organizing,” Mr. Sanders responded on Twitter the same day.
+
+Amazon’s news account similarly tweeted defenses of the company. Some of them backfired. The company apologized after publishing a tweet on March 24 by its news account that it said incorrectly challenged accounts of workers having to at times urinate in bottles because of Amazon’s demanding schedule to deliver packages.
+
+--
+
+Alibaba Group Holding Ltd. said Monday that it would invest in measures to support merchants on its platform, two days after China’s antitrust regulator imposed a record fine against the company founded by Jack Ma for abusing its dominant position over vendors and rivals in the country’s e-commerce industry.
+
+In a conference call, Chief Executive Daniel Zhang said the company has reduced service fees and charges for vendors, and invested in improved technology and tools for them on its platform. The initiatives will cut further into profitability for the company, which said it would use existing liquidity to pay a $2.8 billion fine announced Saturday.
+
+China’s State Administration for Market Regulation said an investigation into Alibaba found that it punished certain merchants who sold goods both on Alibaba and on rival platforms, a practice dubbed “er xuan yi”—literally, “choose one out of two.”
+
+Alibaba shares, which had lost about a quarter of their value since November, jumped as much as 9% in early trading on Monday morning in Hong Kong before easing slightly to stand about 6% higher, in a sign that investors welcomed the clarity over the company’s future after fines were announced.
+
+However, the antitrust investigation outcome raised concerns among analysts about how the company would retain merchants, particularly in an increasingly competitive e-commerce landscape with rivals including JD.com Inc. and Pinduoduo Inc.
+
+“We will incur additional cost, but we don’t view this as a one-off cost,” Mr. Zhang said of the company’s plan for merchants. “We view this as a necessary investment to enable our merchants to have a better operation on our platform.”
+
+The 18.2 billion yuan fine is equivalent to 4% of the company’s domestic annual sales. While the fine exceeded any other corporate penalty in China’s history in absolute value, analysts said the announcement alleviated much of the uncertainty surrounding Alibaba that had unnerved investors since its financial affiliate Ant Group Co.’s initial public offering was canceled in November.
+
+Danny Law, research analyst at Guotai Junan International Holdings Ltd., said he expects the fine to reduce Alibaba’s profitability as a one-time cost by about 10% in the financial year that ended in March. While the fine was announced in April, the company will reflect the cost in last fiscal year’s accounting. The company’s growth will also likely be hindered by increased regulatory monitoring, he said.
+
+As part of the penalty, regulators required that Alibaba carry out a comprehensive revamp of its operations and submit a self-assessment and compliance report to the SAMR for three consecutive years.
+
+Robin Zhu, an analyst at Sanford C. Bernstein, said in a Monday report that the end of forced exclusivity could prompt merchants to grow their presence on competing e-commerce platforms such as JD.com, Pinduoduo or Douyin. Alibaba is also investing aggressively to try to grow new businesses such as discount sales and grocery shopping, he said.
+
+“Our longer-term concern remains the increasing crowdedness of the e-commerce market in China, and the potential impact this will have on Alibaba’s core e-commerce profitability,” Mr. Zhu wrote.
+
+Mr. Zhang said he did not expect a material impact on business operations, and that Alibaba’s platform still offered merchants the broadest consumer audience and support to grow their business.
+
+Analysts also said continued scrutiny over Alibaba’s business practices is still a risk, though Saturday’s settlement, which didn’t require major restructuring of the company’s business model, had eased some of those concerns.
+
+Chinese officials said Beijing was reluctant to come down too severely on Alibaba, a pillar of the Chinese tech sector that is immensely popular among consumers, but wanted it to dissociate from Mr. Ma, The Wall Street Journal previously reported.
+
+Alibaba said Monday that regulators have inquiries into merger and acquisition activity within the broader technology industry, but it wasn’t aware of any other antimonopoly investigations following the most recent fine.
+
+“We feel comfortable that there’s nothing wrong with the fundamental business model of a platform company,” said Executive Vice Chairman Joe Tsai. “We’re pleased that we are able to put this matter behind us.”
+
+--
+
+Microsoft Corp. has agreed to buy artificial intelligence company Nuance Communications Inc. for $16 billion, extending Chief Executive Satya Nadella’s run of big acquisitions to accelerate growth in everything from healthcare to videogaming.
+
+Microsoft said Monday it would pay $56 per Nuance share, a 23% premium over Friday’s closing price, in a bet on the growing demand for digital tools within healthcare. The all-cash deal is Microsoft’s second largest acquisition under Mr. Nadella. The company in 2016 spent about $26 billion for professional network LinkedIn Corp.
+
+Mr. Nadella’s deal making has taken off since that landmark purchase. Microsoft has undertaken more than 100 acquisitions in the past four years, according to data provider Dealogic, committing more than $26 billion not including the Nuance deal.
+
+Last year, Mr. Nadella tried to acquire parts of short-video app TikTok, before talks fell apart. Soon after, Microsoft struck a $7.5 billion deal for videogame company ZeniMax, the maker of the popular Doom franchise. Microsoft this year has held talks to acquire messaging platform Discord Inc. for $10 billion or more, The Wall Street Journal reported last month.
+
+“Over the past seven years, we’ve taken a consistent approach to mergers and acquisitions of all sizes,” Microsoft finance chief Amy Hood said on an investor call Monday. Driving the deals, she said, is Microsoft’s desire to expand into high-growth markets.
+
+That pursuit comes as Big Tech rivals of Microsoft, notably Facebook Inc., Amazon.com Inc. and Alphabet Inc.’s Google, may be distracted by antitrust probes that potentially could hobble their ability to strike deals.
+
+Google and Facebook have done blockbuster acquisitions in the past. Google bought YouTube and its large audience in 2006 and Facebook pocketed Instagram in 2012. While the companies defend their business practices, U.S. regulators now question whether the deals have given them too much power.
+
+Microsoft may be motivated to strike now in case the regulatory environment for deal making toughens, said Herb Hovenkamp, an antitrust professor at the University of Pennsylvania Law School. Minnesota Sen. Amy Klobuchar this year proposed broad changes to U.S. antitrust laws that could heighten scrutiny particularly for large tech companies.
+
+“It’s a bit like gun control,” Mr. Hovenkamp said. “As soon as somebody is sniffing around about increasing legislation, everyone goes out and buys guns.”
+
+Sellers as well may be motivated to engage with Microsoft rather than a competitor that is in the crosshairs of antitrust regulators, analysts said, to avoid having a transaction fall through.
+
+“It’s a lot easier to enter into an agreement with Microsoft than a rival who has potential legal overhang,” said Brad Reback, an analyst at Stifel Nicolaus & Co.
+
+Mr. Nadella’s deal making at Microsoft began shortly after he took the helm in 2014. He struck a $2.5 billion deal for the owner of the Minecraft videogame, Mojang AB, within months of becoming CEO. He followed the LinkedIn acquisition in 2016 with the purchase two years later of code-collaboration site GitHub for $7.5 billion.
+
+Microsoft is hardly alone in deploying the deals playbook to expand its software business. Business-software provider Salesforce.com Inc. last year agreed to buy messaging company Slack Technologies Inc. for $27.7 billion, strengthening its hand against Microsoft. The year prior Salesforce reeled in data-visualization platform Tableau Software Inc. for more than $15 billion in stock. Communications-software company Twilio Inc. last year said it would commit $3.2 billion in stock to acquire Segment, a provider of tools to track customer data.
+
+Microsoft’s interest in accelerating growth through acquisitions has increased given its success with past deals, said Mark Moerdler, an analyst at Bernstein Research. “The company is gaining confidence in their ability to acquire well and execute well on those acquisitions,” he said, adding that the Nuance deal could fuel Microsoft’s ambitions for its healthcare-focused cloud-computing business.
+
+Nuance, based in Burlington, Mass., was a pioneer in speech recognition and artificial intelligence technology. Its software formed the basis of Apple Inc.’s Siri voice assistant before an in-house version was introduced. Nuance explored a possible sale as far back as 2014, when Samsung Electronics Co. and private-equity firms were seen as the most likely buyers.
+
+Voice assistants have taken hold as consumers embrace smart devices around their home. Amazon helped popularize its Alexa voice assistant through its Echo smart speaker, and Google offered equipment with its version of a virtual helper, called Google Assistant.
+
+Microsoft has been investing in speech systems for years, though with less success. Last year, the company said it would shift its consumer voice assistant offering, called Cortana, away from trying to compete with Amazon and Google in the consumer market to focus more on supporting the company’s business-focused software tools.
+
+Mr. Nadella said the Nuance deal reflects a growing demand for tech applications in healthcare, in particular the use of artificial intelligence “This is projected to be one of the fastest-growing infrastructure software revenue streams in history,” he said about Nuance’s expertise in clinical documentation.
+
+Nuance has customers in healthcare, finance and other industries, sectors where many companies use Microsoft products. The two companies in 2019 said they would partner around the use of artificial-intelligent assistants for doctor visits. The healthcare product would be built on top of Microsoft’s Azure cloud service, they said at the time.
+
+
+During the pandemic, as demand for remote healthcare surged, the two companies deepened their ties through the integration of Nuance technology into Microsoft’s Teams workplace-collaboration software suite, Nuance Chief Executive Mark Benjamin said during the investor call
+
+Microsoft shares closed little changed in Monday trading. Nuance’s stock rose almost 16%.
+
+--
+
+Apple Inc. AAPL scheduled an April 20 event dubbed “Spring Loaded,” the tech giant’s latest virtual gathering to unveil new gadgets.
+
+The device maker is expected to show off new iPads, among other possible additions to its product lineup, analysts said.
+
+Apple didn’t provide specifics on what is in store for the event and didn’t immediately respond to requests for comment.
+
+The Cupertino, Calif., company has held similar virtual events during the pandemic to launch products. In October, it unveiled new iPhone 12 models capable of connecting with a speedy 5G cellular network.
+
+Apple also had a virtual-only event in September to unveil a new smartwatch offering and an updated iPad Air. Its first virtual conference during the pandemic was for developers in June, at which it said it would begin jettisoning Intel processors from its Macs.
+
+A new iPad would join the company’s other tablet offerings. Around a year ago, Apple announced an updated iPad Pro that included a scanner, motion sensors and an ultrawide camera. Among the company’s current iPad offerings are an iPad mini, the iPad Pro and the iPad Air.
+
+Apple recently reported its most-profitable quarter ever and logged more than $111 billion in sales, reflecting pent-up demand for its new 5G iPhones. The quarter marked the first time that Apple’s sales exceeded $100 billion.
+
+The April 20 event is scheduled to start at 1 p.m. ET.
+
+--
+
+Dell Technologies Inc. DELL  said Wednesday it would spin off its stake valued at $52 billion in cloud-software company VMware Inc., VMW in a deal the personal-computer maker said would strengthen its financial position as it looks at new markets and works to reach clients revamping their digital strategies.
+
+Dell said VMware would pay a special cash dividend tied to the spinoff of $11.5 billion to $12 billion to the company’s shareholders, including $9.3 billion to $9.7 billion for Dell itself. Dell holds roughly an 81% stake in VMware. The company said it intends to use net cash from the dividend to pay down debt.
+
+The deal is the latest in a series of financial restructurings undertaken by Dell, which was founded by Michael Dell in 1984. After going public in 1988, the company went private in a 2013 leveraged buyout by Mr. Dell and private-equity firm Silver Lake that was one of the largest on record. After buying EMC Corp., they undertook a complex financial move that returned Dell to the public markets using the shares of a publicly listed vehicle that tracked Dell’s stake in VMware.
+
+Dell’s $67 billion merger with EMC in 2016 also saddled the company with substantial debt.
+
+The company said it intends to use net cash from the dividend to pay down debt. In an investor presentation, Dell said that, as of its fiscal fourth quarter, it had $33.4 billion in debt excluding a financing unit. Had the planned spinoff of VMware already occurred by then, the company would have had $24.1 billion in that debt, according to the presentation.
+
+Dell said the deal positions it to gain investment-grade ratings.
+
+In the two years after returning to public markets in 2018, Dell investors had become frustrated that the company’s stock had barely budged. Dell last year initiated a process to examine its stake in VMware that included spinning off the ownership interest in VMware, buying the rest of the company or other options, The Wall Street Journal reported in June.
+
+Dell’s shares took off last year with the pandemic that fueled demand for laptops and cloud-computing. Dell shares have more than doubled in the past year.
+
+Shares of Dell gained about 8% in after-hours trading. VMware’s stock was up more than 2%, according to FactSet.
+
+Shareholders in Dell will receive roughly 0.44 shares of VMware for each share of Dell they own.
+
+The spinoff is expected to be complete in the fourth quarter of the current calendar year, contingent on several issues including a U.S. government determination that it qualifies as a tax-free spinoff. The company wasn’t able to pursue a tax-free spinoff before September 2021, or roughly five years after it combined with EMC, because of a rule requiring both companies involved in a spinoff to have operated continuously for five years to qualify for such tax treatment.
+
+Dell said the deal would bolster its capital structure as it looks to take advantage of higher spending on PCs and technology infrastructure and clients’ longer-term efforts to remake their businesses using new computing tools and systems.
+
+“Companies and organizations around the world recognize that digital transformation is more important now than ever. The dialogue with customers has also changed at the highest levels. They want our help to drive better business outcomes” and deploy new technologies, Mr. Dell said on a call about the spinoff.
+
+Dell, based in Round Rock, Texas, sells hardware like storage devices, servers and personal computers, as well as software. VMware’s business includes offerings focused on so-called hybrid computing clouds, where companies use their own private networks and public cloud services like those from Amazon.com Inc. and Microsoft Corp.
+
+Mr. Dell, chief executive and chairman of his namesake company, will remain chairman of the board of VMware when the spinoff is complete. The two companies will keep other ties as well, including through a commercial agreement with an initial term of five years.
+
+VMware said that separating from Dell would aid its efforts to pursue businesses with other cloud and on-premise network providers.
+
+--
+
+Amazon.com Inc. founder and Chief Executive Jeff Bezos said the company needs a better vision for its employees after a recent vote among Alabama warehouse workers who rejected unionization.
+
+“While the voting results were lopsided and our direct relationship with employees is strong, it’s clear to me that we need a better vision for how we create value for employees—a vision for their success,” Mr. Bezos said in a letter to shareholders Thursday. Mr. Bezos added that he didn’t take comfort in the outcome.
+
+More than 70% of Amazon employees in Bessemer, Ala., who cast ballots voted not to unionize last week, giving the tech company a victory in its biggest battle yet against labor-organizing efforts.
+
+Mr. Bezos, who is set to step down as CEO in the third quarter and will remain chairman, also mentioned a few of Amazon’s pandemic-induced successes in the annual shareholder letter.
+
+Spurred by record demand as lockdowns drew more people into online shopping, Amazon posted record profits, hired 500,000 workers and paid $91 billion in employee compensation. Mr. Bezos estimated that Amazon helped more than 200 million Prime members save $630 each during the year. Small and midsize businesses account for almost 60% of its sales.
+
+That success, as well as Amazon’s growth in e-commerce, cloud computing and other areas, has drawn scrutiny to its power and the sway it holds over markets and industries. Last year, a congressional committee found that Amazon had amassed “monopoly power” over sellers on its site, bullied retail partners and improperly used seller data to compete with rivals. Amazon said a presumption that success can happen only through anticompetitive behavior “is simply wrong.”
+
+Mr. Bezos, who is the world’s richest person because of Amazon’s success, has written annual shareholder letters since the company went public in 1997. His personal wealth is more than $190 billion, according to the Bloomberg Billionaires Index.
+
+The letters typically highlight successes the company has achieved in the past year, sometimes with a storytelling flourish.
+
+This year, he included a letter from a couple that bought two shares of Amazon in 1997 for their 12-year-old son’s birthday that he is now using to help buy a house. Amazon shares were worth less than $5 then. Now, they are worth more than $3,000.
+
+Mr. Bezos said Amazon works hard to serve its employees and called reports of unsafe working conditions at its hundreds of warehouses inaccurate. He said employees are able to take breaks when needed without affecting their performance goals. Some employees at the company have complained about the rate at which they have to sort or prepare packages, with some workers having to prepare hundreds of items an hour while being closely monitored by the company.
+
+“We don’t set unreasonable performance goals,” Mr. Bezos said. “We set achievable performance goals that take into account tenure and actual employee performance data.”
+
+Still, Mr. Bezos said the union election in Alabama highlighted how the company needs a better vision for how it “creates value” for its employees.
+
+The unionization vote in Amazon’s favor came after months in which the union sought to gain bargaining rights with the company over work policies such as breaks and pay.
+
+Mr. Bezos said as he steps into the role of executive chairman, he is focused on new initiatives and innovations the company can create. He said Amazon needs to invent solutions to reduce the number of injuries at Amazon warehouses.
+
+About 40% of work-related injuries are caused by what he called musculoskeletal disorders, he said. He highlighted one such program in existence across North America and Europe that teaches small groups of employees body mechanics.
+
+Mr. Bezos said the company is developing staffing schedules that rotate employees among jobs that use different muscle groups to decrease repetitive motion. He said he expects Amazon to set a standard that others follow.
+
+Mr. Bezos promised that Amazon could become the world’s best employer and its safest place to work, in addition to being its most consumer-centric company.
+
+“If we can operate two businesses as different as consumer e-commerce and AWS, and do both at the highest level, we can certainly do the same with these two vision statements,” he said. “In fact, I’m confident they will reinforce each other.”
+
+--
+
+The world’s largest tech companies effectively run on chips. But their prowess offers them some protection from the semiconductor production shortage plaguing other industries, at least for now.
+
+Just how much protection will become apparent in the coming slew of first-quarter earnings reports. Apple, AAPL Microsoft, MSFT Amazon.com, AMZN  Facebook FB and Google-parent Alphabet GOOG  are very different businesses, but to one degree or another all sell their own devices packed with processors that range from smartphones to smart speakers to virtual-reality headsets. And they all run vast networks of giant data centers to deliver cloud software, e-commerce and social-networking services along with movies, TV shows and videogames.
+
+But the chip production shortage plaguing industries like autos isn’t expected to register much in big tech’s results for the March quarter. The five aforementioned companies are all expected to post strong double-digit growth in both revenue and operating income for the quarter relative to the same period last year, according to consensus estimates from FactSet. In fact, the five are expected to increase revenue by an average of 29%—quite a feat considering combined revenue for the group will likely be just under $300 billion in what is typically the slowest seasonal quarter for each.
+
+Operating income for the group is expected to outpace revenue growth, indicating that analysts aren’t projecting additional cost pressures that could result from things like component shortages. The five big techs are expected to grow operating earnings by an average of 43% year over year, to a combined total of about $61.5 billion.
+
+How does big tech pull this off? The financial and operational clout of the world’s tech giants generally puts them first in line with manufacturers of chips and other critical components. And chips like the central processors for smartphones, PCs and data centers command much higher prices than many of the chips that go into cars, which can cost less than $1. As a result, chip makers give priority to production of these higher-end chips.
+
+Business in the higher-priced categories has remained strong so far this year. IDC reports that first-quarter personal-computer sales boomed 55% year over year to nearly 84 million units. Nvidia, NVDA 1.39% which gets about 40% of its revenue from chips sold to data centers, told investors Monday that results for the fiscal quarter ending May 2 are tracking above its previous outlook that projected revenue up 72% for the period. Smartphone sales typically fall sharply from a seasonal peak in the fourth quarter, but chip maker Taiwan Semiconductor Manufacturing TSM 2.43% said in its own first-quarter report Thursday that it saw “milder smartphone seasonality” than in years’ past.
+
+Still, with the chip production shortage now expected to last into next year, big tech’s risk of exposure remains. That is particularly the case for Apple, which derived 82% of its revenue over the last four quarters from hardware products. The company is reportedly cutting back production on some Mac and iPad lines due to the shortage. Microsoft was already dealing with sharp production constraints for its new Xbox videogame consoles in the December quarter, and those devices remain widely out of stock as of mid-April.
+
+Tech companies including Apple, Google and Amazon also design their own in-house processors for products and data centers. But those chips still require foundry capacity at manufacturers such as TSMC and Samsung. Intel is getting into the foundry game as well, with plans to build two new chip fabrication facilities in Arizona dedicated to the effort. But new chip fabs take two to three years to build. TSMC also noted that some of its major new facilities won’t be up and running until 2023, leaving Chief Executive Officer C.C. Wei to predict that “this year and next year, I still expect the capacity tightening will continue.” That’s a long time for the world’s tech titans to float above the fray.
+
+--
+
+It’s a sunny, breezy morning in Eugene, Ore., a place best known for access to the great outdoors, a history of environmental activism and being the birthplace of Nike. I’m standing outside a nondescript, one-story industrial space, speaking with Mark Frohnmayer, chief executive of Arcimoto, maker of a three-wheeled electric vehicle it calls a “fun utility vehicle.”
+
+Only I’m not in Oregon. I’m still stuck at home, on the opposite coast, relying—like many of us—on an ever-growing array of tools that allow me to do my job remotely. In this case, I’m getting a tour of Arcimoto’s FUV factory via FaceTime. Mr. Frohnmayer is carrying “me” around on an iPhone, pointing things out, getting me up close to machinery, parts and half-finished vehicles, and fielding my questions. For me, it turns out to be a reasonable facsimile of actually being there. Minus the eight-hour flight and stay at a Dow Jones-approved discount hotel with continental breakfast, that is.
+
+This is how Mr. Frohnmayer and his team have been giving factory tours to investors, customers and suppliers since the pandemic began. It works well enough that Mr. Frohnmayer wants to keep doing it after the pandemic ends, because it comes with no loss in productivity due to travel days.
+
+Thanks to cloud-based collaborative tools of every description—not just Zoom—the pandemic has led to a reset in office culture, from in-person to remote or hybrid. Surprisingly, there’s also been a reset for workers that almost no one thought could do their jobs remotely, including field service engineers and emergency medical personnel.
+
+While these changes explain trends within the post-pandemic workplace, they also demonstrate a new way forward for relationships between businesses. Many examples come from the most hands-on industry of all: manufacturing. Workers still have to show up at a factory and assemble products, and quality control may demand overseas travel from time to time, but many other activities—including investment due diligence, relationship-building with suppliers and customers, and even research and development—have unexpectedly and perhaps permanently gone remote.
+
+Delta’s CEO has projected that business travel will be back to 70% of its pre-pandemic level by 2023. But that other 30% might take far longer to recoup, now that the definition of “necessary travel” has changed.
+
+Using FaceTime as a form of telepresence to conduct factory tours—without need for fancy robots or chunky headsets—is but one of the ways Mr. Frohnmayer has moved the bulk of his work at Arcimoto to a remote model. For meetings, he relies on what he calls his FutureCube, an insulated, soundproofed shed in his backyard. It has power from his home, broadband via Starlink satellite internet and, most important of all, none of the barking dogs who used to interrupt his calls.
+
+He uses this backyard office for meetings, including with investors, which are especially important given that Arcimoto, despite being publicly traded, is still just ramping up.
+
+“The idea used to be that I have to fly across the country just for a half-hour lunch to get a business deal done. And then the finance industry found out you can have a face-to-face [video call], and it can be a very personal discussion, remotely,” he says.
+
+Arcimoto, which raised more than $50 million through stock sales last year and another $14 million in 2021, is now designing its next factory, which will be more than 200,000 square feet, compared with its current 34,000-square-foot one.
+
+Clearpath Robotics, based in Kitchener, Ontario, is the parent of Otto Motors, which builds autonomous mobile robots to assist manufacturers and logistics companies. Just before the pandemic, Matt Rendall, its CEO, was raising a round of startup capital. “My life was on an airplane, hopping from city to city, investor to investor. But now I haven’t been on an airplane in 14 months. The pandemic has changed the bar for what is going to require you to get on an airplane.”
+
+Clearpath has many customers in Japan, where in-person meetings with customers were an absolute necessity, says Mr. Rendall. But given that Japan was hit with pandemic shutdowns even earlier than most of Europe and the Americas, the culture there has shifted rapidly and dramatically to remote meetings. Not having to plan around frequent two-week-long trips halfway around the world has freed up time for Mr. Rendall to think about business strategy. It’s time he says he is reluctant to give up even after the pandemic is over.
+
+For businesses that actually make things, there is a limit to how much work can be done remotely. Both Arcimoto and Clearpath have continued to operate manufacturing facilities throughout the pandemic, whenever local regulations allowed them to do so, while maintaining social distancing between workers. And some of their employees are eager to get back to traveling for business again.
+
+Terry Becker is Arcimoto’s chief operating officer, responsible for its supply chain, manufacturing, engineering and R&D. Before the pandemic, Mr. Becker and his deputies made frequent trips to China, to visit suppliers that make most of the mechanical and electrical parts for Arcimoto’s vehicles. Such trips were critical for maintaining the quality of parts flowing into Arcimoto’s factory in Eugene, he says. He would inspect machines that make the parts, and see how processes and quality-control measures worked in a given factory. The lack of these trips, he says, has led to problems over the past year: parts that were out of spec and unusable.
+
+Despite these setbacks, Mr. Becker believes that many meetings both within and outside his company will remain remote even after the pandemic. He also thinks the old-fashioned phone call is forever changed.
+
+“People will gravitate towards Zoom meetings even in the future, as opposed to conference calls or emails,” he says. “It has its merits, because you can share pictures, spreadsheets and Gantt charts so much better.”
+
+At Clearpath, engineers used to have to come to the company’s test facility, in a large warehouse in Kitchener, to test changes in the software that runs the company’s Otto robots, which can weigh as much as 3,000 pounds. Now they can try out software upgrades on stripped-down versions of those robots. These “wallbots,” as the company calls them, include only the robots’ onboard sensors, actuators and computers. Since they don’t have the half-ton body and suspension system, they’re small enough to fit in a home garage.
+
+While wallbots were originally a contingency of the pandemic, they have the potential to become a permanent way for the company to recruit remote talent. Engineers can now work from almost anywhere and don’t have to be within commuting distance of the company’s facilities, says Mr. Rendall, who has expanded the geographic reach of his search for talent.
+
+Some analysts and executives have argued that, in addition to the unavoidable necessities of hands-on work, the fear of missing out will drive workers back into the office—and salespeople into customers’ conference rooms—as soon as they are allowed.
+
+A Wall Street Journal analysis from December 2020 projected a lasting drop of between 19% and 36% in the number of business trips taken.
+
+An October 2020 analysis from management consulting firm Oliver Wyman projected that business travel will bounce back more slowly than leisure travel. A year of lockdown has shown that technologies like video conferencing can replace meetings that take place within companies, and they work well when people already have an existing relationship, says Khalid Usman, a partner at Oliver Wyman. But not all business travel will be affected the same—the firm says travel for sales and client meetings will bounce back first.
+
+
+It’s the opposite for Mr. Rendall, however. He hasn’t seen his chief revenue officer in a year. He says he can’t wait to fly down to Texas, where the other executive lives, to reconnect. But he says he’ll continue to conduct initial meetings with potential investors and customers over Zoom.
+
+“We’ve proven over the past 12 months that you can establish a new investor or customer relationship remotely, and I think over time it’s going to be the most important relationships where you invest the time required to travel,” he adds.
+
+--
+
+Two men died after a Tesla vehicle that authorities believe was operating without anyone in the driver’s seat crashed into a tree Saturday night north of Houston.
+
+One of the men was in the front passenger’s seat and the other was in the back seat of the Tesla, which was traveling at high speed along a curve before it hit a tree around 11:25 p.m. local time, Harris County Precinct 4 Constable Mark Herman said in an interview.
+
+“Our preliminary investigation is determining—but it’s not complete yet—that there was no one at the wheel of that vehicle,” the constable said. “We’re almost 99.9% sure.”
+
+It took emergency responders about four hours and roughly 32,000 gallons of water to put out the fire that engulfed the electric vehicle, Constable Herman said. High-voltage batteries like the ones used in Teslas can reignite after being damaged, even after firefighters have extinguished a fire, according to the National Transportation Safety Board.
+
+U.S. safety regulators are probing crashes involving Teslas, suspecting the company’s Autopilot system might be involved. WSJ’s Robert Wall reports on how some motorists may mistakenly think Autopilot is a self-driving feature that doesn’t require their attention. (Video from 3/18/21))
+As of Sunday, authorities still were investigating whether the front passenger airbag deployed and whether the vehicle’s advanced driver-assistance system was enabled at the time of the crash.
+
+Neither Tesla Inc. TSLA 1.21% nor the National Highway Traffic Safety Administration, the top U.S. auto safety regulator, responded to requests for comment.
+
+Tesla tells drivers using its advanced driver-assistance system, known as Autopilot, to pay attention to the road and be prepared to take control of the vehicle. It also says that driving with the Autopilot system engaged is safer than doing so without it.
+
+Tesla also has been rolling out an upgraded suite of assistance features on a limited basis, a system it calls “full self-driving.”
+
+“Autopilot and full self-driving capability are intended for use with a fully attentive driver, who has their hands on the wheel and is prepared to take over at any moment,” Tesla says on its website, noting that the features don’t make the vehicle autonomous.
+
+Some safety advocates have said that the company doesn’t do enough to keep drivers from depending too much on the features or using them in situations for which they aren’t designed. They also have criticized the company for the language it uses to describe its features, saying that terms such as “Autopilot” and “full self-driving” risk giving drivers a false sense of the vehicle’s abilities.
+
+“They are intentionally, foreseeably creating unnecessary risks to the public,” said Jason Levine, executive director for the Washington, D.C.-based Center for Auto Safety.
+
+Tesla has told federal officials that it doesn’t believe it needs to limit where drivers are allowed to use its assistance system because the vehicle is under the driver’s control.
+
+NHTSA doesn’t have any rules on the books prescribing how companies must monitor driver engagement, something the NTSB, which issues safety recommendations, has criticized, saying that it puts people at risk.
+
+NHTSA has said that it is evaluating potential next steps to ensure driver safety.
+
+Autopilot has come under heightened scrutiny in recent months after a series of crashes involving Tesla vehicles. NHTSA has launched more than two dozen advanced driver-assistance-related investigations into crashes involving Tesla vehicles.
+
+--
+
+U.S. stocks slipped Monday, dragged down by losses across everything from technology shares to retail stocks.
+
+Investors started the week on a somewhat cautious note. A string of blue-chip companies are scheduled to report earnings this week and will offer a view on businesses’ expectations for the pace of economic revival. Money managers are looking to gauge whether stocks’ high valuations are justified after the Dow and S&P 500 hit closing records last week.
+
+“After a big move, you get a pause of breath and a bit of a reassessment,” said Caroline Simmons, U.K. chief investment officer at UBS Asset Management. “People are reassessing, waiting for news flow that might indicate that growth and inflation remain on track.”
+
+The Dow Jones Industrial Average fell 123.04 points, or 0.4%, to 34077.63, backing away from Friday’s record close.
+
+A pre-markets primer packed with news, trends and ideas. Plus, up-to-the-minute market data.
+
+The S&P 500 lost 22.21 points, or 0.5%, to 4163.26 and the Nasdaq Composite declined 137.58 points, or 1%, to 13914.77.
+
+Peloton fell $8.46, or 7.3%, to $107.75 after a federal safety agency said over the weekend that people with young children or pets shouldn’t use the connected-fitness company’s treadmills.
+
+Tesla declined $25.15, or 3.4%, to $714.63 after two men died in a Tesla vehicle that crashed into a tree Saturday. Authorities believe the vehicle was operating without anyone in the driver’s seat.
+
+Meanwhile, GameStop rose $9.68, or 6.3%, to $164.37 after it said its chief executive would step down.
+
+Harley-Davidson shares jumped $3.92, or 9.7%, to $44.30 after the motorcycle maker shared better-than-expected sales results for the first quarter and raised its forecast for motorcycle revenue for the year.
+
+On the earnings front, companies including Procter & Gamble, Netflix and Lockheed Martin are scheduled to post results later in the week.
+
+As of Friday, 81% of S&P 500 companies that had shared their results for the latest quarter exceeded analysts’ expectations for earnings, according to FactSet. Meanwhile, 84% beat analysts’ expectations for sales.
+
+Investors hoping the stock market’s climb will continue say they are counting on earnings to continue impressing to the upside.
+
+“I expect the earnings picture is going to remain very buoyant across the picture and for the momentum to stay very positive,” said Fahad Kamal, chief investment officer of Kleinwort Hambros. “As long as earnings meet what are very heightened expectations, the rally can keep going.”
+
+
+“The [cryptocurrency market] is really on edge right now,” said Joel Kruger, a currency strategist at LMAX. “There were concerns over the weekend after Turkey came out with the news of major regulatory restrictions coming into force.”
+
+Some traders were speculating that the U.S. Treasury could make a similar decision, he said.
+
+Overseas, the pan-continental Stoxx Europe 600 inched down 0.1%, snapping a four-session winning streak.
+
+In Asia, most major benchmarks ticked up. The Shanghai Composite Index climbed 1.5% for its best day in over three weeks. Hong Kong’s Hang Seng added 0.5%. However, India’s benchmark stock index fell 1.8% as Covid-19 cases continued to climb.
+
+--
+
+The world’s largest cloud companies are stepping in to help state and local health officials improve the process of scheduling Covid-19 vaccinations, as millions of Americans become eligible.
+
+Microsoft Corp. , Amazon.com Inc. and Alphabet Inc.’s Google have each rolled out cloud-based platforms and applications in recent months, developed to tackle challenges in setting up and running appointment-booking websites and call centers.
+
+The digital tools include repurposed versions of scheduling apps for Covid-19 tests launched last year, as well as wholly new capabilities, company officials said.
+
+The Morning Download delivers daily insights and news on business technology from the CIO Journal team.
+
+
+Many of the applications lean on existing enterprise information-technology apps, such as business management and communications software. And some include automated call centers that leverage natural language processing technology developed for familiar virtual assistants, like Amazon’s Alexa.
+
+Across the country, online public-sector services struggled in early 2021 to handle heavy web traffic and sudden surges in demand for vaccine appointments, which crashed websites and jammed phone lines, as people raced to nab available spots.
+
+Most of the sites and call centers were initially built by state health or local government tech teams, according to the National Association of State Chief Information Officers, though online booking systems operated by Walgreens Boots Alliance Inc. and other pharmacy chains have also experienced glitches.
+
+Where many fell short was in supporting the massive scale needed to manage tens and even hundreds of thousands of bookings, while integrating diverse software systems and databases that supported different stages of the process, says Todd Schroeder, director of public sector digital strategy at Google Cloud.
+
+Vaccinations in the U.S. are running at a pace of roughly 3.1 million a day over the past week.
+
+That is where the cloud comes in, Mr. Schroeder said: “We have a unique experience in handling website traffic.”
+
+In February, Google unveiled a purpose-built vaccine scheduling management system as part of its collection of Covid-response cloud services. Among other features, it includes virtual call-center agents powered by artificial intelligence, which can determine callers’ vaccine eligibility, get them registered and schedule appointments—in 28 different languages and dialects, Google says.
+
+The system also handles online registration and pre-screening, location searches using Google Maps, and sets appointments, along with issuing automated reminders and other notifications. It then gathers data, such as patient identification, for on-site medical teams aiming to speed up the check-in process.
+
+Because these and other functions operate in Google Cloud, the volume of data compiled in each step—and by millions of users—isn’t an issue, Mr. Schroeder said. In New York state alone, Google’s system has so far been used to check the eligibility of some 37 million people for vaccine appointments.
+
+“We never would have been able to handle this on the legacy system,” Sandra Beattie, a member of New York state’s Covid Task Force and the state’s first deputy budget director, said in an email. “There were times we were handling terabytes of data in rapid frequency.”
+
+Other state health agencies using all or parts of the systems include Oregon, North Carolina and Massachusetts, Google said.
+
+In Washington state, a similar omnichannel system of web-based, mobile and virtual call centers developed by Amazon—and hosted in the Amazon Web Services cloud—was adopted by the state in March. It has processed more than 50,000 calls to date, said Taha Kass-Hout, director of the company’s health AI division.
+
+
+He said the platform provides the same capabilities for websites, which take people through the entire scheduling process, right up to the vaccination location itself.
+
+Other state customers include West Virginia, Rhode Island, Maryland and South Carolina, among others, according to a company spokesman.
+
+Beyond the large cloud providers themselves, tech startups are leveraging the cloud-based tools offered by tech giants to develop their own vaccination platforms, offering their services to state and local health agencies.
+
+Curative, a health-tech startup launched just weeks before the pandemic struck, initially used Amazon’s cloud tools as the backbone to offer Covid testing services. It has since expanded and now uses AWS to provide complete end-to-end vaccination services from the ground up—not only preregistration and appointment scheduling, but also the medical staff to administer the shots—working in partnership with state and local health officials.
+
+That includes overseeing a mass vaccination site at the Dodger Stadium parking lot in Los Angeles that has provided roughly 10,000 vaccinations every day, said Fred Turner, the company’s chief executive officer. To date, he said, the company has provided more than one million vaccinations across six states.
+
+“Building new software from scratch is not something your typical public-health organization is particularly equipped to do,” Mr. Turner said.
+
+--
+
+Some corporate technology leaders say a proposed clampdown by European regulators on the use of artificial intelligence will run up costs and stifle innovation, just as companies are starting to unlock its potential.
+
+Others say stronger oversight will help build public trust in AI systems, which have inflamed tensions over data privacy, consumer protection and misuse—especially in areas like facial recognition.
+
+Thomas Donnelly, chief information officer of software firm BetterCloud Inc., said the proposed restrictions will have a negative impact on Europe’s technology sector over the long term, as companies elsewhere gain a competitive edge by continuing to develop cheaper and more efficient AI-powered applications.
+
+Our weekday newsletter provides insight into business opportunities and challenges companies face when implementing machine learning, deep learning and other advanced technologies.
+
+“I’ve been doing IT for a long time,” Mr. Donnelly said. “I’ve never seen tech as transformative as AI since the internet.”
+
+The European Union’s executive arm on Wednesday unveiled legislation that would ban the use of certain kinds of AI systems, while limiting the use of facial recognition by police.
+
+The proposal boosts regulatory oversight and sets out higher data-quality standards for the use of AI in designated “high-risk” areas, including critical infrastructure, college admissions and loan applications.
+
+Carol Juel, CIO of Synchrony Financial, said actions by European regulators on technology issues are influential. AI powers the credit-card issuer’s customer chatbot and helps the company catch potential fraud.
+
+Ms. Juel said ideas from the European Union’s General Data Protection Regulation have influenced how U.S. legislators approach privacy matters since the law went into effect in 2018.
+
+Although Synchrony doesn’t do business in Europe, she will monitor how Europe’s AI regulation plays out. “Oftentimes those rules make their way across the pond,” she said.
+
+“It is disappointing to see the leaders of democratic nations viewing AI with fear given the massive opportunities to cure diseases, avoid harms, distribute goods and services more efficiently, and create new jobs,” said Stephen Messer, co-founder and vice chairman of Collective [i], an AI company focused on optimizing the sales process.
+
+Benjamin Mueller, senior policy analyst at the Center for Data Innovation, said under the new policies, a financial firm building an AI-enabled credit-scoring system for its European market would have to perform extensive risk assessment, ensure its training data met high standards, make sure all AI-generated decisions are traceable, keep detailed technical documentation, build in human oversight measures, and more.
+
+“It’s a huge headache for anyone starting such a company or buying that kind of software,” Mr. Mueller said in an email.
+
+Ted Kwartler, vice president of AI Trust at DataRobot Inc., an AI platform developer, said the driving force behind the proposal is to protect consumers from companies misusing their personal data, a move he supports.
+
+Mr. Kwartler, who is a member of a committee to advise the White House on government data issues, said the EU’s guidelines on defining high-risk AI applications, along with built-in flexibility to re-evaluate those definitions as new use cases emerge, “will ensure all future deployments of the technology will be fair and built with citizen safety in mind.”
+
+“Our experience is that anytime there is certainty around the rules of the road for these sorts of technologies, then it’s easier to do business,” said Christian Troncoso, senior director of policy at the BSA Software Alliance, a Washington, D.C.-based trade group whose members include International Business Machines Corp. , Microsoft Corp. , Oracle Corp. and other software companies.
+
+The use of AI in enterprise technology is on the rise, analysts say. Driven by the growing adoption of AI and other data-heavy software tools, global spending on cloud computing services is expected to reach a total of $332 billion this year, up 23% from 2020, information-technology research and consulting firm Gartner Inc. reported Wednesday.
+
+Many companies world-wide deploy AI-enabled software to automate a range of tasks, from customer call-center services, to office administration, manufacturing and supply-chain logistics.
+
+Mario Harik, CIO of XPO Logistics Inc., said AI capabilities help the company fulfill customer demand by optimizing the supply chain from end to end. He said regulations need to target specific uses of AI without inhibiting others. “Using AI to forecast product inventories requires less regulation compared to AI used in autonomous vehicles,” Mr. Harik said.
+
+“AI is progressing at such a rapid pace right now, both the good and the bad of it,” said Peter van der Putten, director of decisioning solutions at software firm Pegasystems Inc.
+
+Mr. van der Putten said tech vendors and consumers alike will benefit from clear rules and boundaries over its use, calling the proposed EU regulations a “good first step.”
+
+“In the long run, consumers will vote with their wallets,” he added.
+
+--
+
+Intel Corp.’s INTC  new chief executive said a global chip-supply shortage could stretch two more years as the U.S. semiconductor giant posted weaker quarterly earnings.
+
+Pat Gelsinger said the supply constraints that have affected some sectors of the global economy for months will continue until more capacity comes online to meet chip demand for everything from automobiles to electronics.
+
+“This will take a while until people can put more capacity in the ground,” he said in an interview. “It’s just the way it is when you’re building new factories.”
+
+The global shortage of semiconductor chips has disrupted manufacturing across various sectors, leading to temporary shutdowns of automobile factories and reduced supply of items such as computers and some appliances. Chip companies have been scrambling to help overcome the shortage.
+
+The White House this month met with executives from the chip and other industries to help determine what action it should take to address the shortage and strengthen the domestic chip-building industry. President Biden previously pledged to fix the chip shortages and included $50 billion for the semiconductor industry in his expansive infrastructure-spending package.
+
+“The investment needed at the scale required is immense,” Mr. Gelsinger said.
+
+The CEO, on the job since February, also pledged to make some production capacity available swiftly to help alleviate the chip shortage.
+
+Mr. Gelsinger, who is fast-tracking efforts to re-energize the company, said the outlook projecting sales of $77 billion this year, $500 million higher than previously expected, is a “supply-constrained guide” for the year.
+
+Intel on Thursday said first-quarter sales fell 1% to $19.7 billion, beating Wall Street estimates. Net income, weighed down by costs of a legal settlement, was $3.4 billion. Excluding the pending sale of its memory business and other items, Intel said revenue was $18.6 billion and net income was $5.7 billion.
+
+Intel’s stock fell around 3% in after-hours trading.
+
+Mr. Gelsinger this month laid out an ambitious strategy for Intel to become a major contract chip maker in addition to making semiconductors to satisfy its in-house requirements. The plan includes a $20 billion spending commitment to build two new semiconductor plants in Arizona. “This is a pivotal year for Intel,” he said Thursday.
+
+
+Intel’s sales drop comes despite strong demand for chips broadly. Vivek Arya, a semiconductor analyst at Bank of America, said ahead of Intel’s results that the company is being held back by several factors. Among those are that a surge in demand for personal computers is centered largely on lower-end devices like Chromebooks, while Apple Inc. AAPL 0.30% is ditching Intel for in-house chip designs on some of its equipment. And after a strong year of spending on data centers, outlays this year are expected to advance at a slower pace, he said.
+
+Mr. Arya expects Intel’s sales growth to trail that of the broader sector, which he projects will increase around 15% this year.
+
+Mr. Gelsinger is trying to rebuild a company that has suffered repeated setbacks in making its most advanced chip and that has lost ground to Asian rivals. Mr. Gelsinger last month said the company was making progress on its newest chips, though analysts have said they want more detail.
+
+Intel also has said it would increase outsourcing of some chip production to keep pace, he said.
+
+The company also is contending with increased competition. Nvidia Corp. NVDA —which last year overtook Intel as American’s most valuable chip company—and Advanced Micro Devices Inc. AMD have taken market share. Nvidia this month also said it would start selling central-processing units for data-centers, a market Intel has long dominated. Intel this month introduced an enhanced data-center chip.
+
+Mr. Gelsigner said that despite projecting slower sales growth than its rivals, Intel aims to recapture lost ground. “We are out to gain market share,” he said.
+
+Intel had $5.6 billion in sales in the data-center business, missing analysts expectation of $5.9 billion. Profitability of that business was hammered by research and development spending, the company said, and costs associated with ramping up production of a new chip.
+
+Sales for the segment including laptop chips rose more than 8% to $10.6 billion, driven by the boom in remote learning and working from home during the pandemic. “We see no signs of PC demand slowing,” Mr. Gelsinger said.
+
+Intel’s effort to become a contract chip maker also isn’t without hurdles. The company has tried to break into that market before, with little success. And its chief rivals, Taiwan Semiconductor Manufacturing Co. TSM  and Samsung Electronics Co. , are readying their own multibillion-dollar spending plans to expand. TSMC last week raised its capital-expenditure plan for this year to $30 billion while lifting its sales forecast. Samsung has earmarked $116 billion in investment by 2030 to diversify chip production.
+
+Mr. Gelsinger has said Intel is planning additional chip investments. The company could benefit from the bipartisan support in Washington for U.S. chip companies. For instance, Intel is bidding on a Pentagon contract to help fund domestic chip-making to meet government security needs.
+
+Intel said it expects revenue for the current quarter of $18.9 billion.
+
+--
+
+The battle for podcast dominance is on.
+
+A pair of announcements this week— Apple Inc.’s AAPL 0.30% introduction of paid podcast subscriptions and Facebook Inc.’s FB 0.63% new partnership with Spotify Technology SA to spur discovery and listening on the social network’s platforms—are the latest for a rapidly growing medium that is attracting top talent and top dollar.
+
+“With Apple making its move into subscription, there is this platform war emerging,” said Josh Lindgren, head of Creative Artists Agency’s podcast department.
+
+Podcasting, already on a tear before the coronavirus pandemic, exploded in popularity during the lockdown, and is on track to bring in more than $1 billion in revenue this year from advertising in the U.S. for the first time. An estimated 116 million Americans, or 41% of the U.S. population over the age of 12, are now monthly podcast listeners, an 11% increase over 2020, according to Edison Research and Triton Digital.
+
+For years, competition in podcasts has been a lopsided one: Apple—responsible for the namesake of the industry, a portmanteau of “iPod” and “broadcast”—enjoyed its status as the default destination for listening while doing relatively little to enhance offerings or profits. Spotify, meanwhile, has lavished hundreds of millions on popular creators and companies—sparking an arms race among iHeartMedia Inc., Audacy Inc. (formerly Entercom), Sirius XM Holdings Inc., and Amazon.com Inc., which all now see podcasts as vital for keeping customers engaged with their services.
+
+Dawn Ostroff, Spotify’s chief content and advertising business officer, said the rush of other bets on podcasting validates the company’s early moves.
+
+“We saw the opportunity before anybody else did, and we’ve been at it significantly longer than anyone else,” she said.
+
+To some observers, Apple’s podcast news this week is akin to the awakening of a sleeping giant. More than 15 years after adding podcasts to its iTunes software, the tech company introduced a way for podcasters on its platform to sell subscriptions. Until now, the company has neither offered paid access for podcasts nor earned a commission from ads that appear in the more than two million shows on its platform. Apple declined to comment.
+
+“Apple, where podcasting originated, cannot lose out on the podcasting battle,” said Daniel Ives, an analyst for Wedbush Securities. “It’s now or never. It’s both a defensive move toward Spotify but also offensive in terms of monetizing.”
+
+Podcasters will pay Apple $19.99 a year to enable subscriptions, and set their own prices for listeners. Apple will take a 30% cut of subscription revenue the first year, and a 15% take thereafter.
+
+“For any industry to be sustainable, we have to be able to generate revenue from more sources,” said Donald Albright, co-founder of Tenderfoot TV, the maker of hit shows including “Up and Vanished,” “To Live and Die in L.A.” and “Atlanta Monster.” Tenderfoot will keep its shows free for now, but will explore releasing exclusive bonus content and early access to subscribers via Apple’s new program, he said. “It creates a more healthy industry.”
+
+Spotify, the big spender on exclusives, talent and technology, has also sought to make the medium more financially viable through advertising and eventually subscription.
+
+Spotify now carries more than 2.2 million podcasts on its service, up from 450,000 in 2019. The Swedish streamer’s podcast listenership in the U.S. is on track to overtake Apple Podcasts’ this year, according to a forecast from research firm eMarketer. Though Apple’s service has grown along with the medium, it has lost market share, falling to 24% in 2021, from 34% in 2018.
+
+Apple’s podcast subscription, which rolls out next month to users, will have company. Spotify plans to announce its own offering next week, according to people familiar with the matter. It will not charge podcasters, nor take a cut from their subscriptions, and will allow them to set their own pricing, one of those people said.
+
+Users of Spotify’s iOS app who subscribe will be routed to a website for the transaction, meaning that Apple won’t take a cut of that revenue, the person said.
+
+Stitcher (acquired by SiriusXM), Wondery (acquired by Amazon), Patreon and Pocket Casts have offered paid subscriptions with varying success. Luminary, thought to be the most established player in subscriptions, will make its original podcasts available to Apple podcast listeners through the new program. Apple and Spotify, which command many more listeners than those apps, are likely to make paying for podcast content more mainstream.
+
+The broader competition between Apple and Spotify is intensifying. Aside from competing for music subscribers (Spotify is far ahead of any other service, with 155 million globally as of Dec. 31 while Apple last reported 60 million subscribers in June 2019), Spotify has been among the tech company’s most prominent corporate critics, claiming that it uses its strength to compete unfairly, which Apple denies.
+
+Apple’s new podcast subscription option within a revamped app reflects one of Chief Executive Tim Cook’s core strategies, which has focused on building out digital services to fuel growth. That strategy—which generated almost $16 billion in sales in the fourth quarter, a 25% lift from a year before—put Apple in closer competition with companies that operate on its devices. Spotify, among others, has complained that Apple uses its App Store in anticompetitive ways.
+
+Spotify set off a feeding frenzy with deals for podcast makers like Gimlet Media and Bill Simmons’ the Ringer, along with its blockbuster $100 million-plus licensing agreement with Joe Rogan. It has sewn up other deals with Michelle and Barack Obama, Kim Kardashian, and Prince Harry and Meghan Markle, while also investing in studios and services for up-and-coming voices.
+
+“Spotify making these investments has helped increase the market and push up the value of creators’ work,” said CAA’s Mr. Lindgren.
+
+Apple, whose TV studio has released original podcasts including “The Line” and “For All Mankind,” is in talks with podcasters about creating original and exclusive shows for its service, according to people familiar with the matter.
+
+“Even though they have the keys to the kingdom in terms of overall customer base and the App Store and broader content, what’s going to differentiate them is not just aggregation, it’s exclusive content,” said Mr. Ives.
+
+Spotify says it welcomes competition.
+
+“The opportunity in audio is massive. We feel there is room for everybody given the scope and scale of what this medium has become,” said Spotify’s Ms. Ostroff, who added that Spotify is distinct from rivals because of its singular focus on audio. “Other companies are looking at audio as a side business—it’s our core mission.”
+
+--
+
+Elon Musk’s SpaceX launched its third crewed rocket for NASA, sending four more astronauts to the space station and marking the first time the company achieved the takeoff with both a pre-used capsule and rocket.
+
+The Falcon 9 rocket lifted off at 5:49 a.m. ET Friday—with a low rumble and leaving behind a trail of fire and smoke in the predawn darkness—from NASA’s Kennedy Space Center at Cape Canaveral, Fla. The capsule successfully docked early Saturday with the International Space Station, joining an earlier group of four astronauts who traveled there on SpaceX’s first operational mission in November and three others also on board.
+
+The mission marks a number of firsts for SpaceX. It is the first time that two of the company’s Crew Dragon capsules will be simultaneously docked at the ISS. It is also the first time the rocket has carried two international partners, Japan Aerospace Exploration Agency’s Akihiko Hoshide and Frenchman Thomas Pesquet from the European Space Agency. They join Americans Shane Kimbrough, the mission’s commander, and Megan McArthur, the spacecraft’s pilot. The crew will be stationed at the space station for a six-month mission.
+
+Another first: Both the rocket and capsule used in Friday’s launch were reused from earlier launches. The rocket was previously used in the first operational launch in November, and the capsule comes from May’s test launch. The mission, code named Crew-2, originally scheduled for Thursday, had been postponed due to poor weather conditions along the flight path.
+
+The Falcon 9 left its launchpad two seconds past 5:49 a.m., providing 1.7 million pounds of thrust and accelerating the capsule across the morning sky and reaching a velocity of close to 17,000 miles an hour. Roughly 12 minutes later, the capsule safely separated from the rocket’s upper stage, ground controllers said.
+
+“I think we are at the dawn of a new era of space exploration,” Mr. Musk said at a news conference after the launch. After founding SpaceX 19 years ago, Mr. Musk said he had only recently become convinced that space hardware could be successfully reused, cutting the costs of launch. “That’s the gateway to the heavens,” he added.
+
+As the capsule entered orbit, the first stage of the rocket had successfully detached and completed its descent, landing on SpaceX’s autonomous drone ship stationed in the Atlantic Ocean.
+
+“All I can say is it’s about time,” Kennedy Space Center Director Bob Cabana said of the return to regular human space flight. “It’s awesome to have this regular cadence again.”
+
+The launch marks a significant milestone for Mr. Musk’s Space Exploration Technologies Corp., the official name of the commercial spaceflight company, as it moves to prove the fundamental thesis of its strategy: that it can save on the costs of space travel by reusing the rocket and capsule components of a launch after each flight.
+
+“We are moving beyond ‘showing it can be done.’ This launch is the beginning of SpaceX demonstrating operational cadence and establishing commercial human spaceflight as a real, repeatable capability,” said Carissa Christensen, founder and chief executive of Bryce Space & Technology, a consulting firm. “We are essentially witnessing the creation of a new industry, and every early success is important to its growth path.”
+
+SpaceX, after its first full-fledged human mission in November, reiterated at the time its ambitions to launch seven Dragon capsules for NASA, including three cargo variants, over the following 15 months as it moves through a series of more regular launches.
+
+Another human mission, dubbed Crew-3, is set to take place in the fall, sending another team of astronauts for a separate six-month stint on the space station. On April 28, the team from Crew-1 will undock from the orbiting ISS aboard the Crew Dragon Resilience spacecraft and return to Earth in a splash-landing off the coast of Florida. They will then be picked up by one of SpaceX’s recovery vessels.
+
+There have been setbacks along the way, including complex problems related to the capsule’s parachutes and a failure of its emergency-escape engines that led to an uncontained explosion in 2019. No injuries were recorded in those incidents, but they pushed back the program’s development.
+
+Friday’s launch follows a lucrative win for SpaceX last week with NASA awarding Mr. Musk’s closely held company a contract to build a new capsule to land astronauts on the moon. Mr. Musk’s team beat out two rivals— Jeff Bezos ’ Blue Origin and the Dynetics unit of Leidos Holdings Inc. —for the Human Landing System moon taxi, which could be operational from as early as 2024. The contract is part of the larger Artemis program, led by NASA, to explore and develop deep space but relying more heavily on private contractors than in the past.
+
+The contract adds to SpaceX’s products, which now spans new rockets, space taxis and an array of satellites for commercial and military customers. The company’s recent funding rounds have raised its valuation close to $100 billion.
+
+--
+
+For a tech guy, Mike de Vere, chief executive of fintech software startup Zest AI, has a contrarian return-to-work plan for his 100 employees: he wants them in the office full time.
+
+Mr. de Vere said having employees together in the Burbank, Calif., headquarters improves communication, builds trust and allows for them to absorb knowledge from more experienced colleagues.
+
+“We believe that we will be our best selves the more that we are together,” he said.
+
+As more tech companies leverage the promise of flexible work arrangements as a competitive advantage, some are going the opposite route, betting that a strong office culture is what will help them recruit and retain the best talent.
+
+Proponents of fully in-office work cite a range of benefits, from the collaboration that can result from happenstance interactions to easier communication. Plus, they add, plenty of people enjoy working in offices, especially after months spent, for some, in makeshift arrangements. Given the tech industry’s status as a bellwether for workplace trends, professionals in many industries are watching to see where it lands.
+
+
+Some of tech’s biggest employers have declared they’ll embrace hybrid work after the pandemic. Salesforce.com Inc. has said the majority of its employees will come into the office only a few days a week. Microsoft Corp. MSFT 0.15% recently announced similar plans. Even Alphabet Inc.’s GOOG 0.49% Google, known for its sprawling campuses full of some of the best perks in the industry, is piloting an option where employees work from home three days a week.
+
+Mr. de Vere said he’s not worried about losing skilled workers to companies with more flexible arrangements. Young professionals will want to learn from talented veterans in person, he said.
+
+Recently, an in-person sales meeting with a prospective client was scheduled for an hour but ended up lasting three. To cover everything they went over, including deal terms, normally would take weeks over Zoom, Mr. de Vere said.
+
+There are also the office perks. Before the pandemic, Zest AI held happy hour every Wednesday (Mr. de Vere would bartend), and there might be several employees’ dogs running around at any given time. A manicure-pedicure station was available two days a week.
+
+Free food and on-site fitness classes aside, tech workers have gotten used to life without commutes and more family time. Some have abandoned major hubs altogether in favor of more affordable housing and what they view as better quality of life a few hours away or in entirely different parts of the country.
+
+Dan Kaplan, a partner with organizational consulting firm KornFerry International, said the pandemic has permanently changed the equation for employees. The days of being in the office just to show your face are over: “People aren’t willing to do it anymore,” he said.
+
+Despite the tech industry’s broad shift to remote work, Facebook is doubling down on physical office space in New York. It signed a major deal during the pandemic making it one of the city’s largest corporate tenants. WSJ takes an exclusive look inside Facebook’s future NYC offices. Photo Illustration: Adam Falk/The Wall Street Journal
+Though people early in their careers crave mentorship and the ability to build their social circles on the job, Mr. Kaplan said he’s started seeing flexibility as a point of negotiation between job seekers and employers. Candidates are trying to broker fewer days a week in the office and CEOs prefer more time in person, he said.
+
+“There is going to be tension in the system,” he said. What tech companies do will have impacts across industries, he added.
+
+Amazon.com Inc.’s AMZN announcement last month that it will continue as an office-focused company quickly became fodder for recruiters looking to poach its workers.
+
+While many workers value flexibility, there are those who would prefer to work out of an office full time.
+“Amazon employees: Second guessing a return to the office? Been more productive at home? Enjoying the moments with your family and loved ones? Would you like a more flexible working arrangement? Well, #Zillow is hiring,” posted one recruiter to LinkedIn.
+
+An Amazon spokesman said the company plans to gradually return to an office-centric workweek because it “enables us to invent, collaborate, and learn together most effectively.”
+
+At the peer-to-peer storage startup Neighbor.com in Lehi, Utah, CEO Joseph Woodbury’s roughly 50 employees are on track to return to the office full time by May 15.
+
+
+Tech companies have long been known for their strong office cultures and many perks.
+Mr. Woodbury said that while he might miss out on potential employees who prize remote work, it cuts both ways: companies jumping on remote-first and hybrid trends may not attract the employees who value working with their colleagues in person.
+
+“It seems like a lot of people are rushing into this,” he said. “It’s an immediate trend spurred on from a very unique event.”
+
+Mr. Woodbury voiced skepticism that top tech companies would be where they are today without their strong office cultures. Workers soon may find it tougher to locate roles in which they can count on their colleagues being present at the same time they are.
+
+“We think it’s a real competitive advantage,” he said.
+
+Denise Rousseau, a professor of organizational behavior and public policy at Carnegie Mellon University, said hybrid models appear to offer the benefits of both worlds. But they could inadvertently disadvantage women, who shoulder the bulk of caregiving duties and may be more likely to seek more home-based arrangements and miss out on professional face-time, she said. Any solution to one problem will raise other challenges, she said.
+
+Some companies are already grappling with various strains from hybrid arrangements. 
+
+Alex Tapper, an engineer with the San Francisco-based software startup Retool Inc., said he’d be hesitant about working for a company using a hybrid model. He anticipates it will create more overhead, miscommunication and ultimately lead to management imposing more rules and oversight.
+
+“It’s like one foot in, one foot out,” he said. “You have to pick a lane.”
+
+Retool’s 80 employees will be expected to be in five days a week, working from home only occasionally, once it’s safe. Mr. Tapper, 30 years old, said he prefers it that way.
+
+“I just generally enjoy being around my colleagues and I do miss it,” he said.
+
+Sankarshan Murthy, CEO and co-founder of Bumblebee Spaces Inc., a San Francisco startup that makes tech-enabled storage and furniture, such as a queen-size bed that drops down from the ceiling, already has his 28 employees coming into the office five days a week. The nature of their work requires being present to build and improve upon their designs, though he says he offers some flexibility and trusts employees to manage their own time.
+
+“It’s not like a manufacturing line-Army mentality, but we are physically working together,” he said. “You cannot be in Cabo or Nepal doing remote work.”
+
+--
+
+Lyft Inc. LYFT is selling its self-driving division to a unit of Toyota Motor Corp. TM for $550 million, a move the ride-hailing giant said will help it turn a profit sooner than previously expected.
+
+Woven Planet Holdings, a Toyota subsidiary focused on autonomous technology, will pay $200 million up front as part of the deal, Lyft said Monday. The remaining $350 million will be paid in cash over a five-year-period.
+
+Lyft’s departure from building self-driving cars follows rival Uber Technologies Inc.’s UBER decision to shed its autonomous-driving division in December. The money-losing companies overhauled their businesses during the coronavirus pandemic and pledged to scale back on costly ventures as the health crisis crushed their core rides operations.
+
+Lyft said the sale would help it save $100 million in operating expenses, accelerating its path to profitability. The company said it now expects to become profitable on an adjusted basis before interest, taxes, depreciation and amortization in the third quarter. Previously, it expected to reach that milestone in the fourth quarter, alongside Uber.
+
+Both companies spent big to expand into areas beyond ride-hailing in recent years, fueled by investors who backed their wide-ranging ambitions. But enthusiasm waned as they amassed billions in losses along the way. The pandemic dealt the final blow, forcing the companies to shed costly new bets.
+
+A Lyft executive said the industry was becoming realistic: letting car makers develop the underlying technology, while tech companies help connect them to riders. The executive said Lyft will carve out a team of about 20 employees who strike such partnerships and deploy self-driving cars across its network in the future. Woven will inherit the 300 employees who worked at Lyft’s self-driving unit. This way, the executive said, “you let everyone do what they do best.”
+
+The deal is expected to close in the third quarter, subject to regulatory approvals.
