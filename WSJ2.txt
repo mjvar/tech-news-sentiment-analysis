@@ -1,0 +1,30 @@
+4/29
+Amazon . com Inc. reported record quarterly profit as demand remained robust for its deliveries, cloud-computing and advertising businesses, capping a blockbuster earnings season for the world’s largest technology companies.
+The Seattle company’s profits in the year since the pandemic started exceeded $26 billion, more than the previous three years combined. Net income from January to March more than tripled to $8.1 billion, and revenue of $108 billion far exceeded the average of analyst predictions on FactSet.
+Amazon, Apple Inc., Facebook Inc., Google and Microsoft Corp. all reported significant gains in profits and revenue, underscoring how the pandemic has helped strengthen technology companies and put them increasingly at the center of daily life around the world.
+Apple’s profit more than doubled to $23.6 billion due to higher sales of new, higher-priced iPhones as well as Mac computers and iPads. A surge in digital-ad spending lifted Facebook and Google parent Alphabet Inc., while Microsoft posted a 19% increase in quarterly sales as more customers turned to its cloud and videogame services while staying home during lockdowns.
+--
+4/27
+Under Apple Inc.’s new privacy restrictions, advertisers targeting iPhone users will get more data about ad performance if they buy Apple’s ad space than if they buy through third parties, according to ad-industry executives.
+The difference could eventually give Apple’s small but growing ad business an edge over rivals, ad executives and app makers say.
+Apple’s latest operating system for iPhones has set off a firestorm in the ad industry and beyond by letting users decide whether to let apps track them for advertising purposes—changes that mean companies may soon have less data about who sees their ads. Apps on Apple’s iOS platform must ask users’ permission to track them for advertising purposes.
+When targeting users who have opted out of tracking, advertisers who buy ads through third-party platforms will have to wait three days for insights on their campaigns and will receive only aggregate information, such as the total number of users who took an action after an ad, people familiar with Apple’s ad products said.
+--
+5/1
+If the pandemic had never happened, the tech industry’s clout likely would have risen over the past year. But the economic effects of Covid-19 have catapulted the tech titans to heights few might have imagined possible a year ago.
+The past week of quarterly financial results from Apple Inc., Microsoft Corp. , Amazon.com Inc., Facebook Inc., and Google-parent Alphabet Inc. put that dominance on vivid display. Each of these companies—already juggernauts pre-pandemic—recorded revenue growth near or above its fastest pace in years.
+The quintet set records for sales and profits. Revenue at Apple, the world’s most highly valued company, jumped 54% to the highest level it’s ever hit for the first three months of the year. Amazon logged its fourth straight record quarterly profit—a stretch when its total earnings exceeded those of the previous three years combined.
+“Over a year into the pandemic, digital adoption curves aren’t slowing down. They’re accelerating,” said Satya Nadella, chief executive of Microsoft, whose revenue rose 19% in the latest quarter.
+--
+4/28
+Verizon Communications Inc. is exploring a sale of assets including Yahoo and AOL, as the telecommunications giant looks to exit an expensive and unsuccessful bet on digital media.
+The sales process, which includes private-equity firm Apollo Global Management Inc., could lead to a deal worth $4 billion to $5 billion, according to people familiar with the matter—assuming there is one. Other details couldn’t be learned.
+Verizon splashed out billions of dollars assembling a portfolio of once-dominant websites, including AOL in 2015, and Yahoo in 2017, paying more than $9 billion in total to acquire the pair.
+Verizon, the country’s largest wireless carrier in terms of subscribers, bought the websites intending to resurrect brands that had lost traffic since their heyday but still counted a base of hundreds of millions of account holders.
+--
+4/30
+The European Union charged Apple Inc. with antitrust violations for allegedly abusing its control over the distribution of music-streaming apps, broadening the battle over the tech giant’s App Store practices ahead of a federal trial in the U.S. brought by “Fortnite” maker Epic Games.
+The European Commission, the EU’s top antitrust enforcer, on Friday issued a charge sheet against Apple that says the iPhone maker squeezed rival music-streaming apps by requiring them to use Apple’s in-app payments system to sell digital content. The case stems from a complaint by Spotify Technology SA, which competes with Apple’s music-streaming service.
+In addition, EU regulators say Apple “distorted competition” by limiting how app developers can inform users about cheaper ways to subscribe outside the app. Apple’s in-app payment system imposes a 30% commission on purchases inside many of the most popular apps.
+“This case is about the central role of app stores in the digital economy,” Margrethe Vestager, who is in charge of competition enforcement at the European Commission, said at a press conference Friday. “An app store can become a gatekeeper, in particular if there is only one app store available in a mobile ecosystem.”
+-- 

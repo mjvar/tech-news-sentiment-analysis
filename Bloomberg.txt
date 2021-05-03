@@ -1,0 +1,91 @@
+1/5
+Apple Inc.’s App Store had operating margins of almost 78% in fiscal year 2019, according to testimony from an Epic Games Inc. expert witness based on documents obtained from the iPhone maker.
+The figure comes from Ned Barnes, a financial and economics researcher, who said he obtained documents “prepared by Apple’s Corporate Financial Planning and Analysis group and produced from the files of Apple CEO Tim Cook.”
+Apple is disputing the accuracy of Barnes’s calculations -- and urging a judge to restrict public discussion of App Store profit -- as the companies head into a high-stakes trial Monday in Oakland, California.
+Epic, maker of the blockbuster game Fortnite, is trying to show that the App Store is run like a monopoly with its commission on developers of as much as 30%, while Apple insists it doesn’t abuse its market power.
+Epic is also suing Apple in the U.K. and Australia while Apple faces scrutiny from antitrust regulators in the U.S. and abroad.
+The companies are relying heavily on dueling economists as they make their case to U.S. District Judge Yvonne Gonzalez Rogers, who is conducting the three-week trial without a jury.
+As part of the pretrial information-sharing process, Barnes said that an Apple employee told him that the numbers from the company’s internal documents don’t show the full picture. Barnes said he then made additional calculations, which resulted in higher margin estimates of 79.6% for both 2018 and 2019.
+In a statement Saturday, the Cupertino, California-based technology giant said Epic experts’ “calculations of the operating margins for the App Store are simply wrong and we look forward to refuting them in court.”
+Barnes said he also obtained documents prepared inside Apple that show profit and loss estimates for fiscal year 2020. He said Apple had been tracking App Store profits for years and that he also obtained such statements for 2013 through 2015.
+Apple generates revenue from the App Store by charging either a 15% or 30% commission to developers for paid app downloads, in-app-purchases and subscriptions.
+Analysts believe that Apple’s margins on the App Store may have grown since 2019. Sensor Tower estimates the App Store generated $22 billion in commissions last year for Apple, while Bernstein analyst Toni Sacconaghi believes Apple will run the App Store this year with a gross profit of 88%.
+Apple executives have said the company doesn’t track such profit and loss statements for individual business units.
+“When we look at the App Store, it’s not a separate standalone business for us,” Kyle Andeer, Apple’s chief compliance officer, said at a congressional hearing last month. “It’s an integrated feature of our devices.”
+Cook said the same in his pretrial testimony. “Apple’s business is not structured that way that allows a person to push a button and obtain an App Store” profit and loss statement, he said.
+Apple says it doesn’t allocate costs for the App Store, and that internal documents discussing revenue for the marketplace typically don’t include expenses. That means, according to the company, any margins or profits don’t show the entire picture.
+In an expert witness testimony on behalf of Apple, Richard Schmalensee, a Massachusetts Institute of Technology economics expert, said that Barnes’s “estimate of the App Store’s operating margin is unreliable because it looks in isolation at one segment of the iOS ecosystem in a way that artificially boosts the apparent operating margin of that segment.” He added that “any accounting measure of the App Store’s stand-alone profitability is also arbitrary and thus unreliable as an indicator of anything.”
+In a request to the judge to bar Epic from referring to App Store financial data in open court, Apple said the information may “unduly confuse the securities markets and participants in those markets, including the many pension funds, mutual funds, and other ordinary investors who own Apple stock.”
+--
+4/30
+Investment-management startup Wealthsimple is in talks to raise financing at a valuation of at least $3.5 billion, according to people familiar with the matter.
+That would more than triple the roughly $1 billion valuation the Toronto-based startup announced in October.
+Several of the company’s existing investors are expected to participate in the new round that is in the early stages of coming together, said the people, who asked not to be identified because the information was private. Wealthsimple is backed by Greylock Partners, TCV, Meritech Capital Partners and Two Sigma Ventures.
+A spokesperson for Wealthsimple declined to comment.
+Wealthsimple, which says it’s “the world’s most human financial company,” markets itself as a low-cost investment platform and adviser. It also has commission-free stock trading, with similarities to Robinhood Markets Inc.
+Valuations for financial-technology businesses are skyrocketing, with companies such as Coinbase Global Inc. and Affirm Holdings Inc. going public this year. Robinhood said in March that it had filed confidentially for an IPO.
+Wealthsimple’s platform has 1.5 million users worldwide, according to its website. The business offers tiered pricing depending on account size.
+--
+4/30
+Slack Technologies Inc. has acquired Woven, a popular calendar app, as it adds features to compete with Alphabet Inc.’s Google and Microsoft Corp.
+The workplace communications software company said it invested in Woven through its SlackFund. Terms of the transaction weren’t disclosed.
+“We are thrilled to welcome the Woven team to Slack,” Slack said in response to a query. “We’re always on the lookout for top technical talent and are excited to welcome these individuals to Slack. We look forward to what we can accomplish together in Slack’s mission to make people’s working lives simpler, more pleasant and more productive.”
+Slack is in the process of being acquired by Salesforce.com Inc., whose Chief Executive Officer Marc Benioff has orchestrated more than 60 acquisitions in 21 years.
+Woven’s CEO Tim Campos, who was Facebook Inc.’s former chief information officer, also announced the Slack acquisition in its blog. He said he would have liked to maintain Woven for its users but said the move was the “best path forward” as he pursues other plans that he will announce at a later date.
+Campos set up the company, which he said scheduled more than 2.2 million events, with Burc Arpat, Woven’s chief technology officer who was a senior software engineer at the social media giant.
+“Burc and I decided that our pace wasn’t fast enough to achieve our mission with the current business,” Campos said in the blog. “Slack is tackling issues we care about -- productivity and innovation” and are doing it “on a massive scale and with great success.”
+--
+4/30
+Like anyone who’s done their time in quarantine, David Lee went through Netflix, YouTube and the internet. When it came to exercising however, he found he had to rearrange the furniture to get any decent space. He considered buying an exercise bike online, but retailers either took too long to deliver given his 14-day predicament or wouldn’t come to a hotel.
+Two quarantines later, the 35-year-old Singaporean decided to do something about it. “I woke up at 7 a.m. and worked on a website, completed it in three hours, just a very basic website, and put some products on it. I got my first order the same day.”
+Lee’s Happy SHN is one of several companies that have sprung up in Singapore since the coronavirus pandemic irrevocably changed everyone’s lives. With returning residents and some travelers required to serve mandatory quarantine at government-appointed facilities -- usually hotels earmarked for the purpose -- these businesses offer a range of rentals to make the time that little bit more bearable.
+Exercise equipment like bikes, free weights and treadmills are obvious ones but Happy SHN (short for stay-home notice) and others offer everything from gaming consoles to microwave ovens, air purifiers, fridges, Dyson vacuum cleaners, big-screen TVs, carbonated water makers, electronic pianos, food steamers, coffee machines and hair straighteners.
+Happy SHN will accept any request, so long as it’s legal and within certain weight and size limits. If renters really like the equipment, they can buy it at a discounted rate, depending on its age and condition. Upon checkout, they just leave it with the hotel concierge.
+Lee, who had to shutter his other business that did vacation rentals in Seoul because of the pandemic, said interest is brisk with most wanting to make their two weeks as comfortable as possible. He recently added freezers after one mother who was breastfeeding found the bar fridge in her room inadequate. A portable washing machine will also soon be added to the list of items available.
+Ian Berclaz is another entrepreneur who saw an opportunity. After a restructuring at an asset management company made his position redundant last year, the Swiss native co-founded Sweatspot SG with his partner, offering exercise bike rentals to people who wanted to work out at home during Singapore’s eight week so-called circuit breaker period.
+It wasn’t until he saw a bus transporting people to hotels to serve their quarantine that he realized the broader potential.
+“Suddenly I had a revelation,” Berclaz, 47, said. “I said that’s another way we expand our business. So we reached out to hotels and started partnering with them.”
+Now, two-thirds of Sweatspot’s business comes from hotel quarantine rentals, and he’s devised premium packages that offer spin bikes, weight sets and yoga mats.
+Even though governments around the world are trying to vaccinate their populations quickly in the hope of reviving torn and battered economies, both Lee and Berclaz say they expect business to grow. Sweatspot is now looking to expand overseas to Hong Kong, Indonesia, Taiwan and Thailand.
+“I think this business will still be going on at least for another one to two years,” Lee said. “I’ll be doing this until everyone is vaccinated.”
+--
+4/30
+Some customers of Intuit Inc.’s QuickBooks payroll software said they haven’t received direct-deposit payments on Friday.
+The company acknowledged the issue on its website on Friday morning and later in the day a spokeswoman said, “There is a direct deposit issue for a subset of QuickBooks Online Payroll customers that did not receive their paychecks this morning. We are aware of the issue. It should be resolved shortly with impacted customers receiving their paychecks by end of day today.”
+The issue caused a flurry of Tweets from people who said they hadn’t received their paychecks.
+Alicia Colon, chief executive officer of Sage Cleaning in West Palm Beach, Florida, said she started hearing from her employees early Friday morning that hadn’t been paid. Colon’s company employs fewer than 10 people and her employees were “freaking out” about how they will be able to pay their monthly rent for May, she said.
+It’s not known what caused the issue, though Allan Liska, a a threat analyst at cybersecurity firm Recorded Future Inc., said, “I can’t find any indication it is a cybersecurity issue.”
+--
+4/30
+Turkish retail delivery app Getir is in talks to raise new funds with a valuation of at least $7 billion, according to people familiar with the matter who asked not to be named.
+
+Getir is seeking to raise at least $500 million, the people said. The funds will be used to expand in the U.S., one of the people said. The company aims to close the deal by next month, and pursue an initial public offering in New York after two years, the person said.
+
+A representative for Getir declined to comment.
+
+Instant delivery companies that ferry groceries and other goods to consumers have seen demand surge during the coronavirus pandemic. Startups including Getir and Berlin-based grocery delivery app Gorillas have rapidly hit billion-dollar valuations. In the U.K., London-based Deliveroo signed a two-year partnership with grocer Waitrose to expand its delivery service to 150 shops across the country by the end of the summer.
+
+DoorDash Inc., the largest food-delivery company in the U.S., is also seeking acquisitions in Europe, Bloomberg reported Thursday.
+
+Getir started its first overseas expansion in London earlier this year and plans to start operations in Brazil in the second half of this year if the pandemic slows.
+
+Some of Getir’s existing investors have expressed interest in joining the deal, the people said. The company last raised money in March, garnering $300 million in a round that came with a $2.6 billion valuation led by Sequoia Capital and Tiger Global.
+--
+4/28
+Apple Inc. reported quarterly revenue that crushed Wall Street expectations, fueled by sales of the 5G iPhone 12 line and purchases of iPads and Macs as people continued to work and learn from home.
+
+The Cupertino, California-based technology giant reported fiscal second-quarter sales of $89.6 billion, up 54% from the same period in 2020. Analysts, on average, estimated $77.3 billion, according to data compiled by Bloomberg. Profit was $1.40 a share, also easily topping Wall Street forecasts.
+
+“iPad and Mac sales nearly doubled, showing the strength of the PC market and education channels,” said Shannon Cross, an analyst at Cross Research. “These results also show their control over the supply chain and their ability to outmaneuver competitors.”
+
+5G Impact
+Apple iPhone sales surged 66% in fiscal second quarter, first full period for model 12
+
+
+The world’s largest technology company has mostly thrived during the pandemic. Supply chains were thrown off kilter early on last year, however, millions of people were forced to work and study from home, firing up demand for iPhones, iPads and Mac computers. Now that vaccinations are spreading and some consumers are returning to the office and school, Apple will have to work hard to maintain such high levels of interest in its devices.
+
+“This quarter reflects both the enduring ways our products have helped our users meet this moment in their own lives, as well as the optimism consumers seem to feel about better days ahead for all of us,” Apple Chief Executive Officer Tim Cook said in a statement.
+
+The stock rose more than 2% in extended trading, after closing at $133.58 in New York. The shares have lagged behind other big tech companies so far this year.
+
+As it has been its practice for the past several quarters, Apple did not provide a forecast for the current quarter. On a call with analysts, though, the company said supply constraints will crimp revenue by as much as $4 billion in the June quarter.
