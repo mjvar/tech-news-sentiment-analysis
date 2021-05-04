@@ -1,0 +1,1336 @@
+3/26
+The Agency at the Center of America’s Tech Fight With China
+Washington lawmakers, lobbyists and other parties have been vying to influence how the Bureau of Industry and Security, under the Biden administration, will approach a technology relationship with China.
+
+As tensions between the United States and China escalate, a little-known federal agency is at the center of a debate in the Biden administration about how tough an approach to take when it comes to protecting American technology.
+
+The Bureau of Industry and Security, a division of the Commerce Department, wields significant power given its role in determining the types of technology that companies can export and that foreign businesses can have access to.
+
+In recent months, Washington lawmakers, lobbyists and other interested parties have been vying to influence how the agency, under the Biden administration, will approach a technology relationship with China that is both crucial for American industry and national security.
+
+China hawks, including a collection of national security experts, congressional Republicans and progressive Democrats, say that in the past, American industry has held too much sway over the bureau. They have been pressing the administration to select a leader for the agency who will take a more aggressive approach to regulating the technology that the United States exports, according to people familiar with the discussions.
+
+Their opponents, including some current and former Commerce Department employees, and many in industry and Washington think tanks, caution that putting a hard-liner at the helm could backfire and harm U.S. national security by starving American industry of revenue it needs to stay on the cutting edge of research and encouraging it to relocate offshore.
+
+“It’s a very complicated relationship between the economic and national security interest,” said Lindsay Gorman, a fellow for emerging technologies at the German Marshall Fund. “The fine line the Commerce Department has to walk is protecting against national security risks that may not be top of mind for the industry in the short run, without killing the golden goose.”
+
+The bureau’s powers became clear during the Trump administration, which wielded its authority aggressively, though somewhat erratically, using the agency to curb exports of advanced technology goods like semiconductors to the telecommunications company Huawei and other Chinese businesses. It weaponized the bureau’s so-called entity list, adding hundreds of Chinese companies to a list that blocks exports of American products to companies or organizations that pose a national security threat.
+
+But many of these regulations were enacted haphazardly and often did less to restrict Chinese access to American technology than the Trump administration intended. And at times, President Donald J. Trump offered Chinese companies concessions from these punishments to try to advance a trade deal with China, including offering a reprieve for the Chinese telecom company ZTE and licenses so companies could continue supplying goods to Huawei and Semiconductor Manufacturing International Corporation.
+
+The Biden administration is still carrying out a review of its China policies and has not indicated how it plans to use the bureau’s powers. Its initial engagement with China got off to an acrimonious start last week at a meeting in Anchorage, and President Biden, in his first news conference on Thursday, emphasized investing heavily in new technologies to compete with Beijing.
+
+“The future lies in who can, in fact, own the future as it relates to technology, quantum computing, a whole range of things, including in medical fields,” Mr. Biden said.
+
+“I see stiff competition with China,” he added. “They have an overall goal to become the leading country in the world, the wealthiest country in the world and the most powerful country in the world. That’s not going to happen on my watch because the United States are going to continue to grow and expand.”
+
+Last week, the Commerce Department said it had issued subpoenas to multiple Chinese technology companies asking them to provide more information on their activities, potentially presaging tighter restrictions on their use and transfer of American data.
+
+U.S. officials will soon need to make difficult choices about specific policy actions. That includes how to use the Commerce Department’s powers, including whether to block more exports of American technology, whether to keep or scrap Mr. Trump’s tariffs on foreign metals, and how to set the standards for national security reviews of foreign investments.
+
+The complication stems from China’s position as both the largest export market for many multinational companies, and America’s biggest acknowledged security threat.
+
+China’s authoritarian leaders have proposed plans to expand their market share in emerging industries like semiconductors, artificial intelligence and quantum computing, while easing the country’s dependence on foreign energy and technology. And as Beijing’s economic influence and technological capacities grow, so will its military and geopolitical influence.
+
+“China is the only country with the economic, diplomatic, military, and technological power to seriously challenge the stable and open international system — all the rules, values, and relationships that make the world work the way we want it to,” Secretary of State Antony J. Blinken said this month in his first major address, in which he called the U.S. relationship with China “the biggest geopolitical test of the 21st century.”
+
+The Commerce Department is responsible for promoting the interests of American business and has always had a close relationship with industry. But as the China tech competition has intensified, the department has taken on a larger role in regulating company activity, as well. In 2018, Congress updated its laws governing export controls, giving the Bureau of Industry and Security more power to determine what kind of emerging technologies cannot be shared with China and other geopolitical rivals.
+
+But critics say the bureau has given companies and industry groups too much influence over its regulatory process and failed to adopt to the new realities of global competition.
+
+“The industry viewpoint has been the commerce viewpoint since the fall of the Soviet Union, and they’re not able to make the adjustment that the world has changed,” said Derek Scissors, a resident scholar at the American Enterprise Institute who advocates stronger export restrictions.
+
+“The industry capture is not, in my view, industry saying, ‘Hey, meet me at the Jefferson Memorial and I have a suitcase of money for you.’ It’s that these guys have been trained for 30 years to think that exports are good for America and that’s that,” Mr. Scissors said. “So surprise, they don’t want tighter export controls.”
+
+But distancing the bureau from industry may have repercussions, too. Critics say that without the guidance of industry on complex technological issues, regulations can easily backfire, harming the American economy while doing little to combat security threats from China. And any policy that hamstrings innovation could in turn hold back the American military, which acquires most of its technology from the private sector.
+
+John Neuffer, the chief executive of the Semiconductor Industry Association, said that China accounted for about one-third of his industry’s revenue, and that it would be “disastrous” for semiconductor companies to not have access to such a huge and growing market.
+
+“When you start cutting off capital profits that can flow into R&D, many of them coming from the huge Chinese market, you really undermine our ability to stay at the tip of the spear in terms of semiconductor innovation,” Mr. Neuffer said.
+
+“The sense of urgency in recent years inclined our leadership to make decisions without reference to what industry thought,” said Daniel H. Rosen, a founding partner of Rhodium Group. “We’re not going to serve the American interests if we don’t consider commercial interests and national security interests at the same time.”
+
+The Biden administration has already run into the political minefield surrounding the bureau. In her confirmation hearing in January, Gina Raimondo, the new secretary of commerce, attracted criticism from Republicans when she declined to commit to keeping Huawei on the bureau’s entity list. Ms. Raimondo later said that she would use the entity list “to its full effect,” and that Huawei and ZTE should be on the list.
+
+With Ms. Raimondo sworn in to her post this month, the Biden administration is considering candidates to lead the Bureau of Industry and Security. It has become a contentious process, a kind of proxy battle among trade advisers, industry groups and lawmakers of both parties for the future of the United States’ tech strategy.
+
+One early contender, Kevin Wolf, a partner in the international trade group at the law firm Akin Gump, has run into resistance from some China hawks in Washington over his industry ties. Mr. Wolf, who was previously assistant secretary at the bureau, issued the sanctions against ZTE. He has consistently argued that restrictions that are unclear and unpredictable can backfire, “harming the very interests they were designed to protect.”
+
+But critics have found fault with his work on behalf of industry since leaving the government, including counseling clients on what is permitted under Mr. Trump’s regulations, and trying to obtain licenses for his clients to supply products to Huawei and S.M.I.C.
+
+Mr. Wolf said that he had merely helped companies understand the new rules, as other export control lawyers do, and that it was the Trump administration that was responsible for creating a new process to grant companies licenses to supply products to listed entities.
+
+Some who believe the Bureau of Industry and Security requires a more fundamental transformation have instead pushed for James Mulvenon, an expert on the Chinese military at research firm Defense Group, who has publicly called for refocusing the bureau’s mandate to place national security interests before those “of Silicon Valley, Wall Street and other multinationals.”
+
+The administration may also be considering less prominent candidates for the bureau’s three Senate-confirmed posts, like Brian Nilsson, a former employee of the Bureau of Industry and Security and the State Department, or export control lawyers like Douglas Jacobson and Greta Lichtenbaum, people familiar with the deliberations say.
+
+Whoever leads the bureau, officials at the National Security Council are likely to play a guiding role, according to people familiar with the deliberations.
+--
+3/27
+Google Aims to Be the Anti-Amazon of E-Commerce. It Has a Long Way to Go.
+Google presents itself to independent sellers as cheaper and less restrictive. But it is not clear whether it can change people’s habits of going straight to Amazon.
+
+Google tried to copy Amazon’s playbook to become the shopping hub of the internet, with little success. Now it is trying something different: the anti-Amazon strategy.
+
+Google is trying to present itself as a cheaper and less restrictive option for independent sellers. And it is focused on driving traffic to sellers’ sites, not selling its own version of products, as Amazon does.
+
+In the last year, Google eliminated fees for merchants and allowed sellers to list their wares in its search results for free. It is also trying to make it easier for small, independent shops to upload their inventory of products to appear in search results and buy ads on Google by teaming up with Shopify, which powers online stores for 1.7 million merchants who sell directly to consumers.
+
+But like Google’s many attempts during its two-decade quest to compete with Amazon, this one shows little sign of working. Google has nothing as alluring as the $295 billion that passed through Amazon’s third-party marketplace in 2020. The amount of goods people buy on Google is “very small” by comparison — probably around $1 billion, said Juozas Kaziukenas, the founder of Marketplace Pulse, a research company.
+
+Amazon is a fixture in the lives of many Americans. It has usurped Google as the starting point for shoppers and has become equally essential for marketers. Amazon’s global advertising business grew 30 percent to $17.6 billion in 2020, trailing only Google and Facebook in the United States.
+
+But as the pandemic has forced many stores to go online, it has created a new opening for Google to woo sellers who feel uneasy about building their businesses on Amazon.
+
+Christina Stang, 33, opened Fritzy’s Roller Skate Shop near Pacific Beach in San Diego last March. Shelter-in-place orders forced her to set up an online storefront on Shopify.
+
+She got lucky. She was sitting on a huge supply of skates when demand surged as skating videos became popular on TikTok during the pandemic.
+
+She linked her Shopify account to Google’s retail software and started buying so-called smart shopping ads. Working within an allotted budget, Google’s algorithms pick where to place ads and what products to feature. In 2020, she spent $1,800 on the ads, which were viewed 3.6 million times and led to $247,000 in sales, she said.
+
+She considered selling her products on Amazon’s marketplace, but she worried what Amazon’s fees would mean for her already-thin profit margins. She also liked that Google redirected people to her carefully curated website rather than keeping them inside its own store, as Amazon does.
+
+“I could sell on Amazon and not make any real money but have a bigger online presence,” Ms. Stang said. “It didn’t seem like a great idea.”
+
+Recently, however, she has experienced one of the drawbacks of being stuck in the middle of the partnership between Google and Shopify. Her shop has been unable to list any products since January because Google suspended her account. It said her shipping costs appeared more expensive on Google than on her Shopify-powered website, even though they were no different.
+
+Shopify told her that it was a Google issue. Google’s customer service representatives recommended that she hire a web designer. She continues to manage without Google, but it has tainted her largely positive experience.
+
+“This has completely cut me off at the knees,” she said. “I’m a small business, and I don’t have hundreds or thousands of dollars to resolve this.”
+
+Sellers often complain about Amazon’s fees, which can account for a quarter of every sale, not including the cost of advertising, and the pressure to spend more to succeed. Merchants on Amazon do not have a direct relationship with their customers, limiting their ability to communicate with them and to generate future business. And because everything is contained within the Amazon world, it is harder to create a unique look and feel that express a brand’s identity the way companies can on their own websites.
+
+But since 2002, when it started a price comparison site called Froogle, a confusing play on the word “frugal” that required a rebranding five years later, Google has struggled to chart a cohesive vision for its shopping experience.
+
+It tried to challenge Amazon directly by piloting its own same-day delivery service, but it shuttered the project as costs ballooned. It tried to forge partnerships with traditional retail giants, only to see the alliances wilt from a lack of sales. It built its own marketplace to make it easier for shoppers to buy the things they find on Google, but was not able to break consumers from their Amazon habit.
+
+Last year, Google brought in Bill Ready, a former chief operating officer at PayPal, to fill a new senior position and spearhead an overhaul of its shopping strategy.
+
+Around the time of his hiring, Sundar Pichai, Google’s chief executive, warned senior executives that the new approach could mean a short-term crimp in advertising revenue, according to two people familiar with the conversations, who requested anonymity because they were not allowed to discuss them publicly. He asked teams to support the e-commerce push because it was a company priority.
+
+When the pandemic spurred huge demand for online shopping, Google eliminated fees, allowing retailers to list products for free and walking back a 2012 decision to allow only advertisers to display goods on its shopping site.
+
+Three months after hiring Mr. Ready, Google said the free listings would show up on its main search results. Then Google said customers could buy products directly from merchants on Google with no commissions. It also said Google would open its platform to third parties like Shopify and PayPal so that sellers could continue to use their existing tools to manage inventory and orders and to process payments.
+
+The partnership with Shopify was especially meaningful because hundreds of thousands of small businesses have flocked to the software platform during the pandemic. About 9 percent of U.S. online shopping sales took place on storefronts powered by Shopify as of October, according to research firm eMarketer. That was up from 6 percent the prior year and second only to Amazon’s share of 37 percent.
+
+Harley Finkelstein, Shopify’s president, said Google and Shopify were developing new ways for merchants to sell through Google services, such as experiments to allow customers to buy items directly on YouTube and to display what products stores are carrying in Google Maps.
+
+Mr. Ready walked a fine line when it came to Amazon, which is a big buyer of ads on Google, but he made it clear he believed Amazon’s dominance in e-commerce posed a threat to other merchants.
+
+“Nobody wants to live in a world where there is only one place to buy something, and retailers don’t want to be dependent on gatekeepers,” he said in an interview.
+
+Google said it had increased the number of sellers appearing in its results by 80 percent in 2020, with the most significant growth coming from small and midsize businesses. And existing retailers are listing more products.
+
+Overstock.com, a seller of discount furniture and home bedding, said it had paid to list products on Google in the past. But now that listings are free, Overstock is adding low-margin products, too.
+
+“When all shopping starts and stops at Amazon, that’s bad for the industry,” said Jonathan E. Johnson, Overstock’s chief executive. “It’s nice to have another 800-pound tech gorilla in this space.”
+
+What remains unclear is whether increasing the number of merchants and listings on Google will ultimately change online shopping habits.
+
+BACtrack, a maker of breathalyzers, has more than doubled its advertising spending on Amazon in the last two years because that is where the customers are, it said, while it has spent 6 percent less advertising its products on Google.
+
+“It seems like more and more people are skipping Google and going straight to Amazon,” said Keith Nothacker, the chief executive of BACtrack.
+--
+3/28
+Why bigtech should fear Amy Klobuchar
+Senator Amy Klobuchar is trying to hold big tech to account and in the process “make antitrust cool again.” She believes that, because of their size and power, companies like Facebook, Google and Twitter have become a dangerous threat to American democracy.
+
+Of course, the chief executives of those companies tend to disagree (after all, they are incentivized to). On Thursday, Mark Zuckerberg of Facebook, Sundar Pichai of Google’s parent company Alphabet and Jack Dorsey of Twitter appeared before the House Committee on Energy and Commerce to answer for the misinformation on their platforms. Only Mr. Dorsey was willing to take any responsibility for the Capitol attacks — and even he hedged.
+
+On this episode of “Sway,” Kara Swisher and Senator Klobuchar discuss the hearings. They also talk about whether these companies need to be broken up, if the immunity that platforms enjoy as a result of Section 230 of the Communications Decency Act of 1996 should be stripped away, and whether the terror of the Capitol attack will force Washington to get serious about regulating big tech.
+--
+3/29
+Not on Facebook? You’re Still Likely Being Fed Misinformation.
+Broadcast television and talk radio are just as problematic as social media.
+
+The plague of misinformation — false rumors about the legitimacy of the 2020 presidential election, the ineffectiveness of face masks and the safety of 5G, to name a few examples — is usually blamed on social media. But false and damaging information isn’t just available online. It’s also abundant in broadcast media, and as politicians debate whether or how to regulate technology companies, they should also consider creating systems to address the dangers implicit in allowing and enabling the spread of misinformation, wherever it’s published.
+
+The Constitution safeguards the freedom of speech from direct government interference, but lawmakers also recognize the need for thoughtful intervention. Politicians have been concerned about the power of online platforms for years. Last week, leaders of Google, Facebook and Twitter were again asked to answer questions from members of Congress about how their platforms handle false or harmful material. The House and the Senate are considering legislation that would revise Section 230 of the Communications Decency Act, which currently exempts technology companies from being held responsible for the material they publish. Facebook has been advocating the law’s reform. Technology companies are also facing congressional scrutiny for potential antitrust violations.
+
+But it is not at all clear that reducing the dominance of technology companies will go far enough. And oversight boards run by tech companies themselves, such as the one that Facebook created to hear issues of online safety and free speech, are not sufficient, as those efforts can never be truly independent if they are assembled by, and are financially tied to, the very companies they are tasked with overseeing. Furthermore, addressing only the technology industry won’t cure the problem, because misinformation that is spread in one medium is reinforced and amplified by falsehoods spread on another. A phrase that’s based on a lie and trends on Facebook and Twitter — “Stop the Steal,” for example — becomes fortified and legitimized when it’s picked up by television and radio reporters or commentators, whose words then reappear on social media, fueling a tornado of misinformation.
+
+Television and radio are often full of misleading information, both on news programs and in advertisements, and the broadcast gives the information a whiff of legitimacy. Underfunded governmental agencies have failed to do their jobs monitoring activities of the private sector. While in some cases increased funding for government enforcement would help, regulatory efforts might be appropriate in others. But there is another way government can reduce the spread of inaccurate information.
+
+Decades ago, long before there was a technology industry to regulate, the Federal Communications Commission instituted the Fairness Doctrine, a policy that required broadcasters to present diverse points of view on controversial topics. The law, which was designed to ensure that all sides of an issue were presented, was dismantled in 1987 under President Ronald Reagan.
+
+Congress should seriously consider revitalizing the Fairness Doctrine. This effort would be premised on the public’s right to be informed, rather than on the government controlling free speech. And it should be coupled with the appointment of public commissions or citizen juries that would provide independent oversight to confront misinformation in online and broadcast media. These independent bodies would include respected experts, could be appointed by the government and would be funded by industry.
+
+Public trust in the media industry has been declining for years. It can be restored by securing media companies’ commitment to practicing fact-checking and presenting contrasting perspectives on issues important to news consumers.
+
+Psychology, behavioral science and neuroscience have helped teach us why people are susceptible to misinformation and what influences how they view facts. Individuals gravitate toward news sources that reinforce their prior impressions, values and opinions. Exposing people to more balanced sources might help expand their perspectives, but science tells us that this can also serve to strengthen current beliefs. The purveyors of misinformation need to be confronted with — and must not able to escape responding to — opposing views and facts, in the manner common to some media interviews and the cross-examinations in legal proceedings.
+
+The Fairness Doctrine required media companies to present alternative points of view on sensitive issues. A reimagined and expanded version of this policy could enable independent bodies to review inaccurate material and require that technology platforms and broadcast media publish and respond to criticism.
+
+Government proposals to reform Section 230 or break technology companies into several smaller companies will not solve the misinformation problem. But increased fact-checking by independent bodies and mandates to present more reliable perspectives will help. Because of the reinforcing influence one medium has on another, reforms must include both the platform and the broadcast industries.
+
+There is clearly a need for more accountability from the private sector as well as the government in matters of abuse and the proliferation of misinformation. A new Fairness Doctrine, coupled with independent oversight of broadcast and technology platforms, would help.
+--
+3/30
+This article is part of the On Tech newsletter. You can sign up here to receive it weekdays.
+
+I’m fond of repeating a shopping statistic that often surprises people. In the United States — even during the pandemic — only about $14 out of each $100 worth of stuff we buy is spent online. Amazon is responsible for roughly $5 of that.
+
+So is Amazon a giant that dominates our internet spending or a blip in America’s shopping universe? It depends on how you look at the numbers. Amazon is huge in internet sales, but puny relative to all the goods Americans buy.
+
+Our perception of Amazon’s size influences how the public and policymakers think about the company. And yet while the company’s share of spending matters, it also doesn’t tell us everything.
+
+Permit me to get a little nerdy about numbers. Without a doubt, Amazon is the king of online shopping in the United States. The research firm eMarketer estimated that Amazon will be responsible for more than 40 percent of Americans’ e-commerce spending this year. The second-largest internet store, Walmart, is far behind at about 7 percent.
+
+Back to my point, though, that internet shopping remains relatively small. The picture is a little different depending on how you count.
+
+U.S. government data on online shopping plus those eMarketer estimates put Amazon at about 5 percent of all U.S. retail sales. The number glosses over huge variations. In some categories, like books and electronics, online shopping is well over half of all purchases, and Amazon is getting the biggest chunk. In major categories of consumer spending like groceries, cars and gasoline, Americans are still buying almost everything in person.
+
+(For more on Amazon’s market size, check out this report by the news outlet The Information, as well as past work by the technology analyst Ben Evans and me. And there’s a wrinkle: A trade group for retailers recently told me that there could be inaccuracies in the government counting of shopping that blurs the line between stores and online, such as picking up online orders in person.)
+
+Data can be a weapon. Amazon often uses a version of the 5 percent sales figure to counter critics who say the company is too big and powerful. But government investigations into big technology companies are looking at the behavior of Big Tech, not just their size. They’re trying to answer whether companies abuse their power to get advantages over competitors and hurt us.
+
+Amazon has had a profound influence on people’s behavior, the strategies of entire industries and our communities no matter what the numbers say.
+
+What we’re seeing in real life from Amazon and beyond are big ripple effects from a small market share. Likewise, Uber and Lyft represent a fraction of the miles driven in the United States but have significantly contributed to increased traffic. If only a tiny percentage of American office workers do their jobs from home when the pandemic ends, it could alter the function and finances of some cities.
+
+So, is Amazon big? Yes and also no. And the reality is that no matter what the numbers say, Amazon commands the attention of people, other companies and governments because it’s influential in reshaping the world.
+
+What is TV for the smartphone age?
+I love TV. Always have. But I have been surprised that 14 years after the iPhone was introduced, the new forms of TV are still created mostly with computers and TV sets in mind.
+
+T-Mobile said this week that it was ditching a short-lived attempt at making its own live television option for people to watch on their phones. It was a weird strategy. T-Mobile’s former TV service and YouTube TV were trying to recreate cable television but over the internet. And yet Americans are quitting cable in droves. Why try to replicate it?
+
+But there is a good question buried in T-Mobile’s fumbles: Why isn’t more video entertainment being built around smartphones?
+
+Phones are where Americans are spending more of our time, and where people in many large countries including China and India already devote nearly all of their screen time.
+
+Sure, people watch America’s most popular video-entertainment services including YouTube and Netflix on phones. But we still don’t have a wildly successful U.S. video-entertainment service built for smartphones first.
+
+Quibi, a much-discussed but ultimately failed attempt at short, TV-like video series, was built for watching on our phones. But otherwise … is that it?
+
+You might say that TikTok, Instagram and Snapchat are video-entertainment services that were built for the smartphone. And maybe that’s the future of TV? It’s not what I thought of as television that I watched on my old bunny-ear set, but those apps are what entertain us as we wait in line at the grocery store or flop on our sofas at night.
+
+Maybe the future of TV is here already. It just doesn’t look anything like old TV.
+--
+3/31
+Cristin Milioti has claimed a curiously specific character niche: woman escaping from twisted sci-fi trap. In the “Black Mirror” episode “USS Callister,” she was programmed into a simulation by her creepy boss. In last year’s “Palm Springs,” she and Andy Samberg puzzled out how to break free of a time loop that stuck them in a vicious “Groundhog Day” rom-com cycle.
+
+In “Made for Love,” a light-handed and dark-minded comedy of technology, control and gaslighting whose first three episodes arrive Thursday on HBO Max, the snare is all in her head.
+
+As in physically. As in implanted. As in a microchip.
+
+Hazel Green (Milioti) received this unwanted hardware upgrade from her husband, Byron Gogol (Billy Magnussen), who runs a world-dominating tech company. (Feel free to play around with the first vowel sound in “Gogol.”) For 10 years, they’ve lived in a gilded cage — or rather a gilded cube, a virtual-reality environment called the Hub, secluded from the messy outside world, with eternally perfect weather and a dolphin sporting in the swimming pool.
+
+And for 10 years, Byron has grown more devoted. Too devoted. “Have your wife review her biometrically recorded orgasms to better optimize them” devoted. Finally, he decides that he loves her — and his technology — so deeply that he and she will become “Users One” of his new product, Made for Love, which makes couples into two-person neural networks, their brains digitally connected. No more secrets, no more miscommunication, no more private thoughts.
+
+Who the hell would want that? you might ask, a question “Made for Love” raises but doesn’t entirely answer. For the purposes of the story, what’s important is that Byron wants it and Hazel emphatically does not. This impels her to fly the cube, a madcap and violent escape with Byron watching from behind her eyeballs. (Turns out he implanted only her chip, not his: “I had to read your diary first to know if I could let you read mine.”)
+
+Based on the novel of the same name by Alissa Nutting, a writer and producer on the series, “Made for Love” plays out as a screwball action satire, which likely makes its chilling premise — patriarchy and techno-utopianism as two sides of the same chip — go down easier than it would as a straight drama. (Christina Lee of the mordant “Search Party” is the showrunner; other producers include Patrick Somerville of Netflix’s “Maniac,” with which this shares a skeevy-dystopian vibe.)
+
+The metaphors are never far under the surface here, like Byron and Hazel’s double-finger wedding bands, reminiscent of tiny handcuffs. And when Hazel seeks help from her widowed father, Herb (Ray Romano), she finds him having taken up a committed partnership with a sex doll — sorry, “synthetic partner” — named Diane. Their one-way relationship is an echo of what Byron is trying to make Hazel into, a wife machine, but it’s also oddly tender and respectful.
+
+“Made for Love” is hardly subtle, and its cautionary tech tale has been told repeatedly in “Black Mirror” and elsewhere. But it’s playful and funny and almost momentum-driven enough to get away with hand-waving away its many implausibilities. Among those is the question of why Hazel, presented as a wily, resourceful skeptic, would have been swept off her feet by Byron, who from their first meeting throws up enough red flags for a giant slalom course.
+
+The casting helps put this over. Milioti, with her charm and anime eyes, is an almost too-perfect rom-com-lead type. (She broke out on TV as the title figure in “How I Met Your Mother.”) But she smartly plays against that type in stories that subvert expectations. Her Hazel is cunning, feral and sardonic on the lam; in flashbacks to her married life in the Hub, you can almost hear her scream behind her 10,000-watt smile.
+
+Editors’ Picks
+
+From Best Friends to Platonic Spouses
+
+This ‘Angry’ Bird Is the Most Photogenic, Research Finds
+Continue reading the main story
+Romano, meanwhile, may be one of the few actors you could introduce in bed with a humanoid sex toy, whom he dresses in his dead wife’s clothing, yet have your viewer think, “You know, this seems like a complicated guy who’s been through a few rough patches.”
+
+And Magnussen, given the broadest of the central roles, pushes Byron’s zealotry past tilt. Inept at most human relationships, Byron has funneled all his emotional capacity into Hazel, out of both passion and the gamifying impulse to get the all-time high score on his marriage. He’s the epitome of both the obsessive Wife Guy and the hubristic Tech Guy, and he makes plain the connection between the two types.
+
+He’s also pitiable, insofar as a billionaire with godlike powers can be. “I am the only person who actually loves you!” he pleads to Hazel. “Objectively!”
+
+But it’s Milioti who gives the season’s first half (I’ve seen four episodes of eight) its adrenaline. “Made for Love” is a loopy jolt to the cortex that demands a high tolerance for absurdity. What grounds it is Hazel’s journey from kept woman to action hero, determined not to be a character in somebody else’s love story.
+--
+4/1
+Kimberly Vasquez, a high school senior in Baltimore, faced a tough problem when the pandemic began. She had no fast internet service in her home, but all her classes were online.
+
+Marigold Lewi, a sophomore at the same school, was regularly booted off Zoom classes because of her slow home connection.
+
+Ms. Lewi spent a lot of time explaining Zoom absences to teachers. Ms. Vasquez sat outside local libraries to use their internet access and at times used her phone. The two of them helped push a successful public campaign for better and free service to low-income families in the city.
+
+“It was very chaotic,” Ms. Vasquez said. “We had to do this because no one else was going to change things.”
+
+A year after the pandemic turned the nation’s digital divide into an education emergency, President Biden, inheriting the problem, is making affordable broadband a top priority, comparing it to the effort to spread electricity across the country. His $2 trillion infrastructure plan, announced on Wednesday, includes $100 billion to extend fast internet access to every home.
+
+The money is meant to improve the economy by enabling all Americans to work, get medical care and take classes from wherever they live. Although the government has spent billions on the digital divide in the past, the efforts have failed to close it partly because people in different areas have different problems. Affordability is the main culprit in urban and suburban areas. In many rural areas, internet service isn’t available at all because of the high costs of installation.
+
+“We’ll make sure every single American has access to high-quality, affordable, high speed internet,” Mr. Biden said in a speech on Wednesday. “And when I say affordable, I mean it. Americans pay too much for internet. We will drive down the price for families who have service now. We will make it easier for families who don’t have affordable service to be able to get it now.”
+
+Longtime advocates of universal broadband say the plan, which requires congressional approval, may finally come close to fixing the digital divide, a stubborn problem first identified and named by regulators during the Clinton administration. The plight of unconnected students during the pandemic added urgency.
+
+“This is a vision document that says every American needs access and should have access to affordable broadband,” said Blair Levin, who directed the 2010 National Broadband Plan at the Federal Communications Commission. “And I haven’t heard that before from a White House to date.”
+
+Some advocates for expanded broadband access cautioned that Mr. Biden’s plan might not entirely solve the divide between the digital haves and have-nots.
+
+The plan promises to give priority to municipal and nonprofit broadband providers but would still rely on private companies to install cables and erect cell towers to far reaches of the country. One concern is that the companies won’t consider the effort worth their time, even with all the money earmarked for those projects. During the electrification boom of the 1920s, private providers were reluctant to install poles and string lines hundreds of miles into sparsely populated areas.
+
+There are also many questions about how the administration plans to address affordability. It is one thing to extend service to homes; it is another to make it inexpensive enough for people once it gets there. The White House was scant on details on Wednesday, though it stressed that subsidies alone were not a long-term solution.
+
+In addition, the money would arrive more than a year after the pandemic closed schools and as many were starting to reopen their doors. As a result, many students without good internet connections have already fallen a full year behind.
+
+About 25 percent of students don’t have adequate broadband at home, with Native American, Black and Latino children hardest hit, said Becky Pringle, the president the National Education Association, the teachers’ union.
+
+Mr. Biden’s plan would be tested in places like Chinle, a school district in the Navajo Nation in northeast Arizona. As with electrification, the most remote homes — particularly on Native land — got service last. Today, many homes in that isolated corner of the state have no access to broadband or speeds that are so slow even one device on a Zoom conference takes up most of the bandwidth. Cellular phone service is nonexistent or spotty in many parts.
+
+School is slowly beginning to return to the classroom. But until last week, 31 buses were sent out daily with packets of printouts for homework and flash drives with videos of lessons for math, science, history and English. The graduation rate is expected to be near 60 percent this year, down from 77 percent last year, said Quincy Natay, the superintendent of the Chinle Unified School District.
+
+“It has been a tough and challenging year,” Mr. Natay said. “A lot of learning loss has occurred for this group.”
+
+Congress has approved more than $10 billion in the past few months to help make broadband more affordable and to put more laptops and other devices in students’ hands. Of those funds, the F.C.C. is working to figure out how to distribute $7.2 billion for broadband service, devices, and potentially routers and other equipment for households with school-age children.
+
+In February, the F.C.C. announced $50 to $75 broadband subsidies for low-income families from $3.2 billion granted by Congress in December for emergency digital divide funding. Both programs involve one-time emergency funding to address broadband access problems exacerbated by the pandemic.
+
+The administration’s $100 billion plan aims to connect even the most isolated residents: the 35 percent of rural homes without access. In those areas, the White House said, it would focus on “future-proof” technology, which analysts take to mean fiber and other high-bandwidth technology. The administration highlighted its support for networks run and owned by municipalities, nonprofits and rural electrical cooperatives. Several states have banned municipal broadband networks, and the F.C.C. failed in its attempts to overturn those bans in court during the Obama administration.
+
+The Biden infrastructure plan faces a tough path in Congress. Republicans have pushed back on the cost. They even argue about definitions of broadband. Republicans balk at some proposals to require faster broadband standards — such as 25 megabits for downloads and as much as 25 megabits for uploads, which they say is a bar too high for providers in rural areas. Those speeds would allow multiple family members to be on videoconferencing, for example.
+
+“I believe that this would make it harder to serve those communities that don’t have broadband today,” Michael O’Rielly, a former F.C.C. commissioner, told the House commerce committee last month.
+
+Educators lobbied Congress throughout the pandemic to extend broadband in the country. When little relief was in sight, some took matters into their own hands.
+
+Last April and through the summer, administrators at the Brockton School District in Massachusetts bought more than 4,000 hot spots with their own funding and a federal loan. They were able to reduce the percentage of students without high-speed internet or a device to about 5 to 10 percent, from about 30 percent.
+
+Superintendent Mike Thomas said the district was starting to go back to classrooms and would most likely be fully in person by the fall. But he plans to retain many aspects of distance learning, he said, particularly after-school tutoring.
+
+In Baltimore, where an estimated 40 percent of households lack high-speed internet, students and community activists fought to raise awareness of their circumstances. Ms. Vasquez and Ms. Lewi held protests against Comcast, the dominant provider, for better speeds and lower costs for its much-publicized low-income program. Their group, Students Organizing a Multicultural and Open Society, also lobbied the Maryland legislature and the city to put a priority on affordable broadband for low-income households.
+
+“We didn’t have options, and we deserved better,” Ms. Vasquez said.
+
+Adam Bouhmad and some community activists began to install antenna “mesh” networks tapping into the hot spots of closed Baltimore schools to connect surrounding homes. Through a jury-rigged system of antennas and routers, Mr. Bouhmad’s group, Waves, got cheap or free internet service to 120 low-income families.
+
+Mr. Biden’s promise to support alternative broadband providers could include projects like the one led by Mr. Bouhmad, who said the past year had shown how scant broadband options had left residents in Baltimore in the lurch.
+
+“Investment upfront to build out infrastructure and support internet providers is fantastic,” Mr. Bouhmad said. He added that residents in places like Baltimore would continue to need federal subsidies and that the administration should focus on the costs of broadband as a major hurdle.
+
+“Availability doesn’t equal accessibility in terms of price and user experience,” he said.
+--
+4/2
+Pinterest has held talks to buy VSCO, a photography app that spawned a teenage social media craze, according to two people with knowledge of the matter.
+
+The discussions are ongoing, said the people, who declined to be identified because they were not authorized to speak publicly. A deal price couldn’t be learned; Pinterest has a market capitalization of about $49 billion, while VSCO has raised $90 million in funding and was last valued at $550 million. An acquisition may not materialize, the people cautioned.
+
+Representatives from Pinterest and VSCO (pronounced “vis-coe”) declined to comment on deal talks.
+
+Julie Inouye, a spokeswoman for VSCO, said the company was focused on expanding its business. “We’re always meeting with different companies across the creative space at any given time and do not discuss rumors or speculation,” she said.
+
+Pinterest and VSCO, which stands for Visual Supply Company, are part of a group of tech companies that are highly focused on digital images and visual editing and that rely less on social networking features. Pinterest, a digital pin board site that went public in 2019, lets its users discover and save images to inspire creative projects or to plan important aspects of their lives, including home renovations, weddings and meals.
+
+VSCO, a 10-year-old start-up, makes an app for editing and sharing images and videos. In 2019, it became popular with a Generation Z group that came to be known as “VSCO girls,” who were known for wearing Crocs and carrying Hydro Flasks. The idea of VSCO girls went viral, inspiring social media imitation, mockery, memes and Halloween costumes.
+
+For Pinterest, buying a once-buzzy start-up that was popular with younger audiences and that has expertise in photo- and video-editing technologies could bolster its core service, the people said.
+
+Since Pinterest went public, its revenue has grown, though analysts have said they don’t expect Pinterest to become regularly profitable until 2022. It has also expanded internationally.
+
+During the pandemic, the company experienced a surge of interest as people were locked down and turned to more digital activities. Pinterest added 100 million monthly active users last year and now has a total of 450 million monthly active users.
+
+The San Francisco company also faced social unrest last year. In December, it agreed to pay $22.5 million to settle a gender discrimination and retaliation lawsuit from its former chief operating officer, one of the largest publicly announced individual settlements for gender discrimination. Two female employees of color who quit last year also publicly discussed their experiences with racist and sexist comments, pay inequities and retaliation at the company.
+
+Founded in 2011, VSCO became known among younger users as a kind of anti-social network. The app does not have likes, comments or follower counts, so it appeared to put less pressure on users to build up a fan base. VSCO also eschews advertising, instead earning money by charging people for extra features. Of its 100 million registered users, more than two million are paying subscribers.
+
+When VSCO girls became a cultural phenomenon in late 2019, investor interest in the start-up swelled. But the fad has since cooled off. When the pandemic hit, VSCO laid off 30 percent of its employees. In December, it acquired Trash, a mobile app for video editing, and said it planned to continue acquiring companies in 2021.
+--
+4/3
+Google Won. So Did Tech.
+In siding with Google, the Supreme Court gave software experts some love.
+
+On Monday, the Supreme Court said it was kosher to copy someone else’s computer code in some cases. That handed Google a win in a decade-long court battle with Oracle over the guts of the Android smartphone system.
+
+I’ll explain why the technology industry was relieved by the decision, and the ways it might be relevant for artists, writers and archivists. I also want us to ponder this: Why are thorny legal questions seemingly inescapable in technology right now?
+
+What was the legal case?
+
+Oracle controls software programming technologies called Java that are a building block for many apps and digital services. Google used a relatively small chunk of Java computer code in its Android operating system, and that made it easier for software experts to make smartphone apps.
+
+In the Google v. Oracle America case, Google said it was standard practice to copy what are called application programming interfaces, or APIs, a set of instructions to make sure that technologies from different companies can work together. Oracle said that Google stole its software and demanded billions of dollars. Each company said it was trying to save the tech industry from ruin.
+
+This is complicated stuff that had lawyers on both sides and the justices grasping for analogies — safecracking, football playbooks and restaurant menus — to explain APIs. In his majority opinion on behalf of six justices, Justice Stephen G. Breyer compared APIs to the gas pedal, which tells a car to move faster, and a keyboard that types a letter when you press a specific key.
+
+A big question went unanswered, but it might not matter.
+
+Google won. Although as my colleague Adam Liptak wrote, the Supreme Court had previously said it would answer two questions: Whether companies like Oracle could copyright APIs, and if so, whether Google’s use of them fit an exception to the copyright law known as fair use. A majority of the justices answered only the second question, with a yes.
+
+Two justices, Clarence Thomas and Samuel A. Alito Jr., said it was a mistake to sidestep the question of whether APIs are protected by copyright laws. Justice Thomas wrote that he would have said yes.
+
+Even though the justices left an open question, intellectual property lawyers told me that the decision should give comfort to companies that use APIs. The Supreme Court essentially blessed what Google did because it took APIs and transformed the software into something new that can benefit all of us.
+
+Many technologists had sided with Google — even those who aren’t usually fans of the company. They worried that if companies could prevent rivals from using APIs or charge exorbitant prices to use them, it could discourage companies from inventing new products. For them, the Supreme Court decision brought relief.
+
+“That’s going to be a big comfort for a lot of the companies that are trying to start up and be compatible with their competitors,” said Charles Duan, a senior fellow at the R Street Institute, a think tank that advocates free markets and limited government.
+
+Oracle said that Google “stole Java and spent a decade litigating as only a monopolist can.” (These companies do not like each other at all.)
+
+What are the potential repercussions?
+
+Duan and other experts I spoke with said they were very excited that the justices backed a broad view of the legal right to fair use. That’s the concept that if you excerpt words or images belonging to others and add enough of your own creativity, you don’t need to get their permission or pay them.
+
+But determining whether something falls under the fair use exception can be complicated, and even feel subjective. This month, a court ruled that an image of Prince made by Andy Warhol was not fair use of a photograph.
+
+Justice Breyer wrote that when considering whether fair use applies, courts shouldn’t look at only technical questions about the two parties involved in the case but think big about whether the copying brings a benefit to society.
+
+Kendra Albert, a clinical instructor at the Harvard Law School Cyberlaw Clinic, told me that the decision could lead to more legal protections for artists, people who create fan fiction and a group that Albert represents that archives old software such as past editions of Microsoft Excel.
+
+Technology is basically all legal fights.
+
+I want to leave you with a point that I discussed with Mark Lemley, a copyright and antitrust professor at Stanford Law School.
+
+The technology industry is racked with legal questions now: How should the First Amendment apply to social media companies? Do antitrust laws need to be rewritten for Big Tech? Does a 25-year-old internet law preserve people’s free expression or crush it? Tech now revolves around laws, not just computer code.
+--
+4/4
+Amazon was built on an underdog philosophy, but its workers are finding a voice. That presents a problem for the company that goes far beyond the union vote in Alabama.
+
+It has been Day 1 at Amazon ever since the company began more than a quarter-century ago. Day 1 is Amazon shorthand for staying hungry, making bold decisions and never forgetting about the customer. This start-up mentality — underdogs against the world — has been extremely good for Amazon’s shoppers and shareholders.
+
+Day 1 holds less appeal for some of Amazon’s employees, especially those doing the physical work in the warehouses. A growing number feel the company is pushing them past their limits and risking their health. They would like Amazon to usher in a more benign Day 2.
+
+The clash between the desire for Day 1 and Day 2 has been unfolding in Alabama, where Amazon warehouse workers in the community of Bessemer have voted on whether to form a union. Government labor regulators are getting ready to sort through the votes in the closely watched election. A result may come as soon as this week. If the union gains a foothold, it will be the first in the company’s history.
+
+Attention has been focused on Bessemer, but the struggle between Day 1 and Day 2 is increasingly playing out everywhere in Amazon’s world. At its heart, the conflict is about control. To maintain Day 1, the company needs to lower labor costs and increase productivity, which requires measuring and tweaking every moment of a worker’s existence.
+
+That kind of control is at the heart of the Amazon enterprise. The idea of surrendering it is the company’s greatest horror. Jeff Bezos, Amazon’s founder, wrote in his 2016 shareholder letter: “Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.”
+
+For many years, Amazon has managed to maintain control and keep Day 1 going by dazzling with delivery and counted on the media, regulators and politicians to ignore everything unpleasant. The few stories about workers rarely got traction.
+
+But it is now the second-largest private employer in the country. There is widespread pro-worker sentiment in the United States and a pro-union president. In Bessemer, many of the pro-union workers are Black, which makes this a civil rights story as well.
+
+So the costs associated with Day 1 are finally coming into view. And it is showing up not only in Alabama, but in the form of lawsuits, restive workers at other warehouses, Congressional oversight, scrutiny from labor regulators and, most noisily, on Twitter.
+
+In recent weeks, a heated discussion about whether Amazon’s workers must urinate in bottles because they have no time to go to the bathroom — a level of control that few modern corporations would dare exercise — has raged on Twitter.
+
+“Amazon is reorganizing the very nature of retail work — something that traditionally is physically undemanding and has a large amount of downtime — into something more akin to a factory, which never lets up,” said Spencer Cox, a former Amazon worker who is writing his Ph.D. thesis at the University of Minnesota about how the company is transforming labor. “For Amazon, this isn’t about money. This is about control of workers’ bodies and every possible moment of their time.”
+
+Amazon did not have a comment for this article.
+
+Signs that Amazon is facing more pushback against its control have started to pile up. In February, Lovenia Scott, a former warehouse worker for the company in Vacaville, Calif., accused Amazon in a lawsuit of having such an “immense volume of work to be completed” that she and her colleagues did not get any breaks. Ms. Scott is seeking class-action status.
+
+Last month, the California Labor Commissioner said 718 delivery drivers who worked for Green Messengers, a Southern California contractor for Amazon, were owed $5 million in wages that never made it to their wallets. The drivers were paid for 10-hour days, the labor commissioner said, but the volume of packages was so great that they often had to work 11 or more hours and through breaks.
+
+Amazon said it no longer worked with Green Messengers and would appeal the decision. Green Messengers could not be reached for comment.
+
+An Amazon warehouse in the Canadian province of Ontario showed rapid spread of Covid-19 in March. “Our investigation determined a closure was required to break the chain of transmission,” said Dr. Lawrence Loh, the regional medical officer. “We provided our recommendation to Amazon.” The company, he said, “did not answer.” The health officials ordered the workers to self-isolate, effectively shutting the facility for two weeks.
+
+And five U.S. senators wrote a letter to the company last month demanding more information about why it was equipping its delivery vans with surveillance cameras that constantly monitor the driver. The technology, the senators wrote, “raises important privacy and worker oversight questions Amazon must answer.”
+
+Amazon has presented a different opinion of what Day 1 means for workers. The first thing it mentions in its official statement on Bessemer is the starting pay of $15.30 per hour, double the federal minimum wage.
+
+Mr. Cox, who worked in an Amazon warehouse in Washington State, said the higher pay had paradoxically fueled the discontent. The pay “is better than working at a gas station, so people naturally want to keep these jobs,” he said. “That’s why they want them to be fair. I saw a lot of depression and anxiety when I worked for Amazon.”
+
+(Mr. Cox said he was fired by Amazon in 2018 for organizing. Amazon told him that he had violated safety protocol.)
+
+The confrontation between Day 1 and Day 2 has been sharpest over bladders.
+
+The topic erupted last month when Representative Mark Pocan, Democrat of Wisconsin, tweeted at the company, “Paying workers $15/hr doesn’t make you a ‘progressive workplace’ when you union-bust & make workers urinate in water bottles.”
+
+Amazon’s social media account fired back: “You don’t really believe the peeing in bottles thing, do you? If that were true, nobody would work for us.”
+
+
+This isn’t the way corporations usually talk to members of Congress, even on Twitter. On Friday, after days of being pummeled on the issue, Amazon apologized to Representative Pocan, saying: “The tweet was incorrect. It did not contemplate our large driver population and instead wrongly focused only on our fulfillment centers.” Amazon blamed Covid and “traffic,” not its punishing schedules.
+
+Representative Pocan responded on Saturday with a sigh. “This is not about me, this is about your workers — who you don’t treat with enough respect or dignity,” he wrote.
+
+The bathroom question is one on which the company has long been vulnerable. Enforcement files from regulators in Amazon’s home state of Washington indicate that questions about whether the company had an appropriate number of bathrooms in its Seattle headquarters have arisen over the past dozen years.
+
+The company has “insufficient lavatory facilities for male employees,” according to a 2012 complaint received by the state’s Department of Labor and Industries. “Employees routinely traverse multiple buildings in search of available facilities.”
+
+A 2014 complaint filed by an Amazon employee to the same department said employees got 12 minutes a day for “bathroom, getting water, personal calls, etc.” outside of normally scheduled breaks. Those who needed further toilet time had to provide a doctor’s note “explaining why the need to void more than usual.”
+
+The complaints went beyond Amazon’s white-collar offices. A warehouse worker told Labor and Industries in 2009 that a manager and a human resources representative had told her that “there would be disciplinary action against me if I continue to use the bathroom on company time” — she meant unscheduled breaks. The employee added that the H.R. representative told her that “it was not fair to the company that I was getting paid when I’m not working because I’m in the bathroom.”
+
+Amazon did not respond to questions about the enforcement reports. A spokesman for the Department of Labor and Industries declined to comment, except to note that outside of Amazon, “we really don’t get a lot of bathroom-related complaints.”
+
+Other technology companies have prided themselves on overriding mere bodily needs. Marissa Mayer, an early Google employee, attributed the search company’s success to working 130 hours a week — entirely possible, she said in a 2016 interview with Bloomberg Businessweek, “if you’re strategic about when you sleep, when you shower and how often you go to the bathroom.”
+
+When Google was a start-up, the notion was that you gave up everything — family, sleep, diversion — so you might become successful and rich. But former workers at Amazon warehouses said that under the Day 1 philosophy, they suffered merely to stay employed.
+
+“I believe many employees have indirectly lost their job for going to the bathroom. You’re like, can I hold it to break time?” said John Burgett, who blogged for several years about working in an Amazon warehouse in Indiana.
+
+His conclusion on his last entry, in 2016: Amazon was “testing the limits of human beings as a technical tool.”
+--
+4/5
+The 6-to-2 ruling ended a decade-long battle over whether Google had improperly used Java code in its Android operating system.
+
+The Supreme Court on Monday sided with Google in a long-running copyright dispute with Oracle over software used to run most of the world’s smartphones. The 6-to-2 ruling, which resolved what Google had called “the copyright case of the decade,” spared the company from having to face claims from Oracle for billions of dollars in damages.
+
+The case, Google v. Oracle America, No. 18-956, concerned Google’s reliance on aspects of Java, a programming language, in its Android operating system. Oracle, which acquired Java in 2010 when it bought Sun Microsystems, said that using parts of Java without permission amounted to copyright infringement.
+
+Google responded that free access to the software interfaces in question were crucial to the innovation economy.
+
+Justice Stephen G. Breyer, writing for the majority, said that Google was protected by the “fair use” exception to copyright protections.
+
+In 2016, a San Francisco jury found that Google had not violated copyright laws because it had made fair use of the code. But in 2018, a specialized appeals court in Washington, the United States Court of Appeals for the Federal Circuit, disagreed with that assessment.
+
+“There is nothing fair about taking a copyrighted work verbatim and using it for the same purpose and function as the original in a competing platform,” Judge Kathleen M. O’Malley wrote for a unanimous three-judge panel.
+
+The appeals court sent the case back for a trial to determine how much Google must pay in damages, and Google asked the Supreme Court to step in.
+
+When the Supreme Court agreed to hear the case, it said it would answer two questions: whether the 11,000 lines of software code at issue were copyrightable and, if they were, whether Google’s use of them was subject to the fair-use exception.
+
+Justice Breyer answered only the second question.
+
+“Given the rapidly changing technological, economic and business-related circumstances, we believe we should not answer more than is necessary to resolve the parties’ dispute,” he wrote. “We shall assume, but purely for argument’s sake, that” the code “falls within the definition of that which can be copyrighted.”
+
+Chief Justice John G. Roberts Jr. and Justices Sonia Sotomayor, Elena Kagan, Neil M. Gorsuch and Brett M. Kavanaugh joined the majority opinion. Justice Amy Coney Barrett did not participate in the case, which was argued before she joined the court.
+
+In dissent, Justice Clarence Thomas, joined by Justice Samuel A. Alito Jr., said leapfrogging the first question was a grave analytical misstep. “The court wrongly sidesteps the principal question that we were asked to answer,” he wrote, adding that he would have ruled that the code was protected by copyright laws.
+
+The majority’s approach was inexplicable, Justice Thomas wrote, and its rationale — that technology is rapidly changing — was odd, as change “has been a constant where computers are concerned.”
+
+Justice Breyer used what he called a “far-fetched” analogy to describe what the contested code did. “Imagine that you can, via certain keystrokes, instruct a robot to move to a particular file cabinet, to open a certain drawer, and to pick out a specific recipe,” he wrote. “With the proper recipe in hand, the robot then moves to your kitchen and gives it to a cook to prepare the dish.”
+
+Justice Breyer wrote that the four fair-use factors set out in the Copyright Act all supported Google. The nature of the code, he wrote, “is inextricably bound together with a general system, the division of computing tasks, that no one claims is a proper subject of copyright.”
+
+Google’s use of the code, he added, created something new. “It seeks to expand the use and usefulness of Android-based smartphones,” Justice Breyer wrote. “Its new product offers programmers a highly creative and innovative tool for a smartphone environment.”
+
+Nor did Google copy too much of Oracle’s code. The 11,000 lines of code at issue, he wrote, amounted to 0.4 percent of the relevant universe of code.
+
+Finally, he considered the effect on the market. “The uncertain nature of Sun’s ability to compete in Android’s marketplace, the sources of its lost revenue and the risk of creativity-related harms to the public, when taken together, convince that this fourth factor — market effects — also weighs in favor of fair use,” Justice Breyer wrote.
+
+In dissent, Justice Thomas said that last factor pointed in the opposite direction.
+
+“By copying Oracle’s work, Google decimated Oracle’s market and created a mobile operating system now in over 2.5 billion actively used devices, earning tens of billions of dollars every year,” he wrote. “If these effects on Oracle’s potential market favor Google, something is very wrong with our fair-use analysis.”
+
+Justice Thomas wrote that Google had justified theft in the name of convenience.
+
+“A Broadway musical script needs actors and singers to invest time learning and rehearsing it,” he wrote. “But a theater cannot copy a script — the rights to which are held by a smaller theater — simply because it wants to entice actors to switch theaters and because copying the script is more efficient than requiring the actors to learn a new one.”
+--
+4/6
+Electric Aircraft Start-Up Accuses Rival of Stealing Its Secrets
+A lawsuit by Wisk, partly owned by the Google co-founder Larry Page, says two engineers took sensitive files before joining Archer.
+
+The age of electric planes may still be years away, but the fight for that market is already heating up.
+
+Wisk Aero, a start-up developing an electric aircraft that takes off like a helicopter and flies like a plane, on Tuesday sued another start-up, Archer Aviation, accusing it of stealing trade secrets and infringing on Wisk’s patents.
+
+The lawsuit brings into public view a dispute between two little-known companies in a business that has become a playground for billionaires. It also entangles giants of aviation and technology. Wisk is a joint venture of Boeing and Kitty Hawk, which is financed by Larry Page, who co-founded Google. Archer’s investors include United Airlines, which is a major Boeing customer and plans to buy up to 200 aircraft from the start-up.
+
+The niche market for electric vehicles and planes has become frenzied in recent months as so-called blank check companies, which have little more than a stock market listing and a pot of cash, have snapped up fledgling businesses with little or no revenue, let alone profits. Investors in the blank-check firms — formally known as special purpose acquisition companies, or SPACs — are hoping to acquire businesses that they believe could follow Tesla’s recent trajectory on the stock market. To entice those investors, start-ups like Archer promise top-notch technology and optimistic business plans.
+
+In its lawsuit, Wisk contends the intellectual property that Archer promoted as part of its merger was stolen by engineers the company hired from Wisk.
+
+Filed in U.S. District Court for the Northern District of California, the lawsuit accuses two engineers of downloading thousands of files containing confidential designs and data before leaving Wisk to join Archer. Wisk accused a third engineer of wiping history of his activities from his computer before leaving for Archer.
+
+“Wisk brings this lawsuit to stop a brazen theft of its intellectual property and confidential information and protect the substantial investment of resources and years of hard work and effort of its employees and their vision of the future in urban air transportation,” the lawsuit says.
+
+Archer denied wrongdoing.
+
+“It’s regrettable that Wisk would engage in litigation in an attempt to deflect from the business issues that have caused several of its employees to depart,” Archer said in a statement. “The plaintiff raised these matters over a year ago, and after looking into them thoroughly, we have no reason to believe any proprietary Wisk technology ever made its way to Archer. We intend to defend ourselves vigorously.”
+
+Archer also said it had placed an employee accused in the suit on paid leave “in connection with a government investigation and a search warrant issued to the employee, which we believe are focused on conduct prior to the employee joining the company.”
+
+Archer said it and three employees who had worked with the individual had been subpoenaed in that investigation and were cooperating with the authorities. Wisk described the case as a criminal investigation and said it was cooperating with the government.
+
+Intellectual property lawsuits are not uncommon in quickly developing and promising industries — as Mr. Page knows well. In one recent case, Waymo, a company owned by Google’s parent, Alphabet, accused one of its former employees and Uber of stealing trade secrets to gain an advantage in the race to develop autonomous cars. The companies settled the case in 2018, and the former Waymo employee, Anthony Levandowski, a onetime confidant of Mr. Page’s, was sentenced in 2020 to 18 months in prison. Former President Donald J. Trump pardoned Mr. Levandowski in January.
+
+Archer announced its merger in February with a SPAC, Atlas Crest Investment, in a deal that valued the company at $3.8 billion. Wisk said its suspicions were confirmed at that time when Archer released a presentation that contained designs similar to those in a Wisk patent filing.
+
+Wisk says its Cora aircraft can fly a pair of passengers about 25 miles at a speed of about 100 miles per hour. Archer says it is developing an aircraft that can carry up to four people on a 60-mile trip, topping out at 150 m.p.h. Both aircraft are being designed to fly autonomously.
+
+It is unclear whether Wisk’s concerns came up in Atlas’s evaluation of Archer before the two struck a deal. The SPAC is backed by an affiliate of the investment bank Moelis & Company, which leaned on its bankers, and others to help vet Archer, the bank’s founder, Ken Moelis, told The New York Times in an interview when announcing the transaction.
+
+“We had 35, 40 people on this — and we attacked this like venture growth would or anybody else,” Mr. Moelis said. “And we did it fast, too.”
+
+A spokeswoman for Moelis declined to comment.
+
+Other companies trying to make electric aircraft include Joby Aviation, which announced a $6.6 billion deal with a SPAC led by the LinkedIn co-founder Reid Hoffman in February, and the German start-up Lilium, which went public last month by merging with a SPAC led by a former General Motors executive, Barry Engle.
+
+Those deals are only a small sliver of the SPAC activity this year, as investors, celebrities and athletes have all raced to partake in Wall Street’s new favorite toy. So far this year, 299 SPACs have raised $97 billion, according to SPAC Research — more than in all of 2020.
+
+But regulators and some investors say more scrutiny is needed. The Securities and Exchange Commission published two notices last month warning companies considering merging with SPACs to ensure that they are ready for all the legal and regulatory requirements being a public company entails. Many investors known as short sellers, who specialize in betting that share prices of companies are bound to fall, have targeted SPACs like Atlas Crest, which is among the 20 most-shorted SPACs.
+
+The market for electric aircraft is in its infancy but holds huge promise. The prospect of “Jetsons”-like flying vehicles has inched closer to reality in recent years thanks to advances in battery and aircraft design. A high-stakes race to build the first viable electric plane is underway, and some airlines are betting that such vehicles can help them reach their goals of eliminating or offsetting their greenhouse gas emissions.
+
+Scott Kirby, the chief executive of United, said the Archer aircraft were unlikely to be used for commercial flights but were ideal for short trips to and from an airport.
+
+“They’re not only more environmentally friendly, they’re far quieter than a helicopter,” Mr. Kirby said Tuesday during an event hosted by the Council on Foreign Relations. “And, because they have 12 rotors, they’re, I believe, going to ultimately be safer.”
+
+Still, widespread use of electric air taxis is likely years away. Such aircraft may never become more than a luxury used by very rich people because businesses and governments may come up with far cheaper ways to transport people without emissions.
+--
+4/7
+Online Scammers Have a New Offer for You: Vaccine Cards
+Hundreds of sellers are offering false and stolen vaccine cards, as businesses and states weigh proof of vaccinations for getting people back to work and play.
+
+On Etsy, eBay, Facebook and Twitter, little rectangular slips of paper started showing up for sale in late January. Printed on card stock, they measured 3 by 4 inches and featured crisp black lettering. Sellers listed them for $20 to $60 each, with a discount on bundles of three or more. Laminated ones cost extra.
+
+All were forgeries or falsified copies of the Centers for Disease Control and Prevention vaccination cards, which are given to people who have been inoculated against Covid-19 in the United States.
+
+“We found hundreds of online stores selling the cards, potentially thousands were sold,” said Saoud Khalifah, the founder of Fakespot, which offers tools to detect fake listings and reviews online.
+
+The coronavirus has made opportunists out of many people, like those who hoarded bottles of hand sanitizer at the start of the pandemic or those who cheated recipients out of their stimulus checks. Now online scammers have latched on to the latest profit-making initiative: the little white cards that provide proof of shots.
+
+Online stores offering counterfeit or stolen vaccine cards have mushroomed in recent weeks, Mr. Khalifah said. The efforts are far from hidden, with Facebook pages named “vax-cards” and eBay listings with “blank vaccine cards” openly hawking the items.
+
+But profiteers have pressed ahead as demand for the cards has grown from anti-vaccine activists and other groups. Airlines and other companies have recently said they may require proof of Covid-19 immunization so that people can safely travel or attend events.
+
+The cards may also become central to “vaccine passports,” which offer digital proof of vaccinations. Some tech companies developing vaccine passports ask people to upload copies of their C.D.C. cards. Los Angeles also recently began using the C.D.C. cards for its own digital proof of immunization.
+
+Last week, 45 state attorneys general banded together to call on Twitter, Shopify and eBay to stop the sale of false and stolen vaccine cards. The officials said they were monitoring the activity and were concerned that unvaccinated people would misuse the cards to attend large events, potentially spreading the virus and prolonging the pandemic.
+
+“We’re seeing a huge market for these false cards online,” said Josh Shapiro, Pennsylvania’s attorney general, whose office has investigated fraud related to the virus. “This is a dangerous practice that undermines public health.”
+
+The C.D.C. said it was “aware of cases of fraud regarding counterfeit Covid-19 vaccine cards.” It asked people not to share images of their personal information or vaccine cards on social media.
+
+Facebook, Twitter, eBay, Shopify and Etsy said that the sale of fake vaccine cards violated their rules and that they were removing posts that advertised the items.
+
+The C.D.C. introduced the vaccination cards in December, describing them as the “simplest” way to keep track of Covid-19 shots. By January, sales of false vaccine cards started picking up, Mr. Khalifah said. Many people found the cards were easy to forge from samples available online. Authentic cards were also stolen by pharmacists from their workplaces and put up for sale, he said.
+
+Many people who bought the cards were opposed to the Covid-19 vaccines, Mr. Khalifah said. In some anti-vaccine groups on Facebook, people have publicly boasted about getting the cards.
+
+“My body my choice,” wrote one commenter in a Facebook post last month. Another person replied, “Can’t wait to get mine too, lol.”
+
+Other buyers want to use the cards to trick pharmacists into giving them a vaccine, Mr. Khalifah said. Because some of the vaccines are two-shot regimens, people can enter a false date for a first inoculation on the card, which makes it appear as if they need a second dose soon. Some pharmacies and state vaccination sites have given priority to people due for their second shots.
+
+One Etsy seller, who declined to be identified, said she had sold dozens of fake vaccine cards for $20 each recently. She justified her actions by saying she was helping people evade a “tyrannical government.” She added that she did not plan to get inoculated.
+
+Vaccine proponents say they have been troubled by the proliferation of forged and stolen cards. To hold those people accountable, Savannah Sparks, a pharmacist in Biloxi, Miss., began posting videos on TikTok last month naming the sellers of falsified vaccine cards.
+
+In one video, Ms. Sparks explained how she had tracked down the name of a pharmacy technician in Illinois who had nabbed several cards for herself and her husband and then posted about it online. The pharmacy technician had not disclosed her identity, but had linked the post to her social media accounts, where she used her real name. The video has 1.2 million views.
+
+“It made me so mad that a pharmacist was using her access and position this way,” Ms. Sparks said. The video drew the attention of the Illinois Pharmacists Association, which said it had reported the video to a state board for further investigation.
+
+Ms. Sparks said her work had drawn detractors and vaccine opponents, who have threatened her and posted her home phone number and address online. But she was undeterred.
+
+“They should be first in line advocating for people to get vaccinated,” she said of pharmacists. “Instead, they’re trying to use their positions to spread fear and help people circumvent getting the vaccine.”
+
+Mr. Shapiro, the Pennsylvania attorney general, said that in addition to violating federal copyright laws, the sale of counterfeit and stolen cards most likely broke civil and consumer protection laws that mandate that an item can be used as advertised. The cards could also violate state laws regarding impersonation, he said.
+
+“We want to see them stop immediately,” Mr. Shapiro said of the fraudsters. “And we want to see the companies take serious and immediate action.”
+--
+4/8
+Partial tally in Amazon union drive favors ‘No’ votes.
+
+With about half the ballots counted late Thursday, votes against unionization had a more than 2-to-1 advantage over those in favor, according to a live broadcast of the counting that was tallied by The New York Times. When the counting paused, there were 1,100 votes against unionization and 463 in support.
+
+[Amazon appears to have defeated the union effort. Follow live updates on the Amazon union vote results.]
+
+The incomplete tally put Amazon on the cusp of defeating the most serious organized-labor threat in the company’s history. In a high-profile campaign since the fall, the Retail, Wholesale and Department Store Union aimed to establish the first union at an Amazon warehouse in the United States. The result will have major implications not only for Amazon but also for organized labor and its allies.
+
+The union said there were 3,215 ballots cast, from 55 percent of the 5,805 eligible voters at the warehouse, in the closely watched election. The union must get support from more than half of the votes cast to prevail.
+
+The ballots were being counted in random order in the National Labor Relations Board’s office in Birmingham, Ala., and the process was broadcast via Zoom to more than 200 journalists, lawyers and other observers.
+
+The voting was conducted by mail from early February until the end of last month. A handful of workers from the labor board called out the results of each vote “Yes” for a union or “No” for nearly four hours on Thursday. The counting is scheduled to resume early Friday.
+
+Amazon and the union had spent more than a week in closed sessions, reviewing the eligibility of each ballot cast with the labor board, the federal agency that conducts union elections. The union said several hundred ballots had been contested, largely by Amazon, and those ballots were set aside to be adjudicated and counted only if they were vital to determining an outcome. If Amazon’s large margin holds steady throughout the count, the contested ballots are likely to be moot.
+--
+4/9
+China Fines Alibaba $2.8 Billion in Landmark Antitrust Case
+The penalty is the biggest move to date in China’s campaign to tighten supervision of its internet Goliaths.
+
+By hitting the e-commerce titan Alibaba with a record $2.8 billion antitrust fine on Saturday, Chinese officials sent a message to the country’s high-flying internet industry: We’ve got our eyes on you.
+
+The penalty imposed on Alibaba, one of China’s most valuable private companies and the bedrock of the business empire of Jack Ma, its most famous tycoon, was the biggest move yet in the government’s campaign to tighten its supervision of Big Tech.
+
+China’s market watchdog in December began investigating whether Alibaba had broken the country’s antimonopoly law by preventing merchants from selling their goods on other shopping platforms. On Saturday, the regulator said it had concluded that Alibaba’s exclusionary practices had hindered competition in online retail, affected innovation in the internet economy and harmed consumers’ interests.
+
+The resulting fine far exceeds the $975 million antitrust penalty that China imposed on Qualcomm, the American chip giant, in 2015.
+
+The authorities left little doubt Saturday about their intention to keep reining in China’s internet behemoths. In a commentary that was published online a minute after the fine was announced, People’s Daily, the official Communist Party newspaper, called regulation “a kind of love and care.”
+
+“Monopoly is the great enemy of the market economy,” the commentary read. “There is no contradiction between regulating under the law and supporting development. Rather, they complement each other and are mutually reinforcing.”
+
+The fine is unlikely to make a substantial dent in Alibaba’s fortunes. The State Administration for Market Regulation, the agency that imposed the penalty, said the amount represented 4 percent of Alibaba’s domestic sales in 2019. The company reported profits of more than $12 billion in the last three months of 2020 alone.
+
+Still, the run-in with regulators could have longer-lasting effects on Alibaba’s business, which has sprawled beyond shopping into logistics, grocery, entertainment, social media, travel booking and much else.
+
+Like Facebook, Google and other internet giants, Alibaba has argued that the breadth of its business helps make each of its services more useful. But critics say the company’s size slants the playing field for competitors and restricts consumers’ choices.
+
+Alibaba is now likely to be much more cautious about doing anything that resembles strong-arming users or rivals, said Angela Zhang, an associate professor and director of the Center for Chinese Law at the University of Hong Kong. “Their competitors will be first to run to the regulator to complain if there are problems,” she said.
+
+Even so, Professor Zhang said, the fact that Beijing did not demand major additional concessions from Alibaba makes the antitrust authority’s decision “good news for the firm” over all.
+
+Six years ago, when Qualcomm was fined, it also agreed to offer Chinese customers hefty discounts on patent royalties. On Saturday, the market regulator said only that Alibaba would have to curb its anticompetitive behavior and submit reports on its compliance for three years.
+
+“I would think the market should react positively,” Professor Zhang said, though she cautioned that the government could always pursue investigations into other aspects of Alibaba’s business.
+
+In a statement, Alibaba said it would accept the fine “with sincerity” and would strengthen internal systems “to better serve our responsibility to society.”
+
+“The penalty issued today served to alert and catalyze companies like ours,” Alibaba said. “It reflects the regulators’ thoughtful and normative expectations toward our industry’s development.”
+
+China started ramping up scrutiny of its tech giants last year. The market regulator proposed updating the antimonopoly law with new provisions for large internet platforms like Alibaba’s. In November, officials halted the plans of Alibaba’s sister company, the finance-focused Ant Group, to go public and tightened their oversight of internet finance.
+
+In December, it opened the antimonopoly investigation into Alibaba — a startling turn for Mr. Ma, whom people in China had long held up as an icon of entrepreneurial pluck. In late October, shortly before Ant Group’s shares were expected to begin trading, Mr. Ma had spoken at a conference in Shanghai and accused Chinese financial regulators of stymieing innovation in the name of controlling risk. His remarks were not well received in the state-run news media.
+
+Skepticism about the clout of large internet companies has been on the rise in the United States and Europe, too. Western regulators have repeatedly fined Goliaths like Google for various antitrust violations. But in general, such penalties have not changed the nature of the companies’ businesses enough to mitigate concerns about their power.
+
+China started later than the West on this front. In recent months, apart from the Alibaba investigation, the antitrust authority has also imposed smaller fines on companies for failing to report acquisition deals in advance.
+
+Yet the government’s campaign is already starting to influence the way Chinese internet giants operate, a reflection of the extent to which all private companies in China must stay in Beijing’s good graces to survive.
+
+For many years, Alibaba and its archrival, the gaming and social media giant Tencent, have competed ferociously in a variety of businesses, including by deterring their own users from spending time on the other company’s services. That may be starting to change. In a first for the company, Alibaba recently applied for two of its commerce platforms, Taobao Deals and Xianyu, to have a presence on WeChat, Tencent’s ubiquitous messaging app.
+
+Tencent is an obvious potential target for future antimonopoly action by Beijing. With WeChat, the company has created and nurtured an all-in-one platform for news, entertainment, finance, shopping and more, giving it great leverage over rivals and smaller companies as an essential gatekeeper to Chinese internet users.
+
+“As companies become large, and as internet services become more and more a part of people’s life, then companies need to be much more responsible, both to the users, to the government, to society,” Tencent’s president, Martin Lau, said last month on a conference call with analysts. “Now I think it’s important for us to understand even more about what the government is concerned about, what the society is concerned about, and be even more compliant.”
+
+Chinese officials do not appear to wish to tip the scales too much against the internet companies, which have legions of loyal users and employ many young, highly educated people.
+
+In November, not long after officials put Ant Group’s I.P.O. plans on ice, China’s market regulator published draft guidelines for antitrust enforcement of internet platforms. The final rules, which appeared in February, differed in a few key ways.
+
+One provision in the draft lowered the bar for the authorities to argue, in certain cases, that a company was a monopolist. That provision did not make it into the final rules. Another clause in the draft that later disappeared would have made it easier for regulators to argue that companies that held large amounts of user data were abusing their dominance.
+
+The authorities also do not seem to want to tighten control over internet giants in a way that would undermine China in its strategic rivalry with other global powers — one in particular.
+
+In high-tech industries, “competition between China and the United States is becoming more intense,” a former official with the market regulator, Li Qing, said in a January interview with a Beijing newspaper.
+
+“We must give our nation’s innovative enterprises more space to develop, a better policy environment and more room to correct faults,” Ms. Li said. “We must encourage enterprises to keep innovating and to become big and strong.”
+--
+4/10
+We Don’t Need Tech Infomercials
+Technology has moved beyond staged product events. We should, too.
+
+It’s time to end the elaborate staged events that are essentially infomercials for new technology products.
+
+You probably know the ones I’m talking about. Steve Jobs or the current Apple boss, Tim Cook, paces a dark stage and holds up a shiny slab of circuits to an enthralled audience. Apple on Tuesday teased a planned (virtual) event next week to do the stage-pacing thing for the latest iPads.
+
+Mary Kay-style demonstrations for the 400th edition of an iPad are clearly not the most serious problem in technology or the world. Most people will never even watch these things, thank goodness. But they are an example of how we and tech companies don’t stop enough and ask: Why does it have to be this way?
+
+Apple’s influence has spread these staged product launches — and they are mostly overhyped and unnecessary. Elon Musk does them for Tesla cars and brain implants. Media companies have borrowed this trick for hourslong presentations for their plus-sign video streaming services. An infomercial about a website is really a step too far.
+
+The Jobs-esque product demonstrations are also an unintentional signal of how tech companies see their customers. To them, we are blobs with wallets that can be persuaded by the Silicon Valley equivalents of a fast-talking guy on TV hawking a mop.
+
+My biggest beef with these elaborate infomercials is that they’re at odds with what technology is now. It’s no longer confined to a shiny thing in a cardboard box. Technology now is the stuff that we don’t necessarily notice — smarter software that alerts us to hazards while we drive or tech that gives small businesses the power of Amazon. It worms its way into our homes and lives, for better or worse.
+
+Technology is also one of the most powerful forces in the world. And yet tech companies continue to hold product launches with the manic energy of an industry desperate to get noticed.
+
+What’s the alternative? Well, Microsoft on Tuesday published a blog post that described the latest model of its Surface laptop and other products. Spotify also posted on its website about its new experimental gadget that’s like a modernized car stereo remote.
+
+The posts explained what the products were, and that was it. Maybe you’ve heard the line, “This meeting should have been an email?” Microsoft and Spotify showed that most product launches should be a blog post and a two-minute video.
+
+I’m not the first person to write that the staged tech product events that Apple spread everywhere need to go. Even I’ve written about it before.
+
+This is old hat for Apple, too. And on Tuesday it did what it has done forever: It released an intentionally vague message about what is expected to be a canned webcast presentation. This achieved its goal. People who care about technology talked about it.
+
+And of course, that’s one reason these tech Tupperware parties endure: They get attention. (At least they do for Apple.) Journalists like me are a big part of the problem, too.
+
+But we can just quit doing this. The Microsoft and Spotify products seemed to get noticed and written about on Tuesday even without a two-hour hype machine.
+
+These product launches are a stale habit festering long after it’s ceased being useful. It shows a lack of imagination from companies that are supposed to be imaginative and a disrespect for us, the customers. It doesn’t have to be this way.
+--
+4/11
+Can Medical Alexas Make Us Healthier?
+America’s health care system needs help. But don’t expect technology to be a silver bullet.
+
+This article is part of the On Tech newsletter. You can sign up here to receive it weekdays.
+
+Are voice recognition technologies like Alexa helpful in medicine or are they hogwash? For now, the short answer is a little of both.
+
+Microsoft on Monday said that it would spend roughly $16 billion to buy Nuance Communications, whose speech transcription software is used in health care.
+
+Microsoft as well as other tech companies like Google and Amazon have big ambitions to transform the industry with artificial intelligence technologies, including in voice recognition programs and efforts to identify signs of illness and disease.
+
+The big hope of technology in medicine is that it can help make us healthier and improve America’s expensive and often ineffective and unjust health care system. The message that I have heard from medical experts is that there’s potential there, but there is also a lot of hot air.
+
+The hope of medical Alexas:
+
+For years, doctors have used Nuance’s transcription software to speak notes about patients and convert them into text for medical records. In theory, that frees doctors from having to do paperwork so they can spend more time treating us.
+
+Nuance and other tech and health care providers want to do much more with our voices. One idea is that microphones might record (with permission) interactions between physicians and patients and log the relevant details into medical files — without much human involvement. Computers would also be smart enough to order any necessary tests and handle billing.
+
+This sounds cool and perhaps a little creepy. These ideas are still under development, and it’s not clear how well these medical Alexas would work. But Dr. Eric J. Topol, a professor of molecular medicine at Scripps Research and the author of several books on technology in medicine, told me that voice recognition systems are one of the most consequential uses of artificial intelligence in health care, at least in the short term.
+
+At Cedars-Sinai, a health system in Southern California, most hospital rooms have been outfitted with voice activated devices, said Darren Dworkin, the organization’s chief information officer. For now, the devices are mostly used for relatively mundane interactions, such as a nurse asking a device to show a patient a video on preventing dangerous falls.
+
+Dworkin said that he was most optimistic about using voice and other technologies to automate administrative work, such as authorizing insurance for medical treatments and sending tailored text messages to patients.
+
+Dworkin said that those uses of technology might not be what many considered a wow factor, but that busywork was a huge cost and challenge in health care.
+
+“Not everything has to be state of the art,” Dworkin said. “Don’t let the simple stuff pass you by.” (Another vote for the importance of boring technology!)
+
+Where hope meets harsh reality:
+
+Just about every technology used in health care — and many other fields — promises to reduce administrative work and costs. And yet, health care expenses and bureaucracy in the United States mostly continue to go up.
+
+Dr. Dhruv Khullar, a physician and assistant professor of health policy and economics at Weill Cornell Medicine, said that he was optimistic that voice tech and artificial intelligence could reduce administrative burdens and help patients. But he said that his hope was not yet backed by rigorous proof.
+
+“There is not a lot of evidence at this point that A.I. reduces costs or improves health outcomes,” Dr. Khullar told me. (I borrowed the “medical Alexas” line from him.)
+
+I asked these health experts an overarching question: What role should technology play in tackling the root problems of American health care?
+
+They largely agreed that advances in technology could help reduce costs and improve the quality of service in our health care system, but that it was not a silver bullet for our biggest problems.
+
+“I would say, it’s part of the answer but not a large part of it,” Dr. Khullar said.
+--
+4/12
+Hearing Aids for the Masses
+Relatively simple technology and a change in government policy could unleash more innovation for Americans who have difficulty hearing.
+
+On Tech is back from a spring break, and the magnolia trees are blooming outside On Tech headquarters (a.k.a., my New York apartment).
+
+Today, let’s talk about relatively simple technology and a change in government policy that could unleash more innovation for Americans who have difficulty hearing.
+
+I’ve been speaking with audiologists, consumer advocates and technology companies about what could be a revolution for our ears — hearing aids at a fraction of the cost and hassle of conventional devices.
+
+Here’s how things stand now: Hearing loss is a pervasive and serious health problem, and many people are reluctant or can’t afford to get conventional hearing aids. Nearly 38 million American adults report some degree of hearing loss, but only a minority of people who could benefit from hearing aids have ever used them.
+
+Hearing aids typically cost thousands of dollars, require multiple visits to specialists and often aren’t covered by health insurance. Untreated hearing loss is associated with cognitive decline, dementia and other harms. Overcoming barriers to hearing treatment may significantly improve Americans’ health.
+
+The federal government is poised to help. Congress in 2017 passed legislation that would let anyone buy hearing aids approved by the Food and Drug Administration without a prescription from an audiologist. The F.D.A. has missed a deadline to release draft guidelines for this new category of over-the-counter hearing aids.
+
+Experts told me that when the F.D.A. moves ahead, it’s likely to lead to new products and ideas to change hearing aids as we know them.
+
+Imagine Apple, Bose or other consumer electronics companies making hearing aids more stylish and relatively affordable — with people having confidence that the devices had been vetted by the F.D.A. Bose told me that it’s working on over-the-counter hearing aid technology.
+
+Barbara Kelley, executive director of the Hearing Loss Association of America, an advocacy organization, told me that she can’t wait for more affordable and accessible hearing help. “I’m really excited for the market to open up to see what we got and see how people are reacting,” she said.
+
+It is already possible to buy a hearing helper — they can’t legally be called hearing aids — without a prescription. These devices, called personal sound amplification products or PSAPs, vary wildly in quality from excellent to junk. But when shopping for them, people often can’t tell the difference.
+
+(The Wall Street Journal also recently wrote about hearing helper technologies, including earbuds that can amplify quiet sounds. And Consumer Reports has a useful guide to hearing aids and PSAPs.)
+
+Nicholas Reed, director of audiology at the Johns Hopkins Cochlear Center for Hearing and Public Health, told me that the F.D.A. process should provide a path for the best PSAPs to be approved as official over-the-counter hearing aids. He expects new companies to hit the market, too.
+
+You may doubt that a gadget you buy next to the toilet paper at CVS could be a serious medical device. Dr. Reed’s research, however, has found that some hearing helpers for $350 or less were almost as good as prescription hearing aids for people with mild-to-moderate hearing loss.
+
+Dr. Reed described the best lower-cost devices as the Hyundai of hearing help. (This was a compliment.) They aren’t flashy, but they will get many people safely and effectively where they need to go. He also imagines that the F.D.A. rules will create the conditions for many more people to buy hearing aids — both over the counter and by prescription.
+
+Over-the-counter hearing aids won’t be able to help everyone, experts told me. And the traditional hearing aid industry has said that people are best served by customized devices with expert help.
+
+There is also more technology brewing at the luxury end of the spectrum. A Silicon Valley start-up called Whisper has a novel monthly payment option for its hearing aids and says that its software “learns” over time based on an individual’s hearing deficits.
+
+Health care in the United States can often feel as if it’s stuck, and technology is usually not the solution. But with hearing aids, technology and a change in government policy could bring helpful health innovation.
+--
+4/13
+Disney and ad-tech firms agree to privacy changes for children’s apps.
+
+In legal settlements that could reshape the children’s app market, Disney, Viacom and 10 advertising technology firms have agreed to remove certain advertising software from children’s apps to address accusations that they violated the privacy of millions of youngsters.
+
+The agreements resolve three related class-action cases involving some of the largest ad-tech companies — including Twitter’s MoPub — and some of the most popular children’s apps — including “Subway Surfers,” an animated game from Denmark that users worldwide have installed more than 1.5 billion times, according to Sensor Tower, an app research firm.
+
+The lawsuits accused the companies of placing tracking software in popular children’s gaming apps without parents’ knowledge or consent, in violation of state privacy and fair business practice laws. Such trackers can be used to profile children across apps and devices, target them with ads and push them to make in-app purchases, according to legal filings in the case.
+
+Now, under the settlements approved on Monday by a judge in the U.S. District Court for the Northern District of California, the companies have agreed to remove or disable tracking software that could be used to target children with ads. Developers will still be able to show contextual ads based on an app’s content.
+
+“This is going to be the biggest change to the children’s app market that we’ve seen that gets at the business models,” said Josh Golin, the executive director of Campaign for a Commercial-Free Childhood, a nonprofit in Boston. “On thousands of apps, children will no longer be targeted with the most insidious and manipulative forms of marketing.”
+
+The companies in the class-action cases did not admit any wrongdoing.
+
+The settlements come as the Federal Trade Commission has been pursuing children’s privacy cases against individual developers and ad-tech firms. But children’s advocates said the class-action cases, which involved a much larger swath of the app and ad tech marketplace, could prompt industrywide changes for apps and ads aimed at young people.
+
+Viacom, whose settlement covers one of its children’s apps, called “Llama Spit Spit,” Kiloo, a Danish company that codeveloped “Subway Surfers,” and Twitter declined to comment. Disney, whose settlement agreement covers its children’s apps in the United States, did not immediately response to emails seeking comment.
+--
+4/14
+Jeff Bezos’ last word as C.E.O. (I think?): The Amazon chief executive’s annual letter to stockholders is widely read in Silicon Valley and beyond. In his last one as chief executive, Bezos stood behind his company’s contributions to customers, other businesses and employees — even as he said that Amazon needed to do more to become the “Earth’s Best Employer and Earth’s Safest Place to Work.”
+--
+4/15
+Mark Zuckerberg is urged to scrap plans for an Instagram for children.
+
+An international coalition of 35 children’s and consumer groups called on Instagram on Thursday to scrap its plans to develop a version of the popular photo-sharing app for users under age 13.
+
+Instagram is pushing for a separate children’s app after years of complaints from legislators and parents that the platform has been slow to identify underage users and protect them from sexual predators and bullying.
+
+But in a letter to Mark Zuckerberg, the chief executive of Facebook, which owns Instagram, the nonprofit groups warned that a children’s version would not mitigate such problems. While 10- to 12-year-olds with Instagram accounts would be unlikely to switch to a “babyish version” of the app, the groups said, it could hook even younger users on endless routines of photo-scrolling and body-image shame.
+
+“While collecting valuable family data and cultivating a new generation of Instagram users may be good for Facebook’s bottom line,” the groups, led by the Campaign for a Commercial-Free Childhood in Boston, said in the letter to Mr. Zuckerberg, “it will likely increase the use of Instagram by young children who are particularly vulnerable to the platform’s manipulative and exploitative features.”
+
+The coalition also includes the Africa Digital Rights’ Hub in Ghana; the Australian Council on Children and the Media; the Center for Digital Democracy in Washington; Common Sense Media in San Francisco; the Consumer Federation of America; and the 5Rights Foundation in Britain.
+
+Stephanie Otway, a Facebook spokeswoman, said Instagram was in the early stages of developing a service for children as part of an effort to keep those under 13 off its main platform. Although Instagram requires users to be at least 13, many younger children have lied about their age to set up accounts.
+
+Ms. Otway said that the company would not show ads in any Instagram product developed for children younger than 13, and that it planned to consult with experts on children’s health and safety on the project. Instagram is also working on new age-verification methods to catch younger users trying to lie about their age, she said.
+
+“The reality is that kids are online,” Ms. Otway said. “They want to connect with their family and friends, have fun and learn, and we want to help them do that in a way that is safe and age-appropriate.”
+--
+4/16
+The Race for Attention on YouTube
+What factors are driving us to get into heated fights online and watch hateful videos?
+
+When we get caught up in heated arguments with our neighbors on Facebook or in politically charged YouTube videos, why are we doing that? That’s the question that my colleague Cade Metz wants us to ask ourselves and the companies behind our favorite apps.
+
+Cade’s most recent article is about Caolan Robertson, a filmmaker who for more than two years helped make videos with far-right YouTube personalities that he says were intentionally provocative and confrontational — and often deceptively edited.
+
+Cade’s reporting is an opportunity to ask ourselves hard questions: Do the rewards of internet attention encourage people to post the most incendiary material? How much should we trust what we see online? And are we inclined to seek out ideas that stoke our anger?
+
+Shira: How much blame does YouTube deserve for people like Robertson making videos that emphasized conflict and social divisions — and in some cases were manipulated?
+
+Cade: It’s tricky. In many cases these videos became popular because they confirmed some people’s prejudices against immigrants or Muslims.
+
+But Caolan and the YouTube personalities he worked with also learned how to play up or invent conflict. They could see that those kinds of videos got them attention on YouTube and other websites. And YouTube’s automated recommendations sent a lot of people to those videos, too, encouraging Caolan to do more of the same.
+
+One of Facebook’s executives recently wrote, in part, that his company mostly isn’t to blame for pushing people to provocative and polarizing material. That it’s just what people want. What do you think?
+
+There are all sorts of things that amplify our inclination for what is sensational or outrageous, including talk radio, cable television and social media. But it’s irresponsible for anyone to say that’s just how some people are. We all have a role to play in not stoking the worst of human nature, and that includes the companies behind the apps and websites where we spend our time.
+
+I’ve been thinking about this a lot in my reporting about artificial intelligence technologies. People try to distinguish between what people do and what computers do, as though they are completely separate. They’re not. Humans decide what computers do, and humans use computers in ways that alter what they do. That’s one reason I wanted to write about Caolan. He is taking us behind the curtain to see the forces — both of human nature and tech design — that influence what we do and how we think.
+
+I think the most important thing is to think about what we’re really watching and doing online. Where I get scared is thinking about emerging technologies including deepfakes that will be able to generate forged, misleading or outrageous material on a much larger scale than people like Caolan ever could. It’s going to get even harder to know what’s real and what’s not.
+
+Isn’t it also dangerous if we learn to mistrust anything that we see?
+
+Yes. Some people in technology believe that the real risk of deepfakes is people learning to disbelieve everything — even what is real.
+
+How does Robertson feel about making YouTube videos that he now believes polarized and misled people?
+
+On some level he regrets what he did, or at the very least wants to distance himself from that. But he’s essentially now using the tactics that he deployed to make right-wing videos to make left-wing videos. He’s doing the same thing on one political side that he used to do on the other.
+--
+4/17
+With ‘Knives Out’ Deal, Netflix Signals It’s in the Franchise Business
+The streaming gold rush of 2017-18, when Netflix scooped up big-name television creators, now seems to have migrated to the film world.
+
+Hollywood let out a collective gasp this month when it was announced that Netflix had spent about $465 million to buy two sequels to the quirky surprise 2019 hit “Knives Out.”
+
+Suddenly, the $40 million whodunit, which Rian Johnson (“Looper”) wrote and directed as a “palate cleanser” after he completed a “Star Wars” movie, was a juggernaut that commanded top dollar in a frenetic bidding war.
+
+And it further cemented Netflix as a major film industry disrupter.
+
+Did Netflix overpay for two films that in a pre-streaming world would have been seen as reliable bets to release in theaters when a studio didn’t have blockbusters to offer? Or, since creating successful new franchises is no easy proposition, did the company make a shrewd business move that will pay dividends for years to come?
+
+“They are sequels to an original hit that could be an additional franchise,” said Erik Feig, a former co-president of Lionsgate, who helped shepherd the “Twilight” and “Hunger Games” franchises to the big screen and now runs his own production company. “Even beyond the two movies, can they create a TV series off of this? Can they further their relationship with Rian?”
+
+The deal could also augur a windfall for innovative filmmakers. If highly valued writer-directors like Mr. Johnson, who directed “Star Wars: The Last Jedi” after toiling for years on small-budget indie films, can hold on to their intellectual property when striking distribution deals, they, too, can control their destinies. Both Netflix and Mr. Johnson declined to comment for this article.
+
+“I do think you could see a few more deals like ‘Knives Out’ in the next couple of years,” Mr. Feig said. “Talent has zero compunction about working with the streamers. There used to be a chip on their shoulder about doing a movie that was designed for streaming consumption. That stigma is completely gone. The caliber of talent has gone up, and so has the execution.”
+
+The streaming gold rush of 2017 and 2018, when Netflix scooped up the prolific television creators Shonda Rhimes, Ryan Murphy and Kenya Barris with nine-figure deals, has migrated to the film world. It began out of necessity when Covid-19 shut down theaters around the globe and studios’ profits fell to zero. Those without their own streaming services began selling their previously theater-bound films to their once-sworn enemies.
+
+The Tom Hanks movie “Greyhound,” from Sony, had a robust debut on Apple TV+, interest in Amazon’s Prime service rose with its release of “Borat Subsequent Moviefilm,” and this year “Coming 2 America” became the first Amazon title to finish first in Nielsen’s weekly rankings for subscriber-video-on-demand content. Netflix acquired the Paramount production “The Trial of the Chicago 7,” which earned six Academy Award nominations last month.
+
+Then WarnerMedia changed everything in December, when after sending “Wonder Woman 1984” to its streaming service, HBOMax, it announced that every one of its 2021 releases would open in theaters and on the service simultaneously. The pandemic proved that audiences want and expect to watch high-profile movies on their streaming services just as much as they want to binge high-quality television series there.
+
+“The pandemic has really put the streamers head to head with theatrical distribution,” said James Moore, chief executive of Vine Alternative Investments, an asset manager focused on the entertainment industry. “Now you’re seeing the economics really accelerate towards the streamers, and they have both the wherewithal and the strategic need to retain those gains.”
+
+“Knives Out,” with a cast led by Daniel Craig and Chris Evans, earned $311 million at theaters, close to half of it in international markets — the biggest growth opportunity for streaming services. It was one of the few box office winners in the past few years not based on a comic book or on existing intellectual property that was tied up in a lengthy studio deal.
+
+(John Krasinski’s “A Quiet Place,” from 2018, is another example. But that R-rated horror film was owned by Paramount, and it was such a box office boon that its sequel was one of the few films the studio held on to during the pandemic. It is scheduled to come out in theaters on Memorial Day weekend.)
+
+For the original “Knives Out,” Mr. Johnson’s representatives at Creative Artists Agency negotiated a one-film licensing agreement with the film’s distributors, MRC and Lionsgate. That deal gave Mr. Johnson and his producing partner, Ram Bergman, control of the franchise and the right to shop future iterations to other parties. (Mr. Craig, who played the arch Southern detective Benoit Blanc in the film, is also an equity participant in the deal.)
+
+The movie is part of a tried-and-true genre — the star-studded whodunit — that has been reinvented in recent years. “Murder Mystery,” starring Adam Sandler and Jennifer Aniston, was a hit for Netflix in 2019. Kenneth Branagh’s reimagining of Agatha Christie’s “Murder on the Orient Express” in 2017 worked well for Disney’s Fox division, pulling in $352 million, including $250 million from the international market. (A follow-up, “Death on the Nile,” has been pushed to 2022, partly because one of its stars, Armie Hammer, has been tarnished by a recent sex scandal.)
+
+The “Knives Out” deal also highlights how much easier it is for a streaming service to exploit an already known title than to build one itself. While Netflix scored big with the 2018 Sandra Bullock film “Bird Box” — it said 89 million households had tuned in to watch the film within four weeks of its release — it is just now gearing up for a sequel, a Spanish-language version that won’t feature the original star.
+
+Next month, the company will unveil Zack Snyder’s zombie movie “Army of the Dead.” On the bet that the movie will be a hit, a prequel has already been shot, directed by and starring Matthias Schweighöfer, who is in Mr. Snyder’s film.
+
+And there are hopes that the Netflix spy film “The Gray Man,” starring Mr. Evans and Ryan Gosling and directed by Joe and Anthony Russo (“Avengers: Endgame”), will spawn sequels, but the $200 million production is shooting now and no release date has been set.
+
+Still, without a theatrical release, it can be difficult for a film to create the buzz without the crowds and the box office dominance that a traditional movie debut provides. After all, Netflix’s biggest justification for its “Knives Out” deal is the film’s box office receipts.
+
+“The best part of a theatrical release is it really gives you a quantifiable metric for how successful your movie is,” Mr. Moore said. “It’s very observable. Had Rian done the first ‘Knives Out’ with a streamer, he wouldn’t have gotten those economics for the second two because he wouldn’t have proven the value of that to the wider audience.”
+--
+4/18
+2 Killed in Driverless Tesla Car Crash, Officials Say
+“No one was driving the vehicle” when the car crashed and burst into flames, killing two men, a constable said.
+
+Two men were killed in Texas after a Tesla they were in crashed on Saturday and caught fire with neither of the men behind the wheel, the authorities said.
+
+Mark Herman, the Harris County Precinct 4 constable, said that physical evidence from the scene and interviews with witnesses led officials “to believe no one was driving the vehicle at the time of the crash.”
+
+The vehicle, a 2019 Model S, was going at a “high rate of speed” around a curve at 11:25 p.m. local time when it went off the road about 100 feet and hit a tree, Constable Herman said. The crash occurred in a residential area in the Woodlands, an area about 30 miles north of Houston.
+
+The men were 59 and 69 years old. One was in the front passenger seat and one in the rear seat, Constable Herman said.
+
+He said that minutes before the crash, the men’s wives watched them leave in the Tesla after they said they wanted to go for a drive and were talking about the vehicle’s Autopilot feature.
+
+The National Highway Traffic Safety Administration said last month that it was investigating nearly two dozen crashes involving Teslas that either were using Autopilot or might have been using it.
+
+The causes of death were unclear on Sunday. Positive identification had not yet been made because of the duration of the fire, Constable Herman said.
+
+“It took four hours to put out a fire that normally would have taken a matter of minutes,” Constable Herman said, adding that it took more than 30,000 gallons of water to extinguish the fire.
+
+Regulators have raised concerns about the batteries used in electric vehicles. The National Transportation Safety Board warned in a 2020 report that the batteries can pose safety risks to emergency responders.
+
+Mitchell Weston, chief investigator at the Harris County Fire Marshal’s Office, said that while the batteries are “generally safe,” impacts at high speeds can result in “thermal runaway,” which causes an “uncontrolled contact” between different materials in the batteries.
+
+Thermal runaway can lead to fires, as well as “battery reignition,” even after an initial fire is put out, the safety board warned in its report. Mitsubishi Electric warns that “thermal runaway can lead to catastrophic results, including fire, explosion, sudden system failure, costly damage to equipment, and possibly personal injury.”
+
+The fire marshal’s office was investigating the fire in the crash, a spokeswoman said. Constable Herman said his department was working with the federal authorities to investigate.
+
+He said that law enforcement officials had been in contact with Tesla on Saturday for “guidance on a few things” but declined to discuss the nature of the conversations.
+
+Tesla, which has disbanded its public relations team, did not respond to a request for comment.
+
+Elon Musk, Tesla’s chief executive, earlier on Saturday had promoted a recent safety report from the company, writing on Twitter that “Tesla with Autopilot engaged now approaching 10 times lower chance of accident than average vehicle.”
+
+Tesla, which on its website calls Autopilot the “future of driving,” says the feature allows its vehicles to “steer, accelerate and brake automatically within its lane.” However, it warns that “current Autopilot features require active driver supervision and do not make the vehicle autonomous.”
+
+In 2016, a driver in Florida was killed in a Tesla Model S that was in Autopilot mode and failed to brake for a tractor-trailer that made a left turn in front of it.
+--
+4/19
+Can Tech Make the Roads Safer?
+We know the dangers of surveillance, but people are dying. Maybe we need more cameras on the roads.
+
+When the pandemic kept people at home more in 2020, Americans drove far fewer miles than usual. But more people died on the roads.
+
+Our roads are dangerous, particularly for pedestrians. I have been curious whether having more technology to enforce traffic laws might help — or whether it would make things worse.
+
+I’m reminded of this every time I see reckless driving where I live in New York. (And there is some evidence that this is increasing.) Part of me wants cameras everywhere to blitz drivers with tickets for running red lights or speeding. But I’m also wary of mass surveillance.
+
+I talked about this with Sarah Kaufman, associate director of the Rudin Center for Transportation Policy and Management at New York University. She said that, in the short term, more automated traffic enforcement could make our roads safer and reduce potentially biased police stops of motorists.
+
+Longer term, however, Kaufman believes that the best technologies to make our roads safer are those that take choices out of people’s hands. That includes vehicles that are programmed to force people to obey speed limits and brake at red lights.
+
+Yes, she knows that some people will hate this. But, she said, we should not be complacent about the deaths and injuries on America’s roads, and instead rethink what we consider normal about driving.
+
+Let’s backtrack to the problem: Cars have become safer for people inside them over the years, but the number of people who died on roads last year in the United States still reached as many as 42,000, according to preliminary data from an advocacy group. That was higher than the deaths in 2019, and the numbers weren’t an anomaly. Risks have generally increased for pedestrians, motorcyclists and others who are not inside of vehicles.
+
+Kaufman made a couple of points about the ways that technology can help make us safer, as well as some of its limits.
+
+First, receiving a ticket in the mail after a camera snaps an image of you speeding or running a red light in your car can be a relatively effective deterrent, but it’s not perfect.
+
+In New York and some other places, traffic tickets from cameras arrive about a month after the infraction. A ticket might make someone think twice about speeding the next time, said Kaufman, who called camera enforcement highly beneficial. But, she said, it didn’t prevent the risky driving in the first place.
+
+A New York Times Opinion column last week said cameras that capture speeding drivers or expired license plate tags could also reduce the police traffic stops that tended to disproportionately affect Black drivers, and sometimes resulted in violence and even death. (The encounter that led to a police officer in Minnesota fatally shooting Daunte Wright started with a traffic stop.)
+
+Black Americans are also at a higher risk of dying from vehicle crashes, and Kaufman said that more automated traffic enforcement could help address what she called the dual problems of “over policing and under protection.”
+
+But, Kaufman said that in the long run, the best road safety technologies were those that removed human judgment. She imagines more cities and car manufacturers setting technology that automatically forces drivers to obey the speed limit and brake at red lights.
+
+Some cities require speed restrictions be built into rented scooters and electric bicycles. “Why is the deadliest mode of travel not speed limited?” Kaufman asked.
+
+Although she believes her suggestion may make some people howl at restrictions on what they can do with their own cars, Kaufman said: “People are dying as the result of some people not following the rules. Why is that a fair system?”
+
+It always makes me nervous when technology is proposed as a fix for human-created problems. Some road safety advocates have pushed for other changes not involving technology, such as redesigned roads, more enforcement of seatbelt use, rules for safer, smaller cars and moving away from our dependence on cars. And yes, Kaufman and I talked about autonomous cars. They promise to be far safer but are unlikely to hit the roads in large numbers for many years.
+
+Ultimately, in Kaufman’s view, what’s needed are both limits on what we can do with cars and a rethinking of automobiles’ role in American life.
+--
+4/20
+China fined the internet giant Alibaba a record $2.8 billion this month for anticompetitive practices, ordered an overhaul of its sister financial company and warned other technology firms to obey Beijing’s rules.
+
+Now the European Commission plans to unveil far-reaching regulations to limit technologies powered by artificial intelligence.
+
+And in the United States, President Biden has stacked his administration with trustbusters who have taken aim at Amazon, Facebook and Google.
+
+Around the world, governments are moving simultaneously to limit the power of tech companies with an urgency and breadth that no single industry had experienced before. Their motivation varies. In the United States and Europe, it is concern that tech companies are stifling competition, spreading misinformation and eroding privacy; in Russia and elsewhere, it is to silence protest movements and tighten political control; in China, it is some of both.
+
+While nations and tech firms have jockeyed for primacy for years, the latest actions have pushed the industry to a tipping point that could reshape how the global internet works and change the flows of digital data.
+
+Australia passed a law to force Google and Facebook to pay publishers for news. Britain is creating its own tech regulator to police the industry. India adopted new powers over social media. Russia throttled Twitter’s traffic. And Myanmar and Cambodia put broad internet restrictions in place.
+
+China, which had left its tech companies free to compete and consolidate, tightened restrictions on digital finance and sharpened an antimonopoly law late last year. This year, it began compelling internet firms like Alibaba, Tencent and ByteDance to publicly promise to follow its rules against monopolies.
+
+“It is unprecedented to see this kind of parallel struggle globally,” said Daniel Crane, a law professor at the University of Michigan and an antitrust expert. American trustbusting of steel, oil and railroad companies in the late 19th and early 20th centuries was more confined, he said, as was the regulatory response to the 2008 financial crisis.
+
+Now, Mr. Crane said, “the same fundamental question is being asked globally: Are we comfortable with companies like Google having this much power?”
+
+Underlying all of the disputes is a common thread: power. The 10 largest tech firms, which have become gatekeepers in commerce, finance, entertainment and communications, now have a combined market capitalization of more than $10 trillion. In gross domestic product terms, that would rank them as the world’s third-largest economy.
+
+Yet while governments agree that tech clout has grown too expansive, there has been little coordination on solutions. Competing policies have led to geopolitical friction. Last month, the Biden administration said it could put tariffs on countries that imposed new taxes on American tech companies.
+
+The result is that the internet as it was originally conceived — a borderless digital space where ideas of all stripes contend freely — may not survive, researchers said. Even in parts of the world that do not censor their digital spaces, they said, a patchwork of rules would give people different access to content, privacy protections and freedoms online depending on where they logged on.
+
+“The idea of an open and interoperable internet is being exposed as incredibly fragile,” said Quinn McKew, executive director of Article 19, a digital rights advocacy group.
+
+Tech companies are fighting back. Amazon and Facebook have created their own entities to adjudicate conflicts over speech and to police their sites. In the United States and in the European Union, the companies have spent heavily on lobbying.
+
+Some of them, acknowledging their power, have indicated support for more regulations while also warning about the consequences of a splintered internet.
+
+“The decisions lawmakers make in the months and years ahead will have a profound impact on the internet, international alliances and the global economy,” said Nick Clegg, Facebook’s vice president of policy and communications.
+
+Mr. Clegg, a former British deputy prime minister, added that Facebook hoped “the techno-democracies in the U.S., Europe, India and elsewhere” would “work together to preserve and enhance the democratic values at the heart of the open internet and prevent it from fragmenting further.”
+
+Kent Walker, Google’s senior vice president of global affairs, also called for nations to coordinate. “Balkanized, inconsistent regulations won’t help and could actually make things worse,” he said. “But done right, well-aligned rules can promote innovation, increase competitiveness and help consumers and small businesses.”
+
+Amazon said it welcomed scrutiny, but “the presumption that success can only be the result of anticompetitive behavior is simply wrong.”
+
+Apple, Alibaba, its sister financial company Ant Group, and the Chinese gaming and social media giant Tencent, which owns the WeChat app, declined to comment.
+
+While a tech backlash has gathered momentum for years, it escalated in December. That was when regulators and lawmakers globally made a series of announcements on two main paths of attack against the industry: antitrust and content moderation.
+
+On Dec. 9, the Federal Trade Commission and nearly every state filed bipartisan lawsuits accusing Facebook of acting anticompetitively. Less than a week later, European policymakers introduced a competition law and new requirements for blocking online hate speech. On Dec. 24, Chinese regulators opened an antitrust investigation into Alibaba after scuppering an initial public offering from Ant.
+
+Antitrust and content moderation have been where tech companies are most vulnerable. Google, Facebook, Apple, Alibaba, Amazon and other companies clearly dominate online advertising, search, e-commerce and app marketplaces, and have faced questions about whether they have unduly used their clout to buy competitors, promote their own products ahead of others and block rivals.
+
+The companies also face scrutiny about how hate speech and other noxious online material can spill into the offline world, leading to calls to better control content.
+
+The antitrust push has especially sharpened in the United States, with landmark suits filed against Google and Facebook last year. Republican and Democratic lawmakers have said they are drafting new antitrust, privacy and speech regulations targeting Facebook, Google, Apple and Amazon. They have also proposed trimming a law that shields sites like YouTube, which Google owns, from lawsuits over content posted by their users.
+
+“This is a monopoly moment. Not just for the United States but for the entire world,” the chairman of the House antitrust subcommittee, David Cicilline, Democrat of Rhode Island, said in a statement. “Countries need to work together in order to take on the monopoly power held by the largest tech platforms and restore competition and innovation to the digital economy.”
+
+Mr. Biden has also picked tech critics for key administration roles. Tim Wu, a law professor who supports a breakup of Facebook, joined the White House last month, while Lina Khan, a law professor who has been influential on tech antitrust, was nominated to a seat on the Federal Trade Commission.
+
+In Brussels, European Union officials are working on new laws to force Facebook, Twitter and YouTube to speedily remove toxic material and disclose more information about what they allow on their sites. A proposed antitrust law would also lower the threshold for intervention against platforms.
+
+European officials are also taking aim at emerging technologies before they become mainstream. Draft regulations, to be released on Wednesday, will address the risks of artificial intelligence, potentially restricting how companies use the software to make decisions and influence people’s behavior.
+
+“As the power of digital platforms has grown, it’s become increasingly clear that we need something more to keep that power in check,” Margrethe Vestager, the European Commission executive vice president overseeing digital policy, said in a recent speech.
+
+Some tech companies have issued legal threats and ultimatums against the new rules. But they have also bowed to government demands in several countries.
+
+Australia offers a glimpse of that. Over the last year, the country dueled with Google and Facebook over a proposed law that would require them to pay news publishers for content shared on their platforms. To protest the legislation, Google threatened to make its search engine unavailable in Australia. In February, Facebook blocked the sharing of news links completely.
+
+Tim Berners-Lee, the inventor of the World Wide Web and a critic of tech power, said he opposed the Australian law because people would not be able to link freely on the web. He called that “inconsistent with how the web has been able to operate over the past three decades.”
+
+Australia passed the law anyway. Facebook and Google are now paying some media companies for news.
+
+The starkest turn against the tech companies has been in China. For years, Beijing blocked foreign websites and policed content on domestic platforms, but let homegrown tech firms like Alibaba and Tencent buy rivals, develop new products and expand.
+
+That changed last year. In regulatory and legal proposals, Beijing telegraphed its desire to bring to heel an industry characterized by cutthroat competition and huge influence over sensitive political issues like labor and data security.
+
+Even so, few were prepared for the whip-crack speed of Beijing’s enforcement. In November, officials halted Ant’s initial public offering days before it was scheduled, then opened the antimonopoly investigation into Alibaba in December. The one-two punch was a shocking blow to Jack Ma, Alibaba’s founder and an entrepreneurial icon, who in October had riled state media after he likened state-run banks to pawnshops.
+
+Beijing ratcheted up pressure on Mr. Ma’s companies this month with the $2.8 billion fine of Alibaba. On April 12, China also ordered Ant to undergo a “rectification plan” to change the way it runs investment and credit products.
+
+The next day, regulators summoned 34 of China’s largest internet firms, including Tencent and ByteDance, the owner of the video site TikTok, and instructed them to “give full play to the cautionary example of the Alibaba case.” The companies were given a month to conduct a self-inspection and publicly promise to curb anticompetitive behavior and follow Chinese laws on everything from data protection and taxes to speech.
+
+Within a day, ByteDance had pledged to “actively follow the guidance of law enforcement.” Baidu, a search engine, vowed to “resolutely curb false propaganda.”
+
+“China’s leaders take very seriously having a subservient, quiescent private sector,” said Jude Blanchette, a China scholar at the Center for Strategic and International Studies in Washington.
+
+Even before the meeting, at least one Chinese tech executive had gotten the message. On a call with analysts last month, Martin Lau, Tencent’s president, struck a conciliatory tone toward the authorities.
+
+“I think it’s important for us to understand even more about what the government is concerned about,” he said. Tencent, he added, will “be even more compliant.”
+--
+4/21
+Welcome to the YOLO Economy
+Burned out and flush with savings, some workers are quitting stable jobs in search of postpandemic adventure.
+
+Something strange is happening to the exhausted, type-A millennial workers of America. After a year spent hunched over their MacBooks, enduring back-to-back Zooms in between sourdough loaves and Peloton rides, they are flipping the carefully arranged chessboards of their lives and deciding to risk it all.
+
+Some are abandoning cushy and stable jobs to start a new business, turn a side hustle into a full-time gig or finally work on that screenplay. Others are scoffing at their bosses’ return-to-office mandates and threatening to quit unless they’re allowed to work wherever and whenever they want.
+
+They are emboldened by rising vaccination rates and a recovering job market. Their bank accounts, fattened by a year of stay-at-home savings and soaring asset prices, have increased their risk appetites. And while some of them are just changing jobs, others are stepping off the career treadmill altogether.
+
+If this movement has a rallying cry, it’s “YOLO” — “you only live once,” an acronym popularized by the rapper Drake a decade ago and deployed by cheerful risk-takers ever since. The term is a meme among stock traders on Reddit, who use it when making irresponsible bets that sometimes pay off anyway. (This year’s GameStop trade was the archetypal YOLO.) More broadly, it has come to characterize the attitude that has captured a certain type of bored office worker in recent months.
+
+To be clear: The pandemic is not over, and millions of Americans are still grieving the loss of jobs and loved ones. Not everyone can afford to throw caution to the wind. But for a growing number of people with financial cushions and in-demand skills, the dread and anxiety of the past year are giving way to a new kind of professional fearlessness.
+
+I started hearing these stories this year when several acquaintances announced that they were quitting prestigious and high-paying jobs to pursue risky passion projects. Since then, a trickle of LinkedIn updates has turned into a torrent. I tweeted about it, and dozens of stories poured into my inboxes, all variations on the same basic theme: The pandemic changed my priorities, and I realized I didn’t have to live like this.
+
+Brett Williams, 33, a lawyer in Orlando, Fla., had his YOLO epiphany during a Zoom mediation in February.
+
+“I realized I was sitting at my kitchen counter 10 hours a day feeling miserable,” he said. “I just thought: ‘What do I have to lose? We could all die tomorrow.’”
+
+So he quit, leaving behind a partner position and a big-firm salary to take a job at a small firm run by his next-door neighbor, and to spend more time with his wife and dog.
+
+“I’m still a lawyer,” he said. “But I haven’t been this excited to go to work in a long time.”
+
+Olivia Messer, a former reporter for The Daily Beast, also quit in February, after realizing that a year of covering the pandemic had left her exhausted and traumatized.
+
+“I was so drained and depleted that I didn’t feel like I knew how to do my job anymore,” she said. So Ms. Messer, 29, announced her departure and moved from Brooklyn to Sarasota, Fla., near her parents. Since then, she has been doing freelance writing as well as pursuing hobbies like painting and kayaking.
+
+She acknowledged that not all people could uproot themselves so easily. But she said the change had been restorative. “I have this renewed creative sense about what my life could look like, and how fulfilling it can be,” she said.
+
+If “languishing” is 2021’s dominant emotion, YOLOing may be the year’s defining work force trend. A recent Microsoft survey found that more than 40 percent of workers globally were considering leaving their jobs this year. Blind, an anonymous social network that is popular with tech workers, recently found that 49 percent of its users planned to get a new job this year.
+
+“We’ve all had a year to evaluate if the life we’re living is the one we want to be living,” said Christina Wallace, a senior lecturer at Harvard Business School. “Especially for younger people who have been told to work hard, pay off your loans and someday you’ll get to enjoy your life, a lot of them are questioning that equation. What if they want to be happy right now?”
+
+Fearful of an exodus, employers are trying to boost morale and prevent burnout. LinkedIn recently gave the majority of its employees a paid week off, while Twitter employees have been given an extra day off per month to recharge under a program called #DayofRest. Credit Suisse gave its junior bankers $20,000 “lifestyle allowances,” while Houlihan Lokey, another Wall Street firm, gave many of its employees all-expenses-paid vacations.
+
+Raises and time off may persuade some employees to stay put. But for others, stasis is the problem, and the only solution is radical change.
+
+“It feels like we’ve been so locked into careers for the past decade, and this is our opportunity to switch it up,” said Nate Moseley, 29, a buyer at a major clothing retailer.
+
+Mr. Moseley recently decided to leave his $130,000-a-year job before June 1 — the date his company is requiring workers to return to the office.
+
+He created an Excel spreadsheet called “Late 20s Crisis,” which he filled with potential options for his next move: Take a coding class, start mining Ethereum, join a 2022 political campaign, move to the Caribbean and open a tourism business. He looks at it regularly, he said, adding new pros and cons for each option.
+
+“The idea of going right back to the pre-Covid setup sounds so unappealing after this past year,” he said. “If not now, when will I ever do this?”
+
+Disillusioned workers with money to spare have always gone soul-searching. And it’s possible that some of these YOLOers will end up back in stable jobs if they spend through their savings, or their new ventures fizzle. But a daredevil spirit seems to be infecting even the kinds of risk-averse overachievers who typically cling to the career ladder.
+
+In part, that’s because more people than ever can afford to take a risk these days. Stimulus checks, enhanced unemployment benefits and a stock market boom have given many workers bigger safety nets. Many sectors now face severe labor shortages, meaning that workers in those fields can easily find new jobs if they need them. (Not all of these are high tech; many restaurants and trucking companies, for example, are struggling to fill open jobs.) U.S. job openings rose to a two-year high in February, and economists and business owners expect more turnover in the months ahead, as workers who stayed put during the pandemic start emerging from their bunkers.
+
+“Lots of things were on hold during the pandemic,” said Jed Kolko, the chief economist at Indeed.com. “To some extent, we’re seeing a year’s worth of big life changes starting to accelerate now.”
+
+In addition to the job-hopping you’d expect during boom times, the pandemic has created many more remote jobs, and expanded the number of companies willing to hire outside of big, coastal cities. That has given workers in remote-friendly industries, such as tech and finance, more leverage to ask for what they want.
+
+“Employees have a totally unprecedented ability to negotiate in the next 18 to 48 months,” said Johnathan Nightingale, an author and a co-founder of Raw Signal Group, a management training firm. “If I, as an individual, am dissatisfied with the current state of my employment, I have so many more options than I used to have.”
+
+Individual YOLO decisions can be chalked up to many factors: cabin fever, low interest rates, the emergence of new get-rich-quick schemes like NFTs and meme stocks. But many seem related to a deeper, generational disillusionment, and a feeling that the economy is changing in ways that reward the crazy and punish the cautious.
+
+Several people in their late 20s and early 30s — mostly those who went to good schools, work in high-prestige industries and would never be classified as “essential workers” — told me that the pandemic had destroyed their faith in the traditional white-collar career path. They had watched their independent-minded peers getting rich by joining start-ups or gambling on cryptocurrencies. Meanwhile, their bosses were drowning them in mundane work, or trying to automate their jobs, and were generally failing to support them during one of the hardest years of their lives.
+
+“The past year has been telling for how companies really value their work forces,” said Latesha Byrd, a career coach in Charlotte, N.C. “It has become challenging to continue to work for companies who operate business as usual, without taking into account how our lives have changed overnight.”
+
+Ms. Byrd, who primarily coaches women of color in fields like tech, finance and media, said that in addition to suffering from pandemic-related burnout, many minority employees felt disillusioned with their employers’ shallow commitments to racial justice.
+
+“Diversity, equity and inclusion are extremely important now,” she said. “Employees want to know, ‘Is this company going to support me?’”
+
+Not every burned-out worker will quit, of course. For some, an extended vacation or a more flexible workweek might quell their wanderlust. And some workers might find that returning to an office helps restore balance in their lives.
+
+But for many of those who can afford it, adventure is in the air.
+
+One executive at a major tech company, who spoke on the condition of anonymity because she was not authorized to talk to the media, said she and her husband had both been discussing quitting their jobs in recent weeks. The pandemic, she said, had taught them that they’d been playing it too safe with their life choices, and missing out on valuable family time.
+
+The executive then sent me a quote from the Buddha about impermanence, and the value of realizing that nothing lasts forever. Or, to put it in slightly earthier terms: YOLO.
+--
+4/22
+Why Europe Is Hard on Big Tech
+It may be a choice to make rules for technology too early rather than too late.
+
+Europe is the global capital of tech backlash.
+
+The authorities there have taken tech companies to task over dodging taxes, stalking our data, crushing competition and letting people blare dangerous lies online. This week regulators sketched out limits on what are so far mostly hypothetical harms from artificial intelligence technology.
+
+Here are possible explanations for why Europe is so hard on tech companies: It might be scapegoating American giants for Europe’s status as a technology backwater, and overreach of clueless government bureaucrats. But European authorities also repeatedly choose to risk making too many rules for technology rather than too few.
+
+The European approach might be visionary, or it might kill helpful innovation in the cradle. It is definitely a real-world laboratory of what technology might look like with far more guardrails.
+
+On Wednesday, my colleague Adam Satariano wrote about proposed new rules in Europe to regulate high-stakes uses of artificial intelligence, including in self-driving cars, bank lending, test scoring and criminal justice. (Reminder: A.I. is the term for a collection of concepts that allow computer systems to vaguely work like the brain.)
+
+Some uses of A.I. would be banned, with exceptions, such as live facial-recognition software in public spaces. In other areas, the draft rules would require companies to assess the risks of their technology, document how it makes decisions and generally be open with the public about what’s going on under the A.I. hood.
+
+It will take years before any of this could become law. But European authorities are showing that they want to imagine what might go wrong with the technology and try to stop it — in some cases before A.I. is in wide use.
+
+“The potential harm of A.I. is very great. It’s a technology that has humanlike decision making, and problems around bias are well documented,” Adam told me. “On the other hand the harms are still mostly hypothetical. How do you regulate it?”
+
+The choice to regulate first is not typically how we do things in the United States. Yes, some U.S. jurisdictions have banned or limited the use of facial recognition by law enforcement, and many states have set safety rules for companies that want to test driverless cars on public roads. But mostly, we tend to wait for something bad to happen and then try to do something about it.
+
+The American-style wait-and-see approach to regulation means that new ideas have fewer barriers to becoming reality. But we’ve also seen the risks of failing to plan for the downsides of technology.
+
+With the relatively hands-off approach to technology, companies like Facebook and Google thrived. But maybe they now have too much influence. Likewise, Uber and Lyft were able to operate without too many rules, and changed how many of us use transportation and offered new types of work. But we all must also deal with the problems those companies created, such as increased congestion and low-wage jobs.
+
+In the United States in particular, governments, the public and tech companies have often not given enough consideration to what could go wrong.
+
+It’s impossible to say if the European approach is wise or misguided. Regulating tech is also easier in Europe, which has relatively few homegrown tech giants that would be hurt by onerous rules. (And the United States may be moving closer to Europe on some issues of tech regulation.)
+
+Adam also told me that European technology regulation hasn’t been very effective because of poor enforcement or clumsy implementation. Sometimes misguided regulation can be destructive — maybe worse than no regulation at all. Online hate speech laws in several European countries, for example, have given cover to countries to enact censorship laws.
+
+Europe and the United States have been, in a way, on opposite sides of a big question: Is it riskier to regulate too little or too much?
+--
+4/23
+Emily Ratajkowski Is Selling an NFT at Christie’s
+The artist Richard Prince appropriated her image for his work. Now she’s doubling back on it for one of her own.
+
+In an effort to re-establish “authority” over the usage of her likeness, Emily Ratajkowski, the model and writer, is minting a nonfungible token, or NFT, which will be auctioned at Christie’s on May 14. The piece will be titled “Buying Myself Back: A Model for Redistribution.”
+
+As Ms. Ratajkowski chronicled in a widely read essay published in The Cut last fall, she’d been surprised to find out, in 2014, that a nude photograph of herself was hanging in the Gagosian Gallery on Madison Avenue. As part of his “New Portraits” series, the artist Richard Prince had taken one of her Instagram photos and printed it on a large canvas, priced at $90,000.
+
+Ms. Ratajkowski tried to buy the piece but a Gagosian employee bought it for himself. After contacting Mr. Prince’s studio directly, though, she was able to obtain a second “Instagram painting” of herself, featuring a photo from her first appearance in Sports Illustrated’s swimsuit issue. She had been paid $150 for the shoot, she wrote, and a “couple grand” when the issue was published. She and her boyfriend at the time bought the piece for $81,000; when they broke up, she paid her ex $10,000 for a smaller “study” that Mr. Prince’s studio had given her.
+
+The image attached to the NFT is a digital composite showing Ms. Ratajkowski, photographed in her New York apartment, posing in front of the Richard Prince painting that hangs in her Los Angeles home. (To remind: a nonfungible token is the metadata associated with the image file, allowing the file to be bought or sold like a physical piece of art.)
+
+Instead of cash-based currency, NFTs are purchased using cryptocurrency like Bitcoin or Ethereum, and the transactions are permanently recorded on the respective currency’s blockchain, which functions like a ledger. Ms. Ratajkowski is using the platform OpenSea to add her NFT to the Ethereum blockchain, but her NFT will be for sale in U.S. dollars, and the fund transfer will happen “off-chain,” a Christie’s spokeswoman said. There is no reserve, or starting, price on the piece.
+
+In March, after the artist Beeple’s $69.3 million NFT sale at Christie’s, talent agents started encouraging their celebrity clients to participate in the NFT “money grab,” Ms. Ratajkowski said in an interview. Brands and cryptocurrency brokers contacted her directly, she said, offering her 20 percent to 60 percent of profits for an NFT featuring her likeness. “I had this bad feeling in my stomach about that way of approaching it,” she said, so she decided to develop her own project — following another prominent model, Kate Moss.
+
+As Ms. Ratajkowski browsed NFT marketplaces like OpenSea, Foundation and SuperRare, she came across bouncing smiley-face GIFs and 3-D renderings, thinking to herself: “Why are they NFTs? They don’t need to be NFTs.”
+
+Because an NFT is less about the image itself and more the concept of ownership over a digital file, Ms. Ratajkowski realized the medium could be an effective way to make a statement about ownership — by appropriating Mr. Prince’s appropriation of her photo.
+
+“As somebody who has built a career off of sharing my image, so many times — even though that’s my livelihood — it’s taken from me and then somebody else profits off of it,” she said. Every time her NFT is resold, she will receive an undisclosed cut. “To me, this digital marketplace is a way to communicate this specific idea that couldn’t exist in a different way.”
+
+Mr. Prince, who did not respond to messages sent through Gagosian and his studio manager, has been using other artists’ work in his own work since the 1980s, and he made a name for himself by taking photos of existing photographs. His work has long been controversial, and Ms. Ratajkowski is not the first subject to take issue with the “New Portraits” series of Instagram appropriations.
+
+In 2015, Selena Mooney, the founder of the erotic website SuicideGirls, sold $90 copies of a piece by Mr. Prince that features one of her Instagram posts, with proceeds going to the Electronic Frontier Foundation, a digital rights group.
+
+“If I had a nickel for every time someone used our images without our permission in a commercial endeavor I’d be able to spend $90,000 on art,” Ms. Mooney wrote on Instagram. Another subject, the sex educator Zoë Ligon, told Artnet she felt “violated” by Mr. Prince’s use of her selfie in 2019.
+
+Mr. Prince has also been sued at least five times over copyright infringement relating to the “New Portraits” series, The New York Times has reported, including two high-profile lawsuits filed by two photographers, Donald Graham and Eric McNatt. Mr. McNatt claimed that Mr. Prince misused a photo of Kim Gordon he shot for Paper magazine. According to court documents, he was paid between $50 and $100 for the shoot.
+
+The art critic Jerry Saltz, who called “New Portraits” “genius trolling” in a 2014 review, worked with Kenny Schachter, an artist and art-world gadfly, to produce an NFT of the disputed Kim Gordon image in early April. Ms. Gordon chimed in and wrote that she wondered if Mr. McNatt “will sue you too?” on Mr. Schachter’s Instagram post.
+
+
+Casey Reas, an artist and professor at the University of California, Los Angeles who has dealt in NFTs for five years, noted they could be of particular appeal to content creators, whose images are so often replicated far beyond their control.
+
+“With things in the physical, material world, ownership is pretty clear, but with digital files, it’s always been sort of a fuzzy area,” he said. “NFTs allow one person to have clear, public ownership over a digital thing, like an image or a video.”
+
+However, those pieces of media can still go viral. “The work itself is not scarce,” Mr. Reas said. “That image can still circulate around the internet, but ownership is the thing that the NFT allows somebody to claim.” Like a physical painting, the original artist still retains copyright; unlike a physical painting, every time an NFT changes hands, the original artist gets royalties.
+
+To Ms. Ratajkowski there’s another potential dividend: moral justice. She said that after her article was published, models started reaching out to discuss “not just their image being used, but their bodies being misused, and used for profit in ways they didn’t consent to,” she said, a topic she explores in an upcoming essay collection, “My Body,” which Metropolitan Books is planning to publish in October. Across fashion, film and the art world, she added, young women are made to “feel like they don’t need to be paid properly.”
+
+And she said cryptocurrency experts warned her: “People are going to use your image in NFTs in one way or another, so you might as well make one.”
+--
+4/24
+English Soccer Will Boycott Social Media to Protest Online Abuse
+The boycott, set to begin on Friday, is the most direct effort yet by a sport to pressure social media companies like Twitter, Instagram and Facebook to take action against abuse.
+
+English soccer will conduct a social media blackout this weekend to protest “the ongoing and sustained discriminatory abuse received online by players and many others connected to football.”
+
+The boycott has the support of a coalition of groups, including the Premier League, the richest and most high profile soccer league in the world, but also England’s soccer federation; the top two professional tiers of men’s and women’s soccer; referees; the country’s players union, and others.
+
+The action is the most direct effort yet by a sport to pressure social media companies like Twitter, Instagram and Facebook to take action against online abuse, and comes after a season in which players, clubs, team executives, referees, female commentators and others have been the targets of abuse.
+
+On Wednesday, cricket officials in England and Wales said they would join the boycott.
+
+Cases of harassment have been well documented online. In February, Arsenal striker Eddie Nketiah posted a picture on Twitter with the caption “Working with a smile!”
+
+The tweet was met with racist abuse from a Twitter user who told Nketiah, who is Black, to leave the club. Twitter responded by permanently suspending the user’s account, Sky Sports reported.
+
+Such harassment has been instigated not only by fans, but also by club social media accounts. In December, the commentator and former soccer player Karen Carney deleted her Twitter account after she received a wave of online abuse.
+
+After a 5-0 win by Leeds United over West Brom, Carney on Amazon Prime Video Sport wondered whether Leeds would “blow up at the end of the season.” A clip of her commentary was shared by the Leeds team Twitter account, which invited a slew of hateful messages toward Carney.
+
+Many on Twitter defended her and criticized the team’s social media folks, including the former Leeds captain Rio Ferdinand, who called for the tweet to be deleted.
+
+Bethany England, a forward for Chelsea, called out Leeds’ social media team for “atrocious behaviour.”
+
+“Cyber bullying a female pundit and opening her up to mass online abuse for DOING HER JOB AND HAVING HER OPINION!” England said.
+
+In February, the top executives of the Football Association — English soccer’s governing body — the Premier League, and other organizations wrote an open letter to Jack Dorsey, Twitter’s chief executive, and Mark Zuckerberg, the C.E.O. of Facebook, calling for the leaders to put an end to “the levels of vicious, offensive abuse” coming from users on their platforms.
+
+“The reality is your platforms remain havens for abuse,” the soccer executives wrote. “Your inaction has created the belief in the minds of the anonymous perpetrators that they are beyond reach.”
+
+In the past, Instagram, Facebook, and Twitter have taken steps, such as banning users temporarily or permanently, but the issues of online abuse have persisted.
+
+In a news release last week announcing the social media boycott, which will take place from Friday afternoon through Monday, English soccer called on the United Kingdom to “bring in strong legislation to make social media companies more accountable for what happens on their platforms.”
+
+In the statement, Richard Masters, the Premier League’s chief executive, said the league would continue to push social media companies to make changes to prevent online abuse.
+
+“Racist behaviour of any form is unacceptable and the appalling abuse we are seeing players receive on social media platforms cannot be allowed to continue,” Masters said. “Football is a diverse sport, which brings together communities and cultures from all backgrounds and this diversity makes the competition stronger.”
+
+It’s not the first time soccer has tried to shine a light on racism.
+
+Players and coaches in the Premier League and other top leagues, for example, have been kneeling before kickoffs all season in a show of support for the Black Lives Matter movement — at the encouragement of the league’s team captains and with the support of league officials.
+
+But some players and even entire teams, frustrated with a lack of concrete progress on racial issues and feeling the gesture has become more performative than productive, have recently stopped taking part.
+
+Crystal Palace forward Wilfried Zaha said he had come to see the kneeling as “degrading,” and said he would stop doing it and would focus his efforts elsewhere. Brentford, a team in England’s second-tier Championship, in February stopped taking a knee before games. While the players said in a statement that they still supported antiracism efforts, they said, “We believe we can use our time and energies to promote racial equality in other ways.”
+
+The social-media blackout will take place while an entire slate of games in multiple leagues will be played, including one between Manchester United and Liverpool, the Premier League’s defending champion.
+
+Edleen John, director of international relations for the Football Association, said English soccer will not stop pressing for change after next weekend.
+
+“It’s simply unacceptable that people across English football and society more broadly continue to be subjected to discriminatory abuse online on a daily basis, with no real-world consequences for perpetrators,” John said. “Social media companies need to be held accountable if they continue to fall short of their moral and social responsibilities to address this endemic problem.”
+--
+4/25
+‘Nothing Short of Amazing’: NASA Mars Helicopter Makes Longest Flight Yet
+Ingenuity made a 328-foot round-trip journey, helping to demonstrate the capability of the vehicle’s navigation system.
+
+NASA’s Mars helicopter went up again, going faster and traveling a total distance that was about the length of an American football field on its third trip through the wispy air of Mars.
+
+Like the first two flights, the small experimental flying robot, named Ingenuity, perfectly executed its instructions from Earth. At 1:31 a.m. Eastern time — 12:33 p.m. local Mars time — it lifted 16 feet off the ground, then flew a round-trip distance of 328 feet before landing back where it started.
+
+That was about 25 times as far as the second flight flew three days ago. The helicopter reached a top speed of 4.5 miles per hour, and the flight lasted about one minute and 20 seconds.
+
+The flight was a test of the helicopter’s navigation system, which visually keeps track of its location by comparing ground features recorded by its onboard camera. The farther it traveled, the more images its camera had to take to remember the landscape below. If it flew too fast, the helicopter could lose track of where it was.
+
+“This is the first time we’ve seen the algorithm for the camera running over a long distance,” MiMi Aung, the helicopter’s project manager, said in a NASA news release. “You can’t do this inside a test chamber.”
+
+Ingenuity, about 1.6 feet tall, is an $85 million project to demonstrate that controlled flight, like an airplane or a helicopter, is feasible on Mars, where the atmosphere at the surface is just 1 percent of Earth’s.
+
+It was tacked on to Perseverance, NASA’s latest Mars rover, which arrived on the red planet in February. Before Perseverance heads off on its main mission — to seek hints of ancient life in a dried-up river delta — the Ingenuity team has 30 Martian days, or about 31 Earth days, to complete five test flights of the helicopter.
+
+“Today’s flight was what we planned for, and yet it was nothing short of amazing,” said Dave Lavery, the helicopter project’s program executive. “With this flight, we are demonstrating critical capabilities that will enable the addition of an aerial dimension to future Mars missions.”
+
+Last Monday, Ingenuity made history as the first powered aircraft to fly on another planet. The first flight was a short one: a simple up-and-down that totaled 39.1 seconds off the ground. The second flight, on Thursday, went a bit higher and made a short lateral move.
+
+With the success of the first three flights, the helicopter’s engineers have a bit more than a week to complete the final two, which will further push Ingenuity’s capabilities. Ms. Aung, the project’s manager, said after the first flight last week that she hoped the final one would travel as far as some 2,300 feet from its starting point.
+
+The fourth flight will take off in a few days, NASA said.
+
+There are currently no plans to put a second helicopter on Mars. But Bob Balaram, the project’s chief engineer, said he and his colleagues had begun sketching out designs for a larger Mars helicopter capable of carrying some 10 pounds of science equipment.
+--
+4/26
+Tesla Profit Hits a Quarterly Record
+The electric-car maker’s performance reflected increasing sales and production around the world.
+
+Tesla announced a solid quarterly financial performance on Monday reflecting continuing increases in sales and production around the world.
+
+The electric-car maker reported earnings of 39 cents per share in the first quarter. That was a significant increase from the 24 cents per share it reported for the fourth quarter of 2020. A year ago, it earned just 2 cents per share in the first quarter as the coronavirus pandemic hurt sales and forced the shutdown of its plant in Fremont, Calif.
+
+The quarterly profit of $438 million was Tesla’s highest ever.
+
+Tesla’s chief executive, Elon Musk, suggested further growth in the coming quarters, saying he believed the Model Y, the company’s small sport utility vehicle, would become one of the world’s top sellers. “There’s a lot to be excited about in 2021 and 2022,” he said on a conference call with analysts after the results were announced.
+
+Like other automakers, Tesla has struggled with a chip shortage, “one of the most difficult supply-chain challenges we’ve experienced,” Mr. Musk said. But he said the company was able to switch to chips that were easier to acquire.
+
+Earlier this month, Tesla said it delivered a record 184,800 cars in the first three months of the year, more than double the total from the comparable period in 2020.
+
+“Tesla continues to see growing pent-up demand throughout China and Europe,” Dan Ives, a Wedbush analyst, wrote in a report to investors before the Monday announcement. In the United States, the Biden administration’s push to reduce greenhouse gas emissions and to support sales of electric vehicles is likely to help sustain demand for Tesla’s cars, Mr. Ives added.
+
+Although down from recent highs, Tesla shares are more than five times as valuable than they were a year ago. The stock declined more than 2 percent in extended trading after the earnings announcement, evidently because the results fell short of even higher expectations among some analysts.
+
+The earnings news comes as Tesla is facing increasing questions about the safety of its Autopilot driver assistance system. Two men were killed this month in Texas when the Tesla Model S they were riding in crashed into a tree on a residential street and burst into flames. The local police said one man was found in the passenger seat and the other in the rear seat, with no one at the steering wheel when the crash occurred.
+
+On the conference call on Monday, Tesla’s chief engineer, Lars Moravy, said Tesla had examined the car with local and federal investigators and found the steering wheel was deformed, suggesting that someone was in the driver’s seat at the time of the crash. All of the seatbelts were unbuckled, he added. Autopilot is supposed to disengage if the driver’s seatbelt is unbuckled.
+
+Tesla has also come under scrutiny in China, where authorities have looked into reports from consumers about battery fires and sudden acceleration by Tesla vehicles.
+
+The company currently makes cars in Fremont and Shanghai. In its earnings report, it said it expected to begin production this year at factories it is building in Austin, Texas, and in Germany near Berlin.
+
+Tesla said it expected deliveries to increase more than 50 percent this year from the 500,000 vehicles it sold last year. Some analysts expect the year’s figure to reach 850,000 or more.
+
+The Austin plant is supposed to produce an angular, futuristic-looking pickup, known as the Cybertruck, and a battery-powered semi truck. The Tesla Semi is supposed to go into production later this year, the company said. It gave no specific timetable for Cybertruck production.
+
+Tesla said that it generated $293 million in cash in the quarter but that its cash on hand fell because it used $1.2 billion as part of its purchase of $1.5 billion of Bitcoin, the cryptocurrency. It used another $1.2 billion for debt and lease repayments.
+
